@@ -1,0 +1,17 @@
+[project]
+name = "wineretroengineering"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "baml-py>=0.211.2",
+    "dotenv>=0.9.9",
+    "openai>=2.6.1",
+    "pandas>=2.3.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+    "ruff>=0.14.2",
+]
