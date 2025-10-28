@@ -55,4 +55,4 @@ async def make_n_evaluations(n_evaluations: int) -> List[Dict[str, Any]]:
 if __name__ == "__main__":
     results = asyncio.run(make_n_evaluations(n_evaluations=50))
 
-    write_results_to_json(results=results, json_path=Path("../results/wine_with_pasta_bolognese_case.json"))
+    write_results_to_json(results=results, json_path=Path("results/wine_with_pasta_bolognese_case.json"))
