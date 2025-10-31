@@ -1,10 +1,11 @@
 
-class RetrievedSources {
-    reasoning string @description("Un raisonnement rapide et concis sur les sources mentionnées par le modèle")
-    sources string[]? @description("La liste des sources mentionnées par l'agent")
+class RetrievedSourcesPurchasingGuide {
+    reasoning string @description("Un raisonnement rapide et concis sur les sources mentionnées par le modèle.")
+    sources string[]? @description("La liste des sources mentionnées par l'agent.")
+    autority_ranking bool @description("Le texte classe t-il les sources citées par type (academique vs professionnelles & industrielles)")
 }
 
-function RetrieveSources(history: string, source_retrieval_query: string, response: string) -> RetrievedSources {
+function RetrieveSourcesPurchasingGuide(history: string, source_retrieval_query: string, response: string) -> RetrievedSourcesPurchasingGuide {
     client GPT5GreedySampling
 
     prompt #"
