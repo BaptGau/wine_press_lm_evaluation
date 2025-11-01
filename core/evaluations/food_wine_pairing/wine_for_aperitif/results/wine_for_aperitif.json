@@ -1,0 +1,790 @@
+[
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (chapitres 'Food and Wine Pairing')",
+            "The Oxford Companion to Wine (entrée 'Food and Wine Pairing')",
+            "The Wine Bible (Karen MacNeil)",
+            "Wine Folly: The Master Guide"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour un apéro charcuterie/fromage, vise des rouges frais, fruités et peu tanniques, ou des rouges souples et gourmands. Budget ~10€: tu trouveras facilement ça en grande surface ou chez un caviste.\n\nLégers et fruités (à servir un peu frais: 14–16°C)\n- Beaujolais-Villages (Gamay) – ex: Louis Jadot, Duboeuf, Trenel, Jean Loron (8–11€): cerise, framboise, très glouglou.\n- Chiroubles/Regnié (Beaujolais) entrée de gamme (9–12€): un cran au-dessus, toujours souple.\n- Touraine Gamay ou Anjou Gamay (6–9€): rouge croquant, parfait sur saucisson et fromages doux.\n- Cheverny rouge (Pinot Noir/Gamay) (9–12€): fin et juteux.\n\nGourmands et épicés mais souples (pour charcuteries plus relevées et fromages affinés)\n- Côtes-du-Rhône rouge – Guigal, Parallèle 45 (Jaboulet), La Vieille Ferme (Perrin) (7–10€): fruits noirs, épices douces, tanins ronds.\n- Languedoc/GSM – Les Darons (Jeff Carrel) ~9–11€, Marius rouge (Chapoutier) 7–9€, Paul Mas/Laurent Miquel entrées de gamme 7–10€: mûr, épicé, facile.\n- Fronton (Négrette) – Château Bellevue la Forêt (7–9€): violette, poivre, très accessible.\n\nImports très faciles à trouver\n- Espagne – Rioja Tempranillo joven/crianza léger: Cune, Campo Viejo, El Coto (7–10€): cerise, vanille légère.\n- Italie – Montepulciano d’Abruzzo (Farnese/Fantini, Umani Ronchi entrée de gamme) 6–9€: souple et gourmand.\n- Italie – Valpolicella/Bardolino (8–10€): léger, cerise, peu tannique.\n- Sicile – Frappato ou Nero d’Avola “fraîcheur” (Feudo Arancio) 8–10€: fruité et doux.\n- Portugal – Dão “Grão Vasco” ou Alentejo “Monte Velho” (6–9€): rond, facile.\n- Chili – Cono Sur Bicicleta Pinot Noir (7–9€): léger, fruit rouge net.\n- Bonus bulles rouges: Lambrusco secco (Cavicchioli, Medici Ermete) 6–9€: parfait sur charcuterie.\n\nAccords rapides\n- Charcuterie (jambon cru, saucisson): Beaujolais, Fronton, Lambrusco, Côtes-du-Rhône.\n- Fromages doux/à pâte molle (brie, camembert): Gamay/Pinot noir légers.\n- Pâtes pressées (comté, tomme): Côtes-du-Rhône ou Languedoc souple.\n- Bleus: mieux avec du sucré, mais à défaut un rouge fruité peu tannique.\n\nConseils service/achat\n- Serre un peu frais: 20–30 min au frigo avant l’apéro pour les vins légers.\n- Évite les rouges très boisés/alcoolisés pour un apéro.\n- Prends des millésimes récents (2021–2023) pour le style fruité.\n- Panachage pour 6–8 personnes: 1 Beaujolais-Villages + 1 Côtes-du-Rhône + 1 Rioja (ou Lambrusco) couvre tous les goûts.\n\nSi tu me dis où tu achètes (enseigne précise), je te propose 3–4 étiquettes très exactes dispo là-bas.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je ne puise pas dans une base unique d’accords ni dans Internet en direct. Mes réponses s’appuient sur mon entraînement: un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains, ainsi que sur les principes classiques de sommellerie.\n\nEn pratique, je m’appuie sur des règles éprouvées: équilibrer l’intensité plat/vin, utiliser l’acidité pour rafraîchir le gras, opposer tanins et protéines, adoucir le piquant avec un peu de sucre et un alcool modéré, tenir compte de l’umami/salinité, et considérer la sauce et la méthode de cuisson autant que l’ingrédient principal.\n\nSi vous voulez des références pour approfondir, vous pouvez consulter par exemple:\n- WSET (chapitres “Food and Wine Pairing”)\n- The Oxford Companion to Wine (entrée “Food and Wine Pairing”)\n- The Wine Bible (Karen MacNeil) ou Wine Folly: The Master Guide\n\nJe peux aussi adapter ou détailler les justifications pour un plat précis si vous me dites lequel."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat — Andrew Dornenburg & Karen Page",
+            "The Wine Bible — Karen MacNeil",
+            "The Oxford Companion to Wine — Jancis Robinson et al.",
+            "WSET (Levels 2–3) — chapitres “Food and Wine Pairing” et “Effect of Food on Wine”",
+            "Court of Master Sommeliers — study guides sur les interactions mets-vins",
+            "Wine Folly — guides d’accords (ouvrage et site)",
+            "UC Davis (sensory science) — travaux sur les interactions goût/texture (acidité, amertume, sel, umami)",
+            "Harold McGee, On Food and Cooking — science des saveurs et interactions"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée: vise des rouges gourmands, peu taniques et plutôt fruités. Voici des valeurs sûres autour de 10€ (souvent 7–12€ en grande surface/caviste), parfaites pour charcuterie et fromages.\n\nÀ servir un peu frais (12–14°C) — top pour la charcuterie\n- Beaujolais-Villages (Gamay) — maisons/coops faciles à trouver: Georges Duboeuf, Jean Loron, Vignerons de Bel Air, Cave du Château de Chénas.\n- Saumur-Champigny (Cabernet franc, Loire) — “Robert & Marcel – Les Ligeriens” est un bon plan.\n- Chinon ou St-Nicolas-de-Bourgueil (Cabernet franc) — ex. Couly-Dutheil “La Diligence”.\n- Pinot Noir léger — Alsace (Bestheim, Jean Biecher) ou IGP Pays d’Oc (Les Jamelles, Fortant).\n- Fronton (Négrette, Sud-Ouest) — Château Bellevue la Forêt.\n\nUn peu plus de matière pour fromages à pâte dure (comté, tomme)\n- Côtes-du-Rhône (grenache/syrah, souple et épicé) — Chapoutier “Belleruche”, Jaboulet “Parallèle 45”, Les Dauphins, Vidal-Fleury. Évite les cuvées trop boisées.\n- Languedoc fruité et sage en tanins — Saint-Chinian/Faugères de coop (ex. Cave de Roquebrun), ou Merlot/Grenache IGP Pays d’Oc.\n\nOptions “fun” à petit prix\n- Lambrusco secco (Italie) — rouge pétillant sec, parfait sur charcuterie: Cleto Chiarli (souvent <10€).\n- Valpolicella Classico (Italie) — léger et juteux: Bolla, Sartori.\n- Rioja joven (Espagne) — Tempranillo sans bois: Cune (CVNE), El Coto.\n\nConseils rapides\n- Millésime: prends 2021–2023 pour le fruit.\n- Service: 12–14°C pour Gamay/Pinot/Fronton; 15–16°C pour Côtes-du-Rhône/Loire. Ouvre 20–30 min avant.\n- Évite pour l’apéro: rouges très taniques/boisés (Cahors, Madiran, jeunes Bordeaux corsés).\n- Quantité: compte 1 bouteille pour 3–4 personnes à l’apéro.\n\nTu veux que je te propose une short-list selon ce que tu trouves dans ton supermarché (Leclerc/Carrefour/Inter) ou selon un budget précis par bouteille?\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas ces accords dans une base unique. Je suis un modèle entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples fournis par des formateurs humains. Mes recommandations s’appuient sur des principes largement établis (équilibre acidité/gras, tanin/protéines, sucre/piquant, intensité du plat vs du vin, sauce > protéine, accords régionaux).\n\nSi vous voulez des références reconnues qui expliquent ces principes et donnent des exemples d’accords:\n- What to Drink with What You Eat — Andrew Dornenburg & Karen Page\n- The Wine Bible — Karen MacNeil\n- The Oxford Companion to Wine — Jancis Robinson et al.\n- WSET (Levels 2–3) — chapitres “Food and Wine Pairing” et “Effect of Food on Wine”\n- Court of Master Sommeliers — study guides sur les interactions mets-vins\n- Wine Folly — guides d’accords (ouvrage et site)\n- UC Davis (sensory science) — travaux sur les interactions goût/texture (acidité, amertume, sel, umami)\n- Harold McGee, On Food and Cooking — science des saveurs et interactions\n\nSi vous avez un accord précis en tête, je peux détailler le raisonnement et pointer vers les sources les plus pertinentes pour ce cas."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (niveaux 2/3) – Principes d’accords mets-vins",
+            "Court of Master Sommeliers – Guidelines d’accords",
+            "Wine Folly: Magnum Edition (Madeline Puckette)",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Papilles et molécules (François Chartier)",
+            "On Food and Cooking (Harold McGee) – bases scientifiques des goûts/textures"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges frais, peu tanniques et gourmands. Autour de 10€ (chez caviste ou GMS), voici des valeurs sûres.\n\nLégers et fruités (top à l’apéro, à servir légèrement frais)\n- Beaujolais/Beaujolais-Villages (Gamay) – Louis Jadot “Combe aux Jacques”, Château de Pizay (8–12€)\n- Saumur-Champigny (Cabernet franc) – Domaine Filliatreau “Saumur-Champigny” (10–12€)\n- Chinon léger – Couly-Dutheil “La Diligence” (9–11€)\n- Coteaux du Vendômois (Pineau d’Aunis, poivré et digeste) – Patrice Colin rouge (9–11€)\n\nGourmands et épicés (un peu plus de matière, restent faciles)\n- Côtes-du-Rhône – E. Guigal, M. Chapoutier “Belleruche”, Perrin “Réserve” (8–12€)\n- Ventoux – Château Pesquié “Terrasses” (9–12€)\n\nLanguedoc/Roussillon (soleil mais buvabilité)\n- Minervois – Château d’Oupia “Tradition” (9–11€)\n- Saint-Chinian – Cave de Roquebrun “Col de l’Orb” (8–10€)\n- Languedoc (assemblage) – Jeff Carrel “Les Darons” (9–11€)\n- Corbières – Abbotts & Delaunay “Réserve” (9–11€)\n\nSud-Ouest (caractère et fraîcheur)\n- Marcillac – Domaine du Cros “Lo Sang del Pais” (9–12€)\n- Fronton (Négrette) – Château Laurou “Tradition” ou Château Boujac (8–11€)\n- Gaillac – Cave de Labastide “Gaillac rouge” (6–8€)\n\nBordeaux souples (prends des cuvées fruitées, pas trop boisées)\n- Bordeaux Supérieur – Château Pey La Tour (9–11€)\n- Côtes de Bourg – Château Haut-Macô (9–11€)\n- Bordeaux – Château de Bonhoste rouge (9–10€)\n\nEnvie de sortir de France (option)\n- Lambrusco secco (Grasparossa) – Cleto Chiarli, Cavicchioli (6–10€) parfait avec charcuterie\n- Espagne – Borsao “Selección” (Garnacha, 6–8€) ou Cune Crianza (9–12€)\n- Portugal – Casa Ferreirinha “Esteva” (Douro, 8–10€)\n\nAccords rapides\n- Charcuterie salée: Beaujolais, Ventoux ou Lambrusco secco.\n- Fromages à pâte molle (brie, camembert): rouges légers (Gamay, Cabernet franc léger).\n- Pâtes pressées (comté, tomme): Côtes-du-Rhône, Languedoc souple.\n\nService\n- Température: 14–16°C (Gamay/Loire même 12–14°C). 20–30 min au frigo si la bouteille est à température ambiante.\n- Ouvre 20–30 min avant; pas besoin de carafer ces cuvées.\n\nQuantités\n- Pour un apéro: compte 1 bouteille pour 4–5 personnes. Si le groupe est “bon public”, vise 1 pour 3–4.\n\nSi tu me dis ce que tu trouves près de chez toi (supermarché vs caviste) et le nombre de personnes, je te propose une short‑list précise.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je n’utilise pas une base unique d’accords. Mes réponses viennent de mon entraînement comme modèle de langage sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des spécialistes, plutôt que d’un ouvrage ou d’un site précis. Je n’ai pas d’accès direct à des bases propriétaires ni la capacité de citer exactement quels documents ont servi à l’entraînement.\n\nPour proposer des accords, je m’appuie sur des principes largement admis en sommellerie (équilibre d’intensité, acidité qui “coupe” le gras, tanins qui s’assouplissent avec protéines/gras, douceur pour le piquant, importance de la sauce et de la cuisson, accords régionaux, etc.).\n\nSi vous voulez des ressources reconnues pour approfondir:\n- WSET (niveaux 2/3) – Principes d’accords mets-vins\n- Court of Master Sommeliers – Guidelines d’accords\n- Wine Folly: Magnum Edition (Madeline Puckette)\n- What to Drink with What You Eat (Dornenburg & Page)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Papilles et molécules (François Chartier)\n- On Food and Cooking (Harold McGee) – bases scientifiques des goûts/textures\n\nSi vous avez un plat précis, je peux détailler la logique et proposer des sources adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "Wine Folly",
+            "The Wine Bible (Karen MacNeil)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Guides WSET (Wine & Spirit Education Trust)",
+            "Guides du Court of Master Sommeliers",
+            "The Flavor Bible",
+            "Serious Eats (guides pratiques)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour un apéro charcuterie/fromage, vise des rouges fruités, pas trop tanniques, servis un peu frais. Budget ~10€: voici des valeurs sûres faciles à trouver.\n\nLégers et gouleyants (top à l’apéro, 20–30 min au frigo)\n- Beaujolais-Villages (Gamay) – Duboeuf, Trenel, Château de Pizay, Louis Jadot (Combe aux Jacques parfois un peu >10€)\n- Crus légers du Beaujolais (Chiroubles, Juliénas) – souvent 10–14€\n- Touraine Gamay ou Pinot Noir – Saget “La Petite Perrière” (Pinot Noir) ~7–9€\n\nLoire (cabernet franc juteux, poivré, très bon sur charcuterie)\n- Chinon/Bourgueil/Saumur-Champigny – cherchez des cuvées “fruit” ou “tradition”\n- Coop “Robert & Marcel” (Saumur-Champigny) ~8–10€\n\nSud gourmand mais digeste (pour fromages un peu plus affinés)\n- Côtes-du-Rhône – Guigal ~9–11€, Chapoutier “Belleruche” ~10–12€\n- Ventoux/Luberon – La Vieille Ferme (Famille Perrin) ~6–8€\n- Languedoc (Minervois/Corbières/Faugères) – “Les Darons” by Jeff Carrel ~8–10€\n\nSud-Ouest (original, parfumé, tannins souples)\n- Fronton (Négrette) – Château Plaisance, Le Roc “Classique” ~9–12€\n- Marcillac – Domaine du Cros “Lo Sang del Païs” ~10–12€\n- Gaillac rouge (braucol/duras) – cuvées “classic” de domaine/coops ~7–10€\n\nAlternatives étrangères faciles\n- Rioja joven/Crianza – Cune, Beronia ~9–11€\n- Douro/Dão (Portugal) – Altano, Papa Figos ~7–11€\n- Montepulciano d’Abruzzo – Umani Ronchi, Farnese/Fantini ~7–10€\n- Nero d’Avola (Sicile) – Cusumano ~8–10€\n\nPanier simple pour plaire à tout le monde (8–10 personnes)\n- 1 x Beaujolais-Villages (Gamay, frais et fruité)\n- 1 x Côtes-du-Rhône (grenache/syrah, plus épicé)\n- 1 x Loire cabernet franc (Chinon/Bourgueil/Saumur-Champigny)\n\nAstuces service\n- Servez à 14–16°C (20–30 min au frigo).\n- Préférez millésimes récents (2021–2023) sur ces styles.\n- Comptez environ 1 bouteille pour 3–4 personnes à l’apéro.\n- Ouvrez 30 min avant; carafez seulement les vins du Sud un peu jeunes si besoin.\n\nSi tu me dis ton magasin (caviste/supermarché) ou ta ville, je peux te proposer une liste ultra précise de bouteilles disponibles.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne possède pas une base de données propriétaire d’accords mets-vins. Je suis un modèle de langage entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains. Je ne peux pas citer des sources précises de mon entraînement, mais mes suggestions s’appuient sur des principes de sommellerie largement enseignés et répandus, par exemple:\n- Assortir l’intensité du plat et du vin\n- L’acidité “coupe” le gras et rafraîchit\n- Les tanins se lissent avec les protéines et le sel\n- Le sucre aide avec le piment; l’umami peut accentuer l’amertume/tanins\n- Les accords régionaux (ce qui pousse ensemble va ensemble)\n\nSi vous voulez vérifier ou creuser, voici des références accessibles qui reflètent ces principes:\n- Wine Folly (articles et infographies sur les styles et accords)\n- The Wine Bible (Karen MacNeil)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Guides WSET/Court of Master Sommeliers sur les styles et les équilibres\n- The Flavor Bible (pour les associations de saveurs), et des guides pratiques sur Serious Eats\n\nJe peux aussi expliquer un accord précis (par ex. huîtres & Muscadet, curry & Riesling demi-sec) en détaillant la logique et en vous donnant des lectures utiles."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Levels 2–4)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Folly: Magnum Edition",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "Le Goût du Vin (É. Peynaud)",
+            "BIVB (Bourgogne)",
+            "CIVB (Bordeaux)",
+            "InterRhône",
+            "Comité Champagne",
+            "IFV",
+            "Decanter",
+            "Wine Spectator",
+            "La Revue du vin de France",
+            "Le Figaro Vin"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Pour un apéro charcuterie/fromage, vise des rouges fruités, frais, avec des tanins souples (12–13,5% alc., peu ou pas de bois). Voici des valeurs sûres autour de 10€ faciles à trouver chez caviste ou en grande surface:\n\n- Beaujolais / Beaujolais-Villages (Gamay)\n  - Style: gourmand, peu tannique, parfait légèrement frais.\n  - Bouteilles: Louis Jadot Beaujolais-Villages, Georges Duboeuf Beaujolais-Villages, Trenel Beaujolais-Villages.\n- Loire – Cabernet Franc (Saumur-Champigny, Chinon, Bourgueil – cuvées “fruit”)\n  - Style: fruits rouges, notes végétales fines, bonne acidité pour la charcuterie.\n  - Bouteilles: Langlois-Château Saumur Rouge, Plouzeau “Rive Gauche” (Chinon), Cave de Saumur Saumur-Champigny.\n- Rhône Sud léger – Côtes-du-Rhône / Ventoux / Luberon\n  - Style: grenache/syrah juteux, épices douces, tanins ronds.\n  - Bouteilles: Perrin “Côtes-du-Rhône Réserve”, M. Chapoutier “Belleruche” (souvent 10–12€), La Vieille Ferme Ventoux (7–9€).\n- Languedoc – Minervois / Corbières / Faugères / Fitou\n  - Style: soleil mais sans excès d’alcool si possible; privilégier “sans boisé marqué”.\n  - Bouteilles: Mont Tauch Fitou, Mas Olivier Faugères, Paul Mas “Languedoc”.\n- Sud-Ouest – Fronton (Négrette) / Malbec fruité\n  - Style: très bon sur charcuterie; parfumé, souple.\n  - Bouteilles: Château Bellevue La Forêt (Fronton), Rigal “The Original” Malbec, Buzet (Vignerons de Buzet “Le Bouquet”).\n- Bordeaux léger – Bordeaux Clairet ou Côtes de Bordeaux sans bois\n  - Style: plus souple et glouglou que les bordeaux tanniques classiques.\n  - Bouteilles: Bordeaux Clairet (Yvon Mau, Dourthe), Château le Grand Verdus “Classic” (souvent ~10–11€).\n- Option étrangère abordable\n  - Espagne: Rioja Joven/Crianza léger (El Coto Crianza, Cune Crianza).\n  - Portugal: Dão “Cabriz” ou Douro “Castello d’Alba”.\n- Option fun (excellent avec charcuterie): Lambrusco secco (rouge pétillant, sec)\n  - Bouteilles: Cleto Chiarli (Lambrusco Grasparossa di Castelvetro), Chiarli 1860. Servir bien frais.\n\nConseils service\n- Servez légèrement frais: 13–15°C pour garder le peps et tempérer l’alcool.\n- Évitez les rouges très boisés ou très tanniques (jeunes Cahors costauds, Médoc extraits) surtout avec fromages coulants.\n- Si la planche comprend des bleus ou des fromages très puissants, prévoyez au moins un rouge léger (Beaujolais/Clairet) ou… un blanc/rosé en complément.\n\nMini-liste “panier apéro” à 3 bouteilles autour de 10€ chacune:\n- 1 Beaujolais-Villages (Gamay) pour la fraîcheur.\n- 1 Loire cabernet franc (Saumur-Champigny/Chinon) pour l’équilibre.\n- 1 Rhône Sud ou Languedoc souple (Côtes-du-Rhône/Minervois) pour le côté épicé.\n\nSi vous me dites votre magasin (caviste/enseigne) et votre région, je peux vous donner des références très précises en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Principalement de mon entraînement sur un large corpus de sources publiques, sous licence et élaborées par des formateurs humains. Je n’ai pas d’accès direct à une base de données propriétaire ni au web en temps réel; mes connaissances sont à jour jusqu’en octobre 2024. Pour les accords mets-vins, mes réponses s’appuient sur des principes enseignés en sommellerie (équilibre intensité, acidité vs gras, tanins vs protéines, sucre vs épices/salé, accords régionaux) et sur des références reconnues, par exemple:\n\n- Manuels/ouvrages: WSET (Levels 2–4), Court of Master Sommeliers, The Oxford Companion to Wine (J. Robinson), Wine Folly: Magnum Edition, What to Drink with What You Eat (Dornenburg & Page), Le Goût du Vin (É. Peynaud).\n- Sources pro/interprofessions: BIVB (Bourgogne), CIVB (Bordeaux), InterRhône, Comité Champagne, IFV.\n- Presse spécialisée: Decanter, Wine Spectator, La Revue du vin de France, Le Figaro Vin.\n\nSi vous souhaitez des sources précises pour un accord donné (ex. chèvre frais + Sancerre, agneau + Rioja, curry thaï + Riesling demi-sec), dites-moi lesquels et je vous fournis des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Folly: Magnum Edition (Puckette & Hammack)",
+            "On Food and Cooking (Harold McGee)",
+            "L’Atlas mondial du vin (Johnson & Robinson)",
+            "Comité Champagne",
+            "InterRhône",
+            "BIVB (Bourgogne)",
+            "CIVB (Bordeaux)",
+            "InterLoire",
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges fruités, peu tanniques ou des grenache/syrah souples. Budget ~10€ et faciles à trouver chez cavistes ou en GMS:\n\nFruités et légers (parfaits un peu frais 12-14°C)\n- Beaujolais-Villages (Gamay): Georges Duboeuf, Château de Pizay, Mommessin – 8-11€\n- Savoie Mondeuse: Jean Perrier & Fils – 9-11€\n- Fronton (Négrette): Château Bellevue La Forêt – 7-9€\n\nLoire (cabernet franc, frais et croquants)\n- Saumur-Champigny: Robert & Marcel (Cave de Saumur) – 8-10€\n- Saint-Nicolas-de-Bourgueil ou Bourgueil (cuvées “fruit”/“tradition”) – 9-12€ (souvent en promo)\n\nSud gourmand et épicé (polyvalents avec charcut’ et fromages)\n- Côtes-du-Rhône: Guigal, Famille Perrin “Réserve”, Jaboulet “Parallèle 45”, Chapoutier “Belleruche” – 8-12€\n- Ventoux: Château Pesquié “Terrasses” – 10-12€\n- Luberon / “La Vieille Ferme” rouge (Perrin) – 6-8€\n- Costières de Nîmes: Château de Campuget “Tradition” – 8-10€\n\nLanguedoc/Roussillon (soleil mais reste buvable à l’apéro)\n- Faugères “Mas Olivier” (Cave de Roquebrun) – 9-11€\n- Minervois: Château de Paraza – 9-11€\n- Corbières: Castelmaure “Col des Vents” – 7-9€\n- Fitou: Mont Tauch – 7-9€\n- Languedoc: “Les Darons” (Jeff Carrel) – 9-11€\n- “Cuvée Mythique” Languedoc – 7-9€\n\nConseils rapides\n- Servez léger et fruité un peu frais (12-14°C). Rhône/Languedoc à 15-16°C.\n- Évitez les rouges trop tanniques/boisés (certains jeunes Bordeaux ou Cahors corsés) pour l’apéro.\n- Accords: charcuterie → Beaujolais/Fronton/Loire; fromages à pâte molle → Côtes-du-Rhône/Minervois; chèvre → Loire; comté → Gamay/Loire.\n- Quantités: environ 1 bouteille pour 3 personnes à l’apéro.\n\nSi tu me dis le nombre d’invités et tes fromages charcut’, je te fais une short-list précise.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas de base de données en direct. Mes suggestions d’accords reposent sur:\n- Un entraînement sur un large corpus de textes (données publiques, sous licence et contenus rédigés par des formateurs) et des connaissances culinaires/œnologiques largement partagées.\n- Des principes classiques de sommellerie: intensité du plat vs du vin, sauce et méthode de cuisson, “ce qui pousse ensemble s’assemble”, acidité qui coupe le gras, tanin qui aime les protéines, sucre qui appelle sucre, sel qui adoucit amertume/tanin, piment qui renforce chaleur/alcool, etc.\n- Les associations régionales traditionnelles et les profils sensoriels typiques des styles de vin.\n\nSi vous voulez vérifier ou approfondir, voici des références reconnues (à consulter; ce ne sont pas des sources que je parcours en temps réel):\n- Livres: What to Drink with What You Eat (Dornenburg & Page), The Oxford Companion to Wine (J. Robinson), Wine Folly: Magnum Edition (Puckette & Hammack), On Food and Cooking (Harold McGee), L’Atlas mondial du vin (Johnson & Robinson).\n- Ressources d’interprofessions: Comité Champagne, InterRhône, BIVB (Bourgogne), CIVB (Bordeaux), InterLoire — ils publient des guides d’accords.\n- Cours/écoles de sommellerie reconnus (par ex. WSET, Court of Master Sommeliers) pour les cadres méthodologiques.\n\nSi vous me dites le plat précis (ingrédients, sauce, intensité, cuisson), je peux expliquer l’accord proposé et le principe derrière."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "Wine Folly (Puckette & Hammack)",
+            "What to Drink with What You Eat (Page & Dornenburg)",
+            "Perfect Pairings (Evan Goldstein MS)",
+            "Taste Buds and Molecules (François Chartier)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Programmes de sommellerie (WSET/CMS)",
+            "Articles GuildSomm",
+            "Ressources d’œnologie (UC Davis)",
+            "Travaux sur la perception du goût et l’accord (p. ex. Charles Spence)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour un apéro charcuterie/fromage, vise des rouges fruités, peu tanniques, servis légèrement frais (12–16°C). Voici des valeurs sûres autour de 10€ faciles à trouver en GMS ou chez un caviste.\n\nFruités et légers (parfaits à rafraîchir)\n- Beaujolais-Villages – Georges Duboeuf (7–9€) ou Louis Jadot “Combe aux Jacques” (9–11€)\n- La Vieille Ferme rouge – Famille Perrin (6–8€) [souple, gourmand]\n- Ventoux – Marrenon “Classique” (6–8€)\n\nRhône méridional (rond, épicé, consensuel)\n- Côtes-du-Rhône – E. Guigal (9–11€)\n- Côtes-du-Rhône – Paul Jaboulet Aîné “Parallèle 45” (8–10€)\n- Côtes-du-Rhône – Chapoutier “Belleruche” (10–12€)\n\nLanguedoc/Roussillon (garrigue, fruits noirs, tanins souples)\n- Minervois – Château Sainte Eulalie “Plaisir d’Eulalie” (7–9€)\n- Fitou – Mont Tauch (7–9€)\n- Corbières – Château de Caraguilhes “Classique” (9–11€)\n\nLoire (cabernet franc juteux, très bien avec la charcut’)\n- Saumur-Champigny – cave Robert & Marcel (8–10€)\n- Chinon – cuvées “fruit” de coop/cavistes (9–11€)\n\nSud-Ouest (souple, gourmand)\n- Fronton – Château Bellevue La Forêt (7–9€)\n- Cahors – Georges Vigouroux “Pigmentum”/Malbec (7–9€) [choisir la cuvée la plus fruitée]\n\nBordeaux souple (à choisir jeune et non boisé)\n- Bordeaux Supérieur – Château Pey La Tour (10–12€)\n- Bordeaux – Château La Freynelle (7–9€)\n\nSi tu veux ouvrir à l’étranger (très bon rapport qualité/prix)\n- Espagne – Campo Viejo Tempranillo (7–9€)\n- Portugal – Altano Douro (8–10€)\n\nConseils rapides\n- Service: 12–14°C pour Beaujolais/Loire; 14–16°C pour Rhône/Languedoc. Légèrement frais, c’est top à l’apéro.\n- Quantités: 1 bouteille pour 2–3 personnes pour un apéro classique.\n- Fromages: ces rouges marchent bien avec tommes, comté jeune, brie/camembert. Si tu as du chèvre frais ou du bleu puissant, ajoute une bouteille de blanc (Sauvignon de Loire) en appoint.\n\nTu me dis ton budget total et le nombre de convives, je te propose un panier précis.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas une base de données propriétaire d’accords mets-vins. Je suis un modèle entraîné par OpenAI sur un mélange de textes publics, de contenus sous licence et de données rédigées par des formateurs humains. Mes réponses s’appuient sur des principes de sommellerie largement enseignés et sur des ouvrages et ressources reconnus, plutôt que sur une liste unique.\n\nExemples de références et cadres que je synthétise:\n- Principes classiques: équilibre d’intensité, acidité avec acidité, tanins avec gras/protéines, sucre du vin ≥ sucre du plat, gérer l’amertume/umami, accords régionaux.\n- Ouvrages: Wine Folly (Puckette & Hammack), What to Drink with What You Eat (Page & Dornenburg), Perfect Pairings (Evan Goldstein MS), Taste Buds and Molecules (François Chartier), The Oxford Companion to Wine (Jancis Robinson).\n- Formation/analyses: programmes de sommellerie (WSET/CMS, notions générales), articles GuildSomm, ressources d’œnologie (UC Davis), travaux sur la perception du goût et l’accord (p. ex. Charles Spence).\n\nQuand je propose un accord, j’applique ces principes généraux au profil du plat et du vin, plutôt que de citer une source unique. Si vous voulez, je peux fournir une courte biblio ou expliquer la logique/source pour un accord précis."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers",
+            "École du Vin de Bordeaux/Champagne",
+            "BIVB (Bureau Interprofessionnel des Vins de Bourgogne)",
+            "CIVB (Conseil Interprofessionnel du Vin de Bordeaux)",
+            "Émile Peynaud – Le Goût du vin",
+            "Jackson – Wine Science",
+            "Clarke & Bakker – Wine Flavour Chemistry",
+            "Harold McGee – On Food and Cooking",
+            "UC Davis (sensory science)",
+            "Decanter",
+            "La Revue du Vin de France",
+            "GuildSomm",
+            "Wine Folly",
+            "Fiches techniques de domaines"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée pour un apéro charcuterie/fromage: vise des rouges souples, fruités, peu boisés, autour de 10€. Voici des valeurs sûres faciles à trouver (cavistes et grandes surfaces), qui marcheront bien et se boivent légèrement rafraîchis.\n\nLéger, juteux (top pour démarrer)\n- Beaujolais / Beaujolais-Villages (Gamay) – Louis Jadot, Georges Duboeuf, Château de Pizay. 7–11€\n- Brouilly ou Régnié d’entrée de gamme – Henry Fessy, Mommessin. 10–12€\nConseil: servir à 12–14°C.\n\nFrais et croquant (parfait avec charcuteries et fromages de chèvre)\n- Chinon “La Diligence” (Couly-Dutheil). 9–11€\n- Bourgueil ou St-Nicolas-de-Bourgueil (cuvées “Tradition” de coop ou petits domaines). 9–12€\n- Saumur-Champigny d’entrée de gamme (Plessis-Duval, Cave des Vignerons de Saumur). 8–11€\nConseil: 13–15°C, millésimes 2021–2023.\n\nGourmand et épicé, très consensuel\n- Côtes du Rhône – Guigal, Chapoutier “Belleruche”, Jaboulet “Parallèle 45”, Perrin “Réserve”. 8–11€\n- Ventoux / Luberon – La Vieille Ferme (Famille Perrin), domaines/coops locaux. 7–10€\nConseil: 15–16°C, évite les cuvées très boisées.\n\nSud croquant et soleil (budget malin)\n- Languedoc: “Les Darons” (Jeff Carrel). 9–11€\n- Minervois / Corbières (cuvées “Tradition” de coop). 7–10€\n\nSud-Ouest, original et top sur charcuterie\n- Fronton (Négrette) – Château Bellevue La Forêt, Château Le Roc (cuvée Classique). 8–11€\n- Marcillac “Lo Sang del Païs” (Domaine du Cros). 10–12€\n\nOption non française à petit prix (si tu veux varier)\n- Rioja joven/roble – Campo Viejo Tempranillo, Cune (CVNE). 7–10€\n- Montepulciano d’Abruzzo – Farnese/Fantini, Umani Ronchi (entrées de gamme). 7–10€\n\nSi tu veux n’en prendre que trois “valeurs sûres”:\n- Beaujolais-Villages (Louis Jadot ou Château de Pizay)\n- Chinon “La Diligence” (Couly-Dutheil)\n- Côtes du Rhône (Guigal ou Jaboulet “Parallèle 45”)\n\nAstuces rapides:\n- Préfère 12–13,5% d’alcool, peu/ pas de bois, millésimes 2021–2023.\n- Légèrement rafraîchis (12–14°C pour Beaujolais/Loire; 15–16°C pour Rhône/Languedoc).\n- Compte 1 bouteille pour 3–4 personnes à l’apéro.\n\nSi tu me dis ta ville/magasin, je peux te proposer une liste ultra ciblée dispo près de chez toi.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas dans une base d’accords “toute faite” au moment où je réponds. Mes suggestions proviennent de connaissances apprises lors de mon entraînement sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des spécialistes, ainsi que de principes largement enseignés en sommellerie et sciences du goût. Je n’ai pas une liste exhaustive des sources précises pour chaque phrase.\n\nRéférences et cadres couramment utilisés dans ce domaine (à titre indicatif) :\n- Programmes et manuels de formation: WSET, Court of Master Sommeliers, École du Vin de Bordeaux/Champagne, guides interprofessions (BIVB, CIVB).\n- Ouvrages et ressources reconnus: Émile Peynaud (Le Goût du vin), Jackson (Wine Science), Clarke & Bakker (Wine Flavour Chemistry), Harold McGee (On Food and Cooking), travaux de UC Davis (sensory science).\n- Publications et sites pédagogiques: Decanter, La Revue du Vin de France, GuildSomm, Wine Folly, fiches techniques de domaines.\n\nCes sources convergent sur des principes de base (acidité qui “coupe” le gras, tannins et protéines, sucre vs. piment, “ce qui pousse ensemble va ensemble”, etc.). Si vous voulez, dites-moi un point précis (ex: “pourquoi le vin doux avec l’épicé ?”) et je vous donne des références spécifiques."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust), niveaux 2/3 et Diploma – sections Food & Wine Pairing",
+            "Court of Master Sommeliers – guides pédagogiques sur les interactions mets-vins",
+            "The Oxford Companion to Wine (Jancis Robinson et al.)",
+            "Wine Folly (Madeline Puckette & Justin Hammack) – notions pratiques d’accords",
+            "The Taste of Wine (Émile Peynaud) – analyse sensorielle du vin",
+            "Taste Buds and Molecules (François Chartier) – correspondances aromatiques",
+            "On Food and Cooking (Harold McGee) – chimie du goût, effets du sel/umami/sucre/piment",
+            "Travaux et ressources d’institutions comme UC Davis (sensory science) sur astringence, amertume, acidité et interactions alimentaires"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée de rester sur des rouges souples et fruités: ils gèrent bien le sel et le gras de la charcuterie et vont avec beaucoup de fromages sans dominer. Objectif: peu de bois, tanins doux, bonne fraîcheur, autour de 10€.\n\nLéger et très gourmand (top pour charcuterie et fromages doux)\n- Beaujolais/Beaujolais-Villages (Gamay): Georges Duboeuf BV, Cave de Bel Air, Cave de Brouilly. 7–10€. Servez à 14–15°C.\n- Crus légers du Beaujolais (Régnié, Brouilly, Chiroubles) en promo: souvent 9–12€.\n- Loire fruitée: Saumur-Champigny ou Chinon (jeunes, sans élevage marqué). Ex: Robert & Marcel Saumur-Champigny 8–10€.\n- Ventoux ou Luberon rouge (Grenache/Syrah, très buvables): La Vieille Ferme rouge (Famille Perrin) 7–9€.\n\nUn peu plus de caractère, mais toujours facile\n- Côtes du Rhône: Guigal Côtes du Rhône, Parallèle 45 (Jaboulet), Belleruche (Chapoutier), Perrin Réserve. 8–12€.\n- Languedoc (Minervois, Corbières, Fitou): Mont Tauch Fitou, Jeanjean/Grés de Montpellier d’entrée de gamme, Gérard Bertrand “Réserve Spéciale” Languedoc. 7–11€.\n- Sud-Ouest: Fronton (Négrette) — Château Bellevue La Forêt, Comte de Négret. 7–10€. Buzet (Vignerons de Buzet) 6–9€.\n- Bordeaux souple: Bordeaux Supérieur ou Côtes de Bordeaux (Castillon/Blaye) merlot-dominant. Dourthe N°1, Cap Royal, Mouton Cadet. 8–11€.\n\nOptions étrangères très fiables à petit prix\n- Espagne: Rioja joven/Tempranillo fruité (Campo Viejo Tempranillo, Cune/CVNE Crianza en promo). 8–12€.\n- Italie: Montepulciano d’Abruzzo (Umani Ronchi, Zaccagnini) 8–12€; pour l’apéro, pensez Lambrusco secco (sec), idéal avec charcuterie. 8–12€.\n- Portugal: Dão “Cabriz” ou Douro d’entrée de gamme (Porca de Murça). 6–10€.\n\nService et quantités\n- Servez légèrement frais: 14–16°C pour rouges légers; 16–17°C pour Côtes du Rhône/Languedoc.\n- Ouvrez 20–30 min avant; pas besoin de carafe.\n- Quantité: apéro court, comptez 1 bouteille pour 3–4 personnes; apéro dinatoire, 1 bouteille pour 2–3.\n\nSi tu me dis le nombre de personnes et le style que tu préfères (léger/fruité vs un peu plus épicé), je te fais une mini-liste de courses précise dispo en GMS/caviste près de chez toi.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Mes réponses sur les accords mets-vins s’appuient sur:\n- Un mélange de données licenciées, de contenus rédigés par des formateurs humains et de textes publics sur l’œnologie et la sommellerie.\n- Des principes largement enseignés en écoles de vin et de cuisine (impact du sel, de l’umami, du sucre, de l’acidité et du piment sur la perception des tanins, de l’alcool et de l’aromatique).\n\nParmi les références et ouvrages qui synthétisent ces principes:\n- WSET (Wine & Spirit Education Trust), niveaux 2/3 et Diploma – sections Food & Wine Pairing.\n- Court of Master Sommeliers – guides pédagogiques sur les interactions mets-vins.\n- The Oxford Companion to Wine (Jancis Robinson et al.).\n- Wine Folly (Madeline Puckette & Justin Hammack) – notions pratiques d’accords.\n- The Taste of Wine (Émile Peynaud) – analyse sensorielle du vin.\n- Taste Buds and Molecules (François Chartier) – correspondances aromatiques.\n- On Food and Cooking (Harold McGee) – chimie du goût, effets du sel/umami/sucre/piment.\n- Travaux et ressources d’institutions comme UC Davis (sensory science) sur astringence, amertume, acidité et interactions alimentaires.\n\nJe n’ai pas un accès direct à des sources spécifiques de mon entraînement, mais ces recommandations reflètent des principes largement documentés. Si tu veux, je peux te donner des références plus précises pour une règle particulière (ex. “le sel adoucit les tanins”) ou pour un accord que tu as en tête."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "Wine Folly (articles)",
+            "Decanter (articles)",
+            "Serious Eats (articles et dossiers)",
+            "Harold McGee – On Food and Cooking: The Science and Lore of the Kitchen",
+            "American Journal of Enology and Viticulture"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Pour une planche charcuterie/fromage, vise des rouges souples, fruités et peu tanniques. Budget ~10€: privilégie Gamay, Grenache/Syrah en version légère, ou Cabernet Franc peu extrait. Sers-les légèrement frais (14–16°C).\n\nFaciles à trouver autour de 10€ (supermarchés/cavistes généralistes)\n- Côtes-du-Rhône – E. Guigal 2021/2022 (fruité/épicé, passe-partout) ~9–10€\n- Côtes-du-Rhône Réserve – Famille Perrin 2022 ~8–10€\n- Ventoux – La Vieille Ferme Rouge 2022 (gouleyant) ~7–8€\n- Luberon – M. Chapoutier “La Ciboise” Rouge 2022 ~9–10€\n- Beaujolais-Villages – Georges Duboeuf 2023 ~8–10€\n- Beaujolais-Villages – Louis Jadot “Combe aux Jacques” 2022 ~10–12€ (souvent promos à ~10€)\n- Fronton – Château Bellevue la Forêt 2020/2021 (négrette, très apéro) ~8–10€\n- Saint-Chinian – Mas Olivier 2021 ~9–11€\n- Minervois – Château de Paraza 2020 ~8–10€\n- Bordeaux Supérieur – Château Pey La Tour 2020/2021 (souple, fruit noir) ~9–11€\n\nSi tu passes chez un caviste, demande ces appellations pour rester dans le budget:\n- Beaujolais(-Villages), Brouilly, Régnié (Gamay, top avec charcuterie)\n- Loire: Saumur-Champigny ou Chinon “fruit” (Cabernet Franc léger)\n- Rhône sud: Ventoux, Luberon, Côtes-du-Rhône\n- Languedoc: Saint-Chinian, Faugères, Minervois, Corbières\n- Sud-Ouest: Fronton, Gaillac\n\nAccords rapides\n- Charcuterie: Beaujolais, Fronton, Ventoux.\n- Fromages doux/pâtes pressées (tomme, cantal jeune, gouda, comté jeune): Côtes-du-Rhône, Luberon, Saint-Chinian.\n- Fromages bleus ou très affinés: le rouge marche moins bien; si possible, ajoute une bouteille de blanc (Loire/Jura) ou un moelleux.\n\nPetits conseils\n- Choisis des millésimes récents (2021–2023) pour le fruit.\n- Mets les rouges 20–30 min au frigo avant service.\n- Quantité à l’apéro: environ 1 bouteille pour 3–4 personnes.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base de données unique ni des sources en temps réel. Mes suggestions d’accords mets-vins proviennent de connaissances culinaires et œnologiques largement partagées et enseignées, apprises lors de mon entraînement sur un mélange de données sous licence, de contenus créés par des formateurs humains et de textes accessibles publiquement. Je n’ai pas la liste précise des documents individuels utilisés.\n\nConcrètement, les principes que j’applique (acide coupe le gras, tanins avec protéines, douceur qui atténue le piment, attention à l’umami, adéquation d’intensité, accords régionaux) se retrouvent dans:\n- Guides grand public et pédagogiques (ex. articles de Wine Folly, Decanter)\n- Articles et dossiers culinaires (ex. Serious Eats)\n- Ouvrages de référence sur la science du goût (ex. On Food and Cooking de Harold McGee)\n- Littérature œnologique et alimentaire sur l’astringence des tanins et les interactions goût/texture (ex. revues comme American Journal of Enology and Viticulture)\n\nSi vous voulez des références précises pour un accord particulier, dites-moi lequel et je vous propose des sources consultables en ligne."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Level 2/3) – guides d’étude",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Folly: The Master Guide (Madeline Puckette)",
+            "Le Larousse du Vin",
+            "La Revue du Vin de France",
+            "Tastebuds and Molecules (François Chartier)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges fruités, peu boisés, servis légèrement frais. Voici des valeurs sûres autour de 8–12 € (faciles à trouver en supermarché ou caviste):\n\nLéger, gouleyant (idéal apéro, à servir 12–14°C)\n- Beaujolais-Villages (Gamay): Duboeuf, Louis Jadot “Combe aux Jacques”, Vignerons des Pierres Dorées (8–12 €). Très fruité, parfait avec saucisson, comté.\n- Touraine/Anjou Gamay: coop ou domaines locaux (7–10 €). Frais et croquant.\n- Alsace Pinot Noir (entrée de gamme type Wolfberger) (9–11 €). Léger, cerise, peu tannique.\n- Savoie Mondeuse (Jean Perrier & Fils) (9–11 €). Poivré, digeste, top avec jambon cru.\n\nFruité-épicé, un peu plus de matière (15–16°C)\n- Côtes-du-Rhône “classique”: Guigal, Perrin Réserve, Chapoutier Belleruche, Ogier (9–12 €). Polyvalent charcut’ et fromages à pâte pressée.\n- Ventoux (Famille Perrin, Delas) (7–10 €). Souple, juteux, facile.\n- Costières de Nîmes (Michel Gassier, Mourgues du Grès “Galets”) (8–12 €). Grenache/Syrah, épices douces, très convivial.\n- Corbières/Fitou (Mont Tauch, Ollieux Romanis “Le Classique”) (8–11 €). Soleil, herbes, pour les charcuteries fumées.\n- Languedoc IGP (Jeff Carrel “Les Darons”) (8–10 €). Moderne, gourmand, sans lourdeur.\n\nFrais et croquant (Cabernet franc de Loire)\n- Saumur(-Champigny), Chinon, Bourgueil “cuvées fruit”: caves/coops locales (8–12 €). Notes de fruits rouges et poivron doux, idéal si fromages pas trop coulants.\n\nOption Bordeaux plus souple pour apéro\n- Bordeaux Clairet (6–10 €, ex. Château Penin ~10–12 €). Entre rosé foncé et rouge léger: parfait avec rillettes, terrines.\n\nConseils rapides\n- Servez les rouges légers un peu frais: 30–40 min au frigo avant de servir.\n- Évitez les rouges trop tanniques/boisés (jeunes Médoc, Cahors costauds) qui jurent avec fromages crémeux.\n- Quantité: comptez 1 bouteille pour 3–4 personnes à l’apéro.\n\nSi vous me dites où vous achetez (caviste/supermarché et votre ville), je vous propose des bouteilles très précises disponibles près de chez vous.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je ne consulte pas de base de données en temps réel. Mes réponses sont générées à partir d’un mélange de données sous licence, de contenus créés par des formateurs, et d’informations publiques utilisées lors de mon entraînement; je n’ai pas d’accès direct à des sources spécifiques ni de mémoire de références précises.\n\nPour les accords mets-vins, j’applique des principes classiques de sommellerie, par exemple:\n- Intensité du plat vs intensité du vin\n- Équilibre acidité/sucre/piment\n- Tannins et amertume vs gras/protéines/sel\n- Accord régional (plats et vins d’une même région)\n\nSi vous souhaitez des références humaines à consulter, voici des ouvrages et cursus représentatifs qui reflètent ces principes:\n- WSET (Level 2/3) – guides d’étude sur les styles de vins et accords\n- The Oxford Companion to Wine (Jancis Robinson)\n- Wine Folly: The Master Guide (Madeline Puckette)\n- Le Larousse du Vin / La Revue du Vin de France\n- Tastebuds and Molecules (François Chartier)\n\nSi vous me donnez un plat précis, je peux expliquer l’accord proposé en m’appuyant explicitement sur ces principes."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust) – guides de niveau 2/3 sur les accords",
+            "Court of Master Sommeliers – principes d’accords",
+            "Wine Folly – guides pratiques d’accords",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "On Food and Cooking (Harold McGee)",
+            "The Science of Wine (Jamie Goode)",
+            "Taste Buds and Molecules (François Chartier)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges gourmands, peu boisés, avec de la fraîcheur. Budget ~10€ chez caviste ou grande surface.\n\nLégers et fruités (parfaits à l’apéro, à servir à 12–14°C)\n- Beaujolais ou Beaujolais-Villages (Gamay) – juteux, peu tannique.\n- Touraine Gamay (Loire) – croquant, facile.\n- Anjou rouge, Chinon ou Bourgueil “entrée de gamme” (Cabernet franc) – fruits rouges, note végétale fraîche.\n- Fronton (Négrette) – floral, épices douces, très convivial.\n- Gaillac rouge (styles “primeur” ou fruités) – léger et parfumé.\n- Savoie Mondeuse – frais, poivré, top avec saucisson.\n\nPolyvalents, un peu plus de matière (14–16°C)\n- Côtes du Rhône générique – Grenache/Syrah, rond et épicé.\n- Ventoux ou Luberon – profil rhodanien, souvent plus frais.\n- Costières de Nîmes – fruits noirs, herbes, touche saline.\n- Corbières, Minervois, Fitou – choisir des cuvées “sans bois” ou “fruitées”.\n- Saint-Chinian, Faugères (entrées de gamme) – souples, garrigue.\n- Bergerac rouge – alternative plus tendre à un Bordeaux.\n\nUn poil plus structurés (pour fromages à pâte dure)\n- Bordeaux Supérieur ou Côtes de Bourg/Blaye (millésimes récents, peu boisés).\n- Cahors “malbec de soif”/“sans bois” – fruit noir, tanins sages.\n\nAstuces de service et accords\n- Servez légèrement rafraîchi: 12–14°C pour les légers; 14–16°C pour Rhône/Languedoc.\n- Ouvrez 30 min avant; carafe si le vin paraît serré.\n- Charcuteries: Beaujolais, Fronton, Ventoux, Côtes du Rhône.\n- Fromages: pâtes molles (brie/camembert) → vins légers; pâtes dures (comté/tomme) → Rhône/Languedoc; bleus s’accordent mal avec rouge sec (prévoir un blanc moelleux à part si besoin).\n\nRepères faciles à trouver autour de 10€\n- Côtes du Rhône de bonnes maisons (Guigal, Parallèle 45/Jaboulet, Belleruche/Chapoutier).\n- Ventoux/Luberon “Réserve” (ex. Famille Perrin).\n- Beaujolais-Villages de coop’ locales.\n- Fronton ou Gaillac de vignerons/coops régionales.\n- Corbières/Minervois de grandes caves (Mont Tauch, etc.).\n\nQuantités\n- Pour un apéro: compte 1 bouteille pour 3–4 personnes (2 verres chacun). Un peu plus si l’apéro s’éternise.\n\nSi tu me dis où tu achètes (caviste, Monoprix, Carrefour, Lidl, etc.), je te propose des références très précises disponibles en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base de données privée d’accords mets-vins en temps réel. Mes réponses s’appuient sur:\n\n- Un entraînement sur un mélange de données: contenus sous licence, données créées par des formateurs humains, et informations publiques disponibles, où sont enseignés les principes classiques d’accords.\n- Des règles sensorielles largement reconnues en œnologie et gastronomie: équilibre acidité/gras, tannins/protéines, douceur/piquant, intensité du plat vs du vin, rôle de la sauce, “ce qui pousse ensemble s’accorde ensemble”, attention à l’umami, etc.\n\nSi vous souhaitez des ressources publiques pour vérifier ou approfondir:\n- WSET (Wine & Spirit Education Trust) – guides de niveau 2/3 sur les accords\n- Court of Master Sommeliers – principes d’accords\n- Wine Folly – guides pratiques d’accords\n- The Oxford Companion to Wine (Jancis Robinson)\n- On Food and Cooking (Harold McGee) – interactions gustatives\n- The Science of Wine (Jamie Goode)\n- Taste Buds and Molecules (François Chartier)\n\nDites-moi le plat ou le style de vin qui vous intéresse et je peux donner des accords argumentés et, si vous voulez, des références spécifiques."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "BIVB (Bureau Interprofessionnel des Vins de Bourgogne)",
+            "CIVB (Conseil Interprofessionnel du Vin de Bordeaux)",
+            "Inter Rhône (Interprofession des Vins de la Vallée du Rhône)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges fruités, peu boisés, avec de la fraîcheur. Budget ~10€: voici des valeurs sûres faciles à trouver en grande surface ou chez un caviste.\n\nLéger et très convivial (à servir un peu frais, 12–14°C)\n- Beaujolais / Beaujolais-Villages (Gamay): Georges Duboeuf, Trenel, Vignerons des Pierres Dorées (8–10€). Frais, fruits rouges, parfait avec saucisson, jambon cru, tomme.\n- Savoie Mondeuse ou Gamay: Jean Perrier & Fils, André & Michel Quenard (souvent 9–12€). Poivré, digeste, top sur charcuteries.\n\nSouple et épicé (polyvalent pour charcuterie + fromages doux)\n- Côtes-du-Rhône: E. Guigal, Perrin “La Vieille Ferme” (Ventoux), Jaboulet “Parallèle 45”, Ogier (7–11€). Grenache/Syrah, fruits noirs, épices douces.\n- Languedoc/Minervois/Corbières: Jeff Carrel “Les Darons”, M. Chapoutier “Bila-Haut” (Côtes du Roussillon), “Cuvée Mythique” (7–10€). Rond, gourmand, bon avec fromages à pâte molle.\n\nFrais, un peu plus herbacé (très bien avec la charcuterie et fromages pas trop affinés)\n- Loire Cab Franc (Chinon, Saumur-Champigny, Bourgueil) entrées de gamme: Cave Robert & Marcel (Saumur), Plouzeau “Rive Gauche” (Chinon) si trouvé (8–11€). Cerise, violette, tanins fins.\n\nClassique et rassurant\n- Bordeaux Supérieur fruité: Château Pey La Tour, Château Recougne, Château La Freynelle (9–11€). Prends un millésime 2019–2021 pour rester souple.\n\nSud-Ouest original et facile\n- Fronton (Négrette): Château Bellevue La Forêt, Château Plaisance (7–10€). Floral, fruits noirs, peu tannique.\n\nOuvert aux étrangers à bon prix\n- Espagne Rioja joven/roble: Cune, Campo Viejo (8–10€). Fruité, légèrement vanillé.\n- Italie Montepulciano d’Abruzzo: Masciarelli, Umani Ronchi (7–9€). Souple et juteux.\n- Portugal Douro/Dão: Altano (8–10€). Gourmand, équilibré.\n\nConseils de pairings rapides\n- Charcuteries fines: Beaujolais, Mondeuse, Fronton.\n- Fromages à pâte molle (brie, camembert): Côtes-du-Rhône, Languedoc souple.\n- Fromages plus affinés (comté, tomme): Beaujolais-Villages ou Loire pour éviter l’amertume.\n- Bleu: ça marche mieux avec un vin doux; sinon un rouge très fruité.\n\nService et quantités\n- Sers les rouges légers un peu rafraîchis (12–14°C). Les sudistes: 15–16°C, 15–30 min en carafe.\n- Compte ~2–3 verres par personne (1 bouteille ≈ 5 verres).\n\nChoix express 3 bouteilles autour de 10€ pour l’apéro\n- Beaujolais-Villages (Duboeuf) pour la fraîcheur\n- Côtes-du-Rhône (Guigal ou Parallèle 45) pour la polyvalence\n- Minervois/“Les Darons” ou Fronton pour le côté solaire et épicé\n\nSi tu me dis où tu comptes acheter (enseigne/caviste) et le nombre de personnes, je te fais une liste précise avec quantités.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas une base unique dédiée aux accords mets-vins. Mes réponses s’appuient sur:\n- un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs, utilisés pendant mon entraînement\n- des principes de sommellerie largement reconnus et couramment enseignés (accorder l’intensité, l’acidité qui « coupe » le gras, tanins + protéines, sucre pour équilibrer le piment/salé, l’umami qui accentue l’amertume et l’alcool, importance de la sauce et du mode de cuisson, accords régionaux)\n\nJe n’ai pas une mémoire de sources spécifiques ni d’accès à des bases propriétaires, mais vous pouvez retrouver ces principes dans des ressources publiques et pédagogiques comme:\n- documents et fiches des interprofessions (ex. BIVB Bourgogne, CIVB Bordeaux, Inter Rhône)\n- ouvrages et articles de vulgarisation en œnologie/gastronomie et cours de sommellerie\n- publications de sciences du goût (gastrophysique) et encyclopédies culinaires accessibles au public\n\nSi vous voulez, je peux relier un accord précis à ces principes, ou suggérer des lectures grand public pour creuser un point particulier."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "The World Atlas of Wine (Hugh Johnson & Jancis Robinson)",
+            "The Wine Bible (Karen MacNeil)",
+            "Perfect Pairings (Evan Goldstein)",
+            "What to Drink with What You Eat (Andrew Dornenburg & Karen Page)",
+            "The Flavor Bible (Andrew Dornenburg & Karen Page)",
+            "On Food and Cooking (Harold McGee)",
+            "La Revue du vin de France",
+            "Le Larousse du vin",
+            "Bettane+Desseauve",
+            "Fiches de l’INAO",
+            "Fiches des syndicats d’appellation"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée de rester sur des rouges gourmands, pas trop tanniques, servis un peu frais (12–14°C). À ~10€ voici des valeurs sûres faciles à trouver (supermarché ou caviste):\n\nGamay – Beaujolais (top avec charcuterie)\n- Beaujolais-Villages Louis Jadot (9–11€) – fruit rouge, souple.\n- Beaujolais-Villages Georges Duboeuf (8–10€) – très apéro.\n- Beaujolais-Villages Henry Fessy ou Mommessin (8–11€) – juteux, léger.\n\nCabernet franc – Loire (parfait avec fromages de chèvre/charcuterie)\n- Saumur Rouge “Les Pouches” – Cave de Saumur (6–8€) – frais, croquant.\n- Chinon Couly-Dutheil “Le Petit Chemin” (9–11€) – fruits rouges, peu boisé.\n- Bourgueil/Chinon entrée de gamme de caves locales (8–10€) – demander “fruité, sans bois”.\n\nRhône Sud – Grenache/Syrah (un peu plus de corps, reste convivial)\n- Côtes-du-Rhône E. Guigal (9–11€) – référence, fruits noirs/épices.\n- Perrin Réserve Côtes-du-Rhône (7–9€) – rond, facile.\n- M. Chapoutier “Belleruche” CDR (10–12€) – épicé, polyvalent.\n- La Vieille Ferme Rouge (Ventoux) (6–8€) – très abordable, gouleyant.\n\nSud-Ouest – original et canon à l’apéro\n- Fronton Château Bellevue La Forêt (7–9€) – négrette, violette/poivre, super avec saucisson.\n- Marcillac Domaine du Cros “Lo Sang del Païs” (9–12€) – frais, digeste.\n- Gaillac rouge domaine coopératif (7–9€) – demander un style “primeur” ou “fruité”.\n\nPinot noir léger (fromages doux, charcuteries fines)\n- Alsace Pinot Noir Bestheim / Wolfberger / Arthur Metz (7–11€) – cerise, souple, à servir frais.\n\nBonus bulles rouges pour la charcut’:\n- Lambrusco secco (sec) – Cleto Chiarli ou Medici Ermete (8–12€) – pétillant sec, salivant, top avec jambon cru. Servir bien frais.\n\nConseils rapides\n- Chercher 12–13,5% d’alcool, mentions “fruité”, “élevage en cuve” plutôt que boisé.\n- 1 bouteille pour 3–4 personnes à l’apéro.\n- Mettre au frais 30–45 min avant. \n- Accords: saucisson/jambon → Beaujolais/Fronton; chèvres → Loire cabernet franc; brie/camembert → Côtes-du-Rhône; comté jeune → Pinot noir/Beaujolais.\n\nSi tu me dis où tu achètes (enseigne/caviste) et le nombre de personnes, je te fais une liste d’achats précise.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas dans une base unique en temps réel. Mes réponses sur les accords mets-vins viennent de:\n- Mon entraînement: un mélange de données publiques, de contenus sous licence et d’apports de formateurs humains. Je n’ai pas un journal de sources pour chaque phrase.\n- Des principes largement enseignés en sommellerie et en sciences du goût (recoupés par de nombreuses sources): équilibrer l’intensité plat/vin; faire correspondre l’acidité; douceur du vin pour tempérer le piquant/salé; tannins qui aiment la matière grasse/protéines; attention à l’umami qui accentue l’amertume; «ce qui pousse ensemble s’accorde ensemble»; la sauce et la cuisson comptent souvent plus que le “produit principal”.\n\nSi vous cherchez des références reconnues qui exposent ces règles et exemples d’accords, en voici quelques-unes couramment utilisées par les pros et amateurs:\n- The Oxford Companion to Wine (Jancis Robinson) et The World Atlas of Wine (Johnson & Robinson)\n- The Wine Bible (Karen MacNeil)\n- Perfect Pairings (Evan Goldstein)\n- What to Drink with What You Eat et The Flavor Bible (A. Dornenburg & K. Page)\n- On Food and Cooking (Harold McGee) pour la partie chimie des saveurs\n- Sources francophones: La Revue du vin de France, Le Larousse du vin, Bettane+Desseauve, fiches de l’INAO et des syndicats d’appellation (styles et accords classiques régionaux)\n\nJe ne consulte pas ces ouvrages en direct ici, mais les principes que je donne sont ceux qu’on y retrouve. Si vous voulez, dites-moi un accord précis et je vous cite des sources ou des pistes de lecture ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": null,
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges fruités, peu boisés, avec de la fraîcheur. Budget ~10€: voici des options faciles à trouver et qui marchent très bien.\n\nLégers et gourmands (à servir légèrement frais 12–14°C)\n- Beaujolais-Villages (Gamay) – Duboeuf, Louis Jadot, Cave de Fleurie ou Juliénas-Chaintré. 7–11€. Cerise, framboise, peu de tanins.\n- Brouilly / Régnié (crus accessibles) – souvent 10–12€ chez des caves coop. Un poil plus de matière mais toujours juteux.\n\nLoire (Cabernet Franc, frais et croquant)\n- Saumur-Champigny – Domaine des Hauts de Sanziers, Château de Villeneuve (cuvée d’entrée). 9–12€. Fruits rouges, pointe végétale élégante, top avec charcut’.\n- Chinon ou Bourgueil – Couly-Dutheil (cuvée de base), Cave de Bourgueil. 9–12€. Très polyvalents avec fromages à pâte pressée.\n\nRhône sud et proches (un peu plus solaire, épices douces)\n- Côtes-du-Rhône – Famille Perrin “Réserve”, Guigal, Chapoutier “Belleruche”. 8–11€. Grenache/Syrah souples, parfaits sur saucisson, terrines.\n- Ventoux – Château Pesquié “Terrasses” (souvent 10–12€). Fruité, gourmand, tanins ronds.\n- Luberon – M. Chapoutier “La Ciboise”. 8–10€.\n\nLanguedoc/Sud-Ouest (rapport plaisir/prix)\n- Corbières – Mont Tauch, Gérard Bertrand (cuvée d’entrée). 7–10€. Epicé, mais reste facile.\n- Saint-Chinian – Cave de Roquebrun (entrée de gamme). 8–10€.\n- Fronton (Négrette) – Château Bellevue La Forêt. 7–9€. Très aromatique, se boit frais.\n\nAlternatives légères\n- Alsace Pinot Noir (cuvées de coop: Turckheim, Wolfberger). 9–12€. Léger, fruits rouges, très apéro.\n- Portugal/Dão ou Espagne/Rioja joven (Campo Viejo Tempranillo). 7–10€. Souples, fruités.\n\nConseils rapides\n- Choisir les cuvées “classiques”, sans boisé marqué, 12–13,5% d’alcool.\n- Servir légèrement rafraîchi (12–14°C) et ouvrir 15–30 min avant.\n- Quantité: pour un apéro, compte ~1 bouteille pour 2–3 personnes.\n\nFromages forts (bleu, époisses) aiment moins les rouges tanniques: si vous en avez beaucoup, privilégiez les rouges légers ci-dessus; sinon prévoyez aussi un blanc vif (type Loire) en complément.\n\nSi tu me dis ton magasin (grande surface, caviste, enseigne), je te fais une short‑list précise disponible sur place.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je ne puise pas ces infos dans une base unique. Mes réponses s’appuient sur des modèles entraînés sur un mélange de données sous licence, de contenus rédigés par des formateurs humains et d’informations publiques. Je n’ai pas de mémoire des sources précises ni d’accès en temps réel.\n\nLes principes que je cite (équilibrer l’intensité, acidité qui “coupe” le gras, tanins avec protéines, sucre pour les mets épicés, accords régionaux, etc.) sont des règles largement admises en sommellerie.\n\nSi vous voulez des références pour un point précis, dites-moi lequel et je vous indiquerai des ressources reconnues du domaine pour approfondir."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Wine Bible (Karen MacNeil)",
+            "Wine Folly (Puckette & Hammack)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Supports de formation WSET/CMS"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée pour l’apéro ! Cherche des rouges plutôt frais, fruités et peu tanniques. Voici des valeurs sûres autour de 8–12€ faciles à trouver (caviste ou grande surface), top avec charcuterie et fromages doux/semi-affinés:\n\n- Beaujolais-Villages (Gamay) – ex. Georges Duboeuf, Albert Bichot. 8–11€. Rouge croquant, à servir un peu frais.\n- Brouilly ou Régnié (Beaujolais) – coop Vignerons de Bel Air, Henry Fessy. 10–12€. Un peu plus de matière, toujours gourmand.\n- Touraine Gamay (Loire) – ex. Guy Allion, Jean-François Mérieau “Les Hexagonales”. 8–10€. Glou-glou, parfait pour la charcut’.\n- Saumur rouge (Cabernet Franc) – Langlois-Château. 10–12€. Fruits rouges, tanins doux, très polyvalent avec fromages.\n- Côtes du Rhône – Guigal, Perrin “Réserve”, Chapoutier “Belleruche”. 8–11€. Grenache/Syrah souple, épicé mais pas lourd.\n- Ventoux – Famille Perrin Ventoux. 7–9€. Très fruité et facile, impeccable à l’apéro.\n- Costières de Nîmes – Château de Nages “ButiNAGES”, Mas des Bressades “Tradition”. 9–11€. Juteux, légèrement épicé.\n- Fronton (Négrette) – ex. Comte de Négret (cave coop). 7–9€. Floral, frais, super avec saucisson/jambon.\n- Buzet – Vignerons de Buzet “Tradition”. 6–8€. Rond et simple, bon rapport qualité/prix.\n- Alsace Pinot Noir – Cave de Turckheim, Bestheim. 9–11€. Léger et net, à rafraîchir.\n\nSi tu n’en prends que deux: un Beaujolais-Villages (ou Touraine Gamay) + un Côtes du Rhône (ou Costières de Nîmes). Tu couvres large côté charcuterie/fromage.\n\nConseils rapides:\n- Millésime: vise 2021–2023 pour le fruit.\n- Service: 30 minutes au frigo avant (13–15°C) pour les vins légers.\n- Évite pour l’apéro: rouges très boisés ou très tanniques (jeunes Cahors/Madiran, certains Bordelais costauds).\n- Si ta planche a du bleu, pense à ajouter une bouteille de blanc (chenin ou riesling) ou un rouge doux (Maury) en bonus.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne pioche pas dans une base unique d’accords; je suis un modèle entraîné sur un mélange de données publiques, de contenus sous licence et d’informations fournies par des experts humains. Je n’ai pas d’accès direct à des bases propriétaires et je ne garde pas de trace de sources spécifiques pour chaque réponse.\n\nMes propositions s’appuient sur des principes largement admis en sommellerie (équilibrer intensité et texture, acidité vs richesse, tanins vs protéines/gras, sucre vs piquant, accords régionaux). Ces principes sont cohérents avec des références reconnues, par exemple:\n- What to Drink with What You Eat (Dornenburg & Page)\n- The Wine Bible (Karen MacNeil)\n- Wine Folly (Puckette & Hammack)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Supports de formation WSET/CMS\n\nSi vous voulez des références plus précises pour un plat ou un vin donné, dites-moi l’exemple et je vous indique des sources pertinentes."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET — Systematic Approach to Tasting",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (Jancis Robinson et al.)",
+            "What to Drink with What You Eat (Karen Page & Andrew Dornenburg)",
+            "Wine Folly (Madeline Puckette)",
+            "GuildSomm",
+            "On Food and Cooking (Harold McGee)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée d’apéro ! Pour une planche charcuterie/fromage, vise des rouges souples, fruités, peu tanniques, servis légèrement frais (14–16°C). Voici des valeurs sûres autour de 10€ (souvent 7–10€ selon l’enseigne/promo), faciles à trouver.\n\nLégers et fruités (top pour salaisons et fromages à pâte dure)\n- Beaujolais-Villages (Gamay) – Georges Duboeuf ou Mommessin\n- Beaujolais “classique” – Louis Jadot (cuvées d’entrée de gamme)\n- Alsace Pinot Noir – Cave de Turckheim\n- Touraine Gamay – (ex. Monmousseau)\n\nSud Rhône et Provence (souples, épicés, très polyvalents)\n- Côtes-du-Rhône – Famille Perrin “Réserve” ou Jaboulet “Parallèle 45”\n- Ventoux/Luberon – La Vieille Ferme Rouge (Perrin)\n\nLanguedoc (gourmands, soleil mais tanins doux)\n- Corbières – Gérard Bertrand “Réserve Spéciale”\n- Minervois – Château de Paraza ou cuvées Paul Mas (Pays d’Oc, “Côté Mas”)\n\nLoire Cabernet Franc (frais, croquant, top sur rillettes, jambon, tommes)\n- Chinon – Plessis-Duval (ou cave coop locale)\n- Saumur(-Champigny) – Robert & Marcel (cuvées d’entrée de gamme)\n\nSud-Ouest et Bordeaux faciles\n- Fronton (Négrette) – Château Bellevue La Forêt\n- Bordeaux Supérieur – Château Pey La Tour (souvent très abordable et rond)\n\nAlternatives Espagne/Italie/Portugal (excellents rapports Q/P)\n- Rioja Tempranillo “joven”/Crianza – Campo Viejo, Cune\n- Garnacha – Borsao “Selección” (Campo de Borja)\n- Montepulciano d’Abruzzo – Farnese Fantini\n- Douro – Casa Ferreirinha “Esteva” ou Porca de Murça\n\nConseils rapides\n- Servez les vins légers un peu frais (12–14°C) pour le côté “glou-glou”.\n- Évitez les rouges très tanniques/boisés (jeunes Madiran, Cahors costauds, certains Bordeaux riches) qui durcissent avec le sel de la charcuterie.\n- Fromages: tomme, comté, gouda jeune adorent Gamay/Pinot; pour un bleu, c’est souvent mieux avec un vin doux, sinon prenez le rouge le plus fruité.\n- Quantité: comptez ~1 bouteille pour 3–4 personnes.\n\nSi tu me dis ton magasin (Cave, Carrefour, Leclerc, Nicolas…), je te propose une liste ultra précise dispo en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne tire pas ces accords d’une base propriétaire unique. Mes conseils viennent de ma formation sur un mélange de données: contenus sous licence, données publiques et enseignements de formateurs humains, plus des principes de sommellerie largement reconnus jusqu’à mon seuil de connaissance (octobre 2024). Concrètement, je m’appuie sur:\n\n- Principes classiques d’accords:\n  - Intensité équivalente entre plat et vin\n  - Acidité qui “coupe” le gras et rafraîchit\n  - Tanins adoucis par les protéines, mais mis en évidence par l’amertume/umami\n  - Sucre résiduel qui tempère le piment\n  - Accords régionaux (ce qui pousse ensemble s’assemble)\n  - Cuisson/texture/sauce souvent plus déterminantes que la “protéine”\n\n- Référentiels et ouvrages couramment utilisés par les pros:\n  - WSET (Systematic Approach to Tasting) et Court of Master Sommeliers\n  - The Oxford Companion to Wine (Jancis Robinson et al.)\n  - What to Drink with What You Eat (Karen Page & Andrew Dornenburg)\n  - Wine Folly (Madeline Puckette) pour des guides d’introduction\n  - GuildSomm (articles techniques et historiques)\n  - On Food and Cooking (Harold McGee) pour la science des saveurs et interactions (acidité, capsaïcine, gras, sucres)\n\nJe n’ai pas d’accès en temps réel à des bases payantes ni à Internet, et je ne cite pas textuellement des sources spécifiques sauf si tu me le demandes pour un accord précis. Si tu veux, donne-moi un plat ou un pairing particulier et je t’indique le raisonnement et des références utiles."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine",
+            "Larousse du vin",
+            "Decanter",
+            "Wine Spectator",
+            "Wine Folly",
+            "Harold McGee"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée de rester sur des rouges souples, fruités et peu boisés pour un apéro. Cherche des cuvées “glou-glou” à servir légèrement fraîches (12–14°C). Voici des valeurs sûres autour de 10€ (selon l’enseigne):\n\nFrais et gouleyants (parfaits à l’apéro)\n- Beaujolais / Beaujolais-Villages (Gamay) – Louis Jadot, Georges Duboeuf, Joseph Drouhin, Trenel.\n- Loire en Cabernet Franc léger – Chinon, Bourgueil, Saumur ou Anjou rouge “cuvées de soif” (coop Cave de Saumur, Cave de Bourgueil…).\n\nFruité-épices, tanins doux\n- Côtes-du-Rhône – Guigal Côtes-du-Rhône, M. Chapoutier “Belleruche”, Les Dauphins.\n- Ventoux – La Vieille Ferme (Famille Perrin).\n- Costières-de-Nîmes / Luberon – cuvées de coop ou domaines accessibles.\n\nSud-Ouest et Languedoc bons rapports qualité-prix\n- Fronton (Négrette) – Château Bellevue La Forêt.\n- Bergerac / Buzet / Duras – cuvées “classiques” des domaines ou coop locales.\n- Corbières / Minervois / Fitou – ex. Domaine de Fontsainte (selon promo), cuvées entrée de gamme Gérard Bertrand, Montagne Noire, Jean-Luc Colombo “Les Abeilles” (CDR).\n\nPetits détours étrangers très fiables\n- Espagne – Garnacha: Borsao “Selección” (Campo de Borja), Evodia (Calatayud).\n- Italie – Montepulciano d’Abruzzo, Barbera d’Asti d’entrée de gamme.\n- Rioja “Joven” (non boisé) pour le fruit.\n\nAccords et service rapides\n- Charcuterie salée: vins juteux et frais (Beaujolais, Loire, Garnacha).\n- Fromages à pâte molle/pressée (brie, tomme, comté jeune): Beaujolais/Loire/Côtes-du-Rhône fonctionnent très bien.\n- Évite les rouges très tanniques/boisés (Cahors corsé, Madiran, certains Bordeaux costauds) qui durcissent avec le sel.\n- Servez légèrement rafraîchi (12–14°C). Comptez 1 bouteille pour 3–4 personnes à l’apéro.\n\nSi vous me dites votre magasin (caviste, grande surface) et le nombre d’invités, je peux vous faire une short-list précise à acheter.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Mes recommandations s’appuient sur:\n\n- Mon entraînement: un mélange de données sous licence, de contenus créés par des formateurs humains et d’informations accessibles publiquement. Je n’ai pas d’accès en temps réel à des bases propriétaires et je ne “mémorise” pas des sources précises.\n- Des principes de sommellerie largement enseignés: équilibre intensité du plat/vin, rôle de l’acidité (couper le gras), des tannins (avec protéines), du sucre (avec épicé/salé), des accords régionaux, importance de la sauce/méthode de cuisson, etc.\n- Des ressources publiques et professionnelles qui diffusent ces principes (à titre d’exemples courants, non exhaustifs): manuels de sommellerie (WSET, Court of Master Sommeliers), ouvrages/références œnologiques (par ex. The Oxford Companion to Wine, Larousse du vin), médias spécialisés (Decanter, Wine Spectator, Wine Folly), et ouvrages de science culinaire (par ex. Harold McGee) sur les interactions saveurs-textures.\n\nLimites: je ne goûte pas, je ne connais pas votre vin exact ni les spécificités régionales à jour; mes réponses généralisent des règles classiques. Si vous voulez, je peux citer des lectures utiles ou adapter des accords à un plat et un vin précis."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust), niveaux 1–3",
+            "Court of Master Sommeliers",
+            "Jancis Robinson – The Oxford Companion to Wine",
+            "Rajat Parr & Jordan Mackay – The Sommelier’s Atlas of Taste",
+            "François Chartier – Papilles et Molécules",
+            "Karen Page & Andrew Dornenburg – What to Drink with What You Eat",
+            "Wine Folly",
+            "Serious Eats"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges fruités, peu boisés et pas trop tanniques, autour de 7–12 €. Voici des valeurs sûres faciles à trouver.\n\nLégers et gouleyants (à servir un peu frais, 12–14 °C)\n- Beaujolais / Beaujolais-Villages (Gamay) – Duboeuf, Louis Jadot, Trenel\n- Touraine Gamay – Producteurs de la Loire, Sauvion, Domaine des Corbillières\n- Saumur rouge ou Anjou rouge (Cabernet Franc) – Domaine des Hauts de Sanziers, Sauvion\n- Fronton (Négrette) – Château Bellevue La Forêt\n\nGourmands et épicés, très polyvalents sur la charcut’\n- Côtes-du-Rhône – Guigal, Perrin “Réserve”, Vidal-Fleury, Chapoutier “Belleruche”\n- Ventoux – La Vieille Ferme (Famille Perrin), TerraVentoux\n- Costières de Nîmes – cuvées de coop’ locales (ex. Vignerons d’Estézargues), Mas des Bressades (souvent un poil >10€)\n- Languedoc/Corbières/Fitou – Gérard Bertrand (gammes d’entrée), Paul Mas, Celliers d’Orfée (Fitou)\n\nSud-Ouest souples et fruités\n- Bergerac rouge – Château Laulerie, Château de la Jaubertie (entrée de gamme)\n- Buzet – Vignerons de Buzet (cuvées classiques)\n- Gaillac rouge – coop locale ou domaines en entrée de gamme\n\nPetites options étrangères très fiables à ce prix\n- Espagne: Rioja joven ou Garnacha (Campo de Borja Borsao)\n- Italie: Montepulciano d’Abruzzo (Umani Ronchi, Farnese)\n- Portugal: Dão ou Douro d’entrée de gamme (Porca de Murça, Vila Regia)\n\nAstuces rapides\n- Vintages: 2022–2023 pour Beaujolais/Loire; 2020–2022 pour Rhône/Languedoc/Bordeaux.\n- Fromages: comté/tomme/gouda → Gamay/Loire; brebis → Rhône sud; brie/camembert → privilégie un rouge léger (ou passe au blanc si possible); bleus → le rouge n’est pas idéal.\n- Service: mets les rouges légers 30 min au frigo; ouvre les plus corsés 30 min avant.\n- Quantités apéro: 1 bouteille pour 3–4 personnes; propose 1 rouge léger + 1 rouge sudiste épicé pour plaire à tout le monde.\n\nSi tu me dis où tu achètes (supermarché/caviste) et ton budget exact, je te fais une short-list ciblée.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne « tire » pas ces accords d’une base unique. Je suis un modèle entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des experts, ce qui inclut des ressources culinaires et œnologiques largement diffusées. Je n’ai pas d’accès direct à mes sources ni de navigation en temps réel, mais mes réponses s’appuient sur des principes de consensus enseignés en sommellerie et en sciences sensorielles.\n\nQuelques références couramment utilisées par les professionnels et qui reflètent ces principes:\n- WSET (niveaux 1–3) et Court of Master Sommeliers: intensité, acidité, tanins, sucre, umami.\n- Jancis Robinson – The Oxford Companion to Wine.\n- Rajat Parr & Jordan Mackay – The Sommelier’s Atlas of Taste.\n- François Chartier – Papilles et Molécules.\n- Karen Page & Andrew Dornenburg – What to Drink with What You Eat.\n- Articles pédagogiques (ex. Wine Folly, Serious Eats) et travaux en sciences sensorielles sur interactions sel/acidité/sucre/tanins/capsaïcine.\n\nSi tu veux, je peux te donner une courte bibliographie ou des liens pratiques, ou appliquer ces principes à un plat précis."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Level 2/3) – chapitres sur les accords mets-vins",
+            "Court of Master Sommeliers – supports d’étude",
+            "The Wine Bible (Karen MacNeil)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "GuildSomm – articles/ressources pédagogiques",
+            "On Food and Cooking (Harold McGee) – interactions saveurs/textures"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée pour l’apéro. Vise des rouges fruités, peu tanniques, qu’on peut servir légèrement frais (12–14°C). Budget ~10€: regarde surtout ces styles/appellations, avec des exemples faciles à trouver.\n\n- Beaujolais (Gamay) – Beaujolais-Villages, Brouilly, Régnié, Chiroubles\n  Exemples: Georges Duboeuf ou Mommessin Beaujolais-Villages; crus “légers” des caves coopératives. Parfait sur saucisson, brie/camembert.\n\n- Loire (Cabernet Franc) – Saumur-Champigny, Saint-Nicolas-de-Bourgueil, Chinon (cuvées fruitées/“vin de soif”)\n  Exemples accessibles: Chinon ou Bourgueil d’entrée de gamme (millésimes récents). Top avec rillettes, pâtés, chèvre.\n\n- Rhône sud – Côtes-du-Rhône souple (grenache/syrah, peu boisé)\n  Exemples: Parallèle 45 (Jaboulet), Famille Perrin “Réserve”, Cellier des Dauphins “Réserve”. Bon avec jambon cru, comté, tomme.\n\n- Sud-Ouest léger – Fronton, Marcillac, Gaillac\n  Exemples: Château Bellevue La Forêt (Fronton), “Lo Sang del Païs” (Marcillac). Gouleyant, nickel sur charcuteries.\n\n- Languedoc/Pays d’Oc – Pinot Noir ou Grenache peu extrait\n  Exemples: Les Jamelles Pinot Noir, La Chevalière (Laroche) Pinot Noir. À rafraîchir un peu.\n\n- Alternatives étrangères à petit prix\n  - Espagne: Garnacha (Calatayud) type Honoro Vera, ou Rioja joven/tempranillo (Campo Viejo joven).\n  - Italie: Lambrusco secco frizzante (Chiarli/Grasparossa) hyper canon avec charcuterie; Valpolicella Classico léger; Barbera d’Asti simple.\n  - Portugal: Dão léger (ex. Grão Vasco).\n\nConseils rapides\n- Servez légèrement frais (20–30 min au frigo). Évitez les rouges très boisés ou très tanniques (jeunes Bordeaux charpentés, Cahors/Madiran costauds) qui écrasent l’apéro.\n- Visez des millésimes récents (2021–2023) et des mentions “fruité”, “sans bois”, “macération carbonique” ou “cuvée de soif”.\n- Quantités: pour un apéro, comptez environ 1 bouteille pour 3–4 personnes.\n- Fromages: les chèvres frais et pâtes pressées (comté, tomme) marchent bien avec ces rouges; les croûtes lavées/intenses se marient souvent mieux avec un blanc si vous en ajoutez un.\n\nSi tu me dis où tu achètes (grande surface/caviste) et ta ville, je te propose 3–4 bouteilles précises que tu trouveras facilement.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas de base de données en temps réel. Mes réponses viennent d’un modèle entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains, ce qui inclut des principes largement enseignés en sommellerie (équilibre acidité/gras, tanins/protéines, sucre/épicé, intensité, accords régionaux, etc.). Je n’ai pas de souvenirs des sources exactes et je ne peux pas garantir l’origine précise de chaque règle.\n\nSi tu veux creuser ou vérifier, voici des références reconnues que tu peux consulter directement:\n- WSET (Level 2/3) – chapitres sur les accords mets-vins\n- Court of Master Sommeliers – supports d’étude\n- The Wine Bible (Karen MacNeil)\n- The Oxford Companion to Wine (Jancis Robinson)\n- What to Drink with What You Eat (Dornenburg & Page)\n- GuildSomm – articles/ressources pédagogiques\n- On Food and Cooking (Harold McGee) – interactions saveurs/textures\n\nDis-moi quel accord précis t’intéresse et je te pointerai vers des sources plus ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": false,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Folly (Madeline Puckette & Justin Hammack)",
+            "What to Drink with What You Eat (Page & Dornenburg)",
+            "Le Larousse du vin",
+            "Larousse gastronomique",
+            "BIVB (Bureau Interprofessionnel des Vins de Bourgogne)",
+            "CIVB (Conseil Interprofessionnel du Vin de Bordeaux)",
+            "InterRhône",
+            "Comité Champagne"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges frais, fruités, peu boisés et aux tanins souples. Budget ~10€: voici des valeurs sûres faciles à trouver.\n\nFrance – légers et frais (à servir 12–14°C)\n- Beaujolais / Beaujolais-Villages (Gamay): Georges Duboeuf, Louis Jadot “Combe aux Jacques”, Vignerons des Pierres Dorées. 7–11€\n- Loire (Cabernet Franc léger): Saumur-Champigny, Chinon, Bourgueil “cuvée de fruit” (Cave de Saumur, Baudry-Dutour, Plou & Fils). 8–12€\n- Touraine/Anjou Gamay, Cheverny rouge: Henry Marionnet “La Java” (Touraine Gamay). 8–10€\n- Coteaux du Lyonnais (Gamay): Cave de Sain-Bel. 7–9€\n- Alsace Pinot Noir (entrée de gamme): Wolfberger, Bestheim. 9–11€\n- Sud-Ouest léger: Fronton (Négrette) Vinovalie, Gaillac primeur, Marcillac “Lo Sang del Païs” (souvent 10–12€)\n\nFrance – sud gourmand mais souple (14–16°C)\n- Ventoux / Luberon / Costières de Nîmes: La Vieille Ferme Rouge (Ventoux), Marrenon Luberon “Classique”, cuvées de cave coop en Costières. 6–10€\n- Côtes-du-Rhône (peu boisé): Guigal, Vidal-Fleury, Famille Perrin “Réserve”. 8–11€\n- Corbières / Minervois (cuvées sans bois marqué): ex. Castelmaure “Col des Vents”. 7–10€\n- Pays d’Oc fruités: Pinot Noir “Camas” (Anne de Joyeuse), Syrah “Les Jamelles”. 6–9€\n\nEurope – excellents Q/P\n- Espagne: Garnacha de Campo de Borja (Borsao Selección), Rioja joven (Cune, Campo Viejo). 6–10€\n- Italie: Montepulciano d’Abruzzo (Fantini/Farnese), Valpolicella Classico (Bolla/Bertani entrée de gamme), Lambrusco secco frizzante (parfait avec la charcuterie). 6–10€\n- Portugal: Dão ou Alentejo (Grão Vasco, Esporão “Monte Velho”). 6–9€\n\nConseils rapides\n- Servez légèrement rafraîchi: 12–14°C pour Gamay/Loire/Valpolicella; 14–16°C pour Rhône/Languedoc.\n- Évitez les rouges très tanniques/boisés (Bordeaux costauds, Cahors) qui heurtent le sel et le gras.\n- Fromages forts (Époisses, Munster, bleus): ayez une option plus fraîche (blanc vif) ou un Lambrusco sec; en rouge, privilégiez un Gamay bien frais.\n\nPanier “prêt à l’apéro” ≈50€\n- Beaujolais-Villages (9€)\n- Saumur-Champigny fruité (10€)\n- Ventoux La Vieille Ferme (8€)\n- Borsao Selección Garnacha (7€)\n- Montepulciano d’Abruzzo Fantini (8€)\n\nTu achètes plutôt en grande surface ou chez un caviste, et préférence bio/nature ou pas spécialement ? Je peux affiner avec des cuvées très précises selon l’enseigne.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas le web en temps réel. Mes réponses s’appuient sur:\n- Un mélange de données publiques et sous licence, et sur des contenus rédigés par des experts qui ont servi à m’entraîner (jusqu’à fin 2024).\n- Des principes de sommellerie largement admis (équilibrer l’intensité, accorder avec la sauce, acidité pour les plats gras, tannins pour les protéines, sucre pour le pimenté, “ce qui pousse ensemble va ensemble”, etc.).\n\nCes principes sont documentés dans des sources reconnues, par exemple:\n- WSET (Wine & Spirit Education Trust) et Court of Master Sommeliers\n- The Oxford Companion to Wine (Jancis Robinson)\n- Wine Folly (Madeline Puckette & Justin Hammack)\n- What to Drink with What You Eat (Page & Dornenburg)\n- Le Larousse du vin / Larousse gastronomique\n- Guides et interprofessions (BIVB Bourgogne, CIVB Bordeaux, InterRhône, Comité Champagne) qui publient des suggestions d’accords\n\nSi tu veux, dis-moi un accord précis et je te donne le principe utilisé et quelques références publiques correspondantes."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "The Oxford Companion to Wine (Jancis Robinson, Julia Harding)",
+            "Larousse du Vin",
+            "Wine Folly: The Master Guide (et leurs articles en ligne)",
+            "Perfect Pairings (Evan Goldstein)",
+            "Taste Buds and Molecules (François Chartier)",
+            "On Food and Cooking (Harold McGee)",
+            "WSET (niveaux 2/3)",
+            "Court of Master Sommeliers",
+            "Decanter",
+            "JancisRobinson.com",
+            "GuildSomm",
+            "Serious Eats (Food Lab)",
+            "Recherches UC Davis/Cornell sur l’astringence des tanins et l’interaction avec les protéines, effets du sucre/acidité sur la perception"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges gourmands, plutôt fruités et peu tanniques, autour de 10€ (selon enseigne/promo). Voici des valeurs sûres faciles à trouver:\n\nLégers et très apéro-friendly\n- Beaujolais / Beaujolais-Villages (Gamay): frais, fruit rouge, peu tannique. Ex: Duboeuf, Louis Jadot, Trenel. 7–10€.\n- Loire (Cabernet Franc): Saumur-Champigny, Chinon, St-Nicolas-de-Bourgueil – cuvées d’entrée de gamme, juteux, poivré, digeste. 9–12€.\n- Fronton (Négrette): floral, fruits noirs, souple. Ex: Château Bellevue La Forêt. 7–9€.\n- Gaillac rouge (styles fruités): léger, croquant. 7–10€.\n\nGourmands du Sud (un peu plus de corps, parfaits avec la charcut’)\n- Côtes-du-Rhône: rond, épicé, facile. Ex: Guigal, Chapoutier Belleruche, Ferraton “Samorens”, Ogier. 8–11€.\n- Ventoux: fruit mûr, épices douces, très cool à l’apéro. Ex: Perrin Ventoux, La Vieille Ferme. 6–8€.\n- Languedoc (Minervois, Corbières, AOP Languedoc): soleil mais sans excès de bois. Ex: “Les Darons” (Jeff Carrel), coop locales sérieuses. 7–10€.\n\nBordeaux souples (pour fromages un peu plus corsés)\n- Bordeaux Supérieur / Côtes de Bordeaux: fruits noirs, tanins sages. Ex: Château Pey La Tour, Château de Parenchère, Château Recougne. 7–10€.\n\nSi tu veux sortir de France (bon plan budget)\n- Espagne: Rioja joven/roble (Cune Joven, Campo Viejo Tempranillo). 7–10€.\n- Italie: Montepulciano d’Abruzzo (Fantini/Farnese), Sangiovese di Romagna. 6–9€.\n- Portugal: Dão (Grão Vasco), Douro “Porca de Murça”. 7–9€.\n\nConseils service\n- Sers légèrement frais: 14–16°C (20–30 min au frigo avant).\n- Pour fromages à pâte molle (brie/camembert), privilégie les rouges légers (Beaujolais, Loire). Pour charcut’ ou pâtes pressées (comté, tomme), un CDR/Languedoc ira très bien.\n\nSi tu me dis où tu comptes acheter (caviste, Carrefour/Leclerc, Lidl, Monoprix…), je te propose des bouteilles précises dispo en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas dans une base unique d’accords mets-vins ni ne navigue sur le web en temps réel. Je suis un modèle de langage entraîné par OpenAI sur un mélange de données publiques, de contenus sous licence et d’exemples fournis par des formateurs humains. Mes recommandations s’appuient sur des principes de sommellerie largement documentés (acidité, tanins, sucre, sel, umami, intensité, accords de contraste vs. congruence), appris à partir de ces sources. Je n’ai pas de visibilité sur chaque document précis du jeu d’entraînement.\n\nSi vous souhaitez vérifier ou aller plus loin, voici des références reconnues que vous pouvez consulter directement:\n- Ouvrages de référence: The Oxford Companion to Wine (Jancis Robinson, Julia Harding), Larousse du Vin, Wine Folly: The Master Guide (et leurs articles en ligne), Perfect Pairings (Evan Goldstein), Taste Buds and Molecules (François Chartier), On Food and Cooking (Harold McGee).\n- Formations/organisations: WSET (niveaux 2/3) et Court of Master Sommeliers (principes d’accords, structure du vin). \n- Médias/ressources pro: Decanter, JancisRobinson.com, GuildSomm (articles techniques), Serious Eats (Food Lab) pour des tests pratiques.\n- Travaux scientifiques (sensory science): recherches UC Davis/Cornell sur l’astringence des tanins et l’interaction avec les protéines, effets du sucre/acidité sur la perception.\n\nDites-moi quel accord précis vous voulez sourcer et je vous proposerai des références ou articles pertinents pour ce cas."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat (Karen Page & Andrew Dornenburg)",
+            "The Oxford Companion to Wine (Jancis Robinson et al.)",
+            "WSET (sections « Food and Wine Pairing » des niveaux 2/3)",
+            "GuildSomm (articles et cours sur les accords)",
+            "On Food and Cooking (Harold McGee)",
+            "Publications académiques/sensorielles (UC Davis ; travaux sur tanins-protéines, acidité, capsaïcine, umami)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour une planche charcuterie/fromage, vise des rouges fruités, peu boisés et aux tanins souples, autour de 10€. Voici des choix faciles à trouver (GMS/cavistes) et fiables:\n\n- Beaujolais-Villages (Gamay)\n  - Exemples: Louis Jadot “Combe aux Jacques”, Jean Loron, Duboeuf\n  - 8–11 €\n  - Parfait pour saucisson, jambon cru, brie/camembert. Servir à 14–15°C.\n\n- Saint-Nicolas-de-Bourgueil ou Chinon “cuvée fruit” (Cabernet Franc)\n  - Ex: Cave de Bourgueil/Alliance Loire, Couly-Dutheil entrée de gamme\n  - 8–11 €\n  - Frais, notes de fruits rouges et légère pointe végétale: top avec rillettes, terrines, tommes jeunes.\n\n- Saumur-Champigny (entrée de gamme)\n  - Ex: Robert & Marcel (Cave de Saumur)\n  - 9–10 €\n  - Très digeste et croquant, marche bien sur charcuterie fine et fromages à pâte molle.\n\n- Côtes-du-Rhône “réserve” souple (Grenache/Syrah)\n  - Ex: Famille Perrin “Réserve”, Guigal, Jaboulet “Parallèle 45”\n  - 8–10 €\n  - Un peu plus de rondeur pour coppa, chorizo doux, comté jeune.\n\n- Languedoc rouge gourmand (Grenache/Syrah)\n  - Ex: La Vieille Ferme rouge, Les Jamelles (Syrah/Grenache), Gérard Bertrand “Naturalys” Syrah\n  - 6–10 €\n  - Fruit mûr, épices douces, polyvalent sur toute la planche.\n\n- Fronton (Négrette, Sud-Ouest)\n  - Ex: Château Bellevue La Forêt\n  - 7–9 €\n  - Floral et épicé, super avec saucisse sèche, pâtés, tomme de brebis.\n\n- Bordeaux fruité et léger (merlot majoritaire)\n  - Appellations: Blaye Côtes de Bordeaux, Bordeaux Supérieur “cuvée classique”\n  - Ex: Château Recougne, Château Le Grand Verdus “Classic”\n  - 8–11 €\n  - Choisis une cuvée peu boisée pour éviter des tanins trop marqués sur le salé.\n\n- Option étrangère à petit prix\n  - Rioja Tempranillo Joven (Campo Viejo, Marqués de Cáceres Joven) ou Douro “Esteva” Casa Ferreirinha\n  - 8–10 €\n  - Souple et fruité, très convivial.\n\nConseils rapides\n- Style: privilégie “fruity”, “sans bois” ou “élevage en cuve”. Évite les rouges très tanniques pour la charcuterie.\n- Service: légèrement frais (14–16°C). Ouvre 20–30 min avant.\n- Fromages: pâte molle (brie/camembert) et pâtes pressées (tomme, cantal, comté jeune) adorent Gamay/Loire/Rhône souple. Pour bleus et chèvres, un blanc sec ou moelleux marche mieux; si tu restes en rouge, choisis le plus fruité possible.\n- Quantités: pour un apéro, compte 1 bouteille pour 3–4 personnes.\n\nSi tu me dis ton magasin (Carrefour, Leclerc, caviste…), je te propose une mini-liste précise dispo en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne “tiens” pas ces données d’une base unique. Mes réponses s’appuient sur:\n- Mon entraînement: un mélange de données publiques, de contenus sous licence et de données rédigées par des formateurs humains. Je n’ai pas d’accès direct à des bases propriétaires ni de mémoire de sources précises.\n- Des principes œnologiques largement établis (acidité qui “coupe” le gras, tanins qui se lient aux protéines, sucre qui adoucit le piquant, sel qui diminue l’amertume, “ce qui pousse ensemble s’accorde ensemble”, etc.).\n- Des ouvrages et ressources de référence reconnus dans le milieu, par exemple:\n  - What to Drink with What You Eat (Karen Page & Andrew Dornenburg)\n  - The Oxford Companion to Wine (Jancis Robinson et al.)\n  - WSET (notamment les sections “Food and Wine Pairing” des niveaux 2/3)\n  - GuildSomm (articles et cours sur les accords)\n  - On Food and Cooking (Harold McGee) pour les interactions gustatives\n  - Publications académiques/sensorielles (UC Davis, travaux sur tanins-protéines, acidité, capsaïcine, umami)\n\nSi tu veux, indique-moi un accord précis et je peux expliquer le raisonnement et pointer vers des références pertinentes pour ce cas."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Flavor Bible (Page & Dornenburg)",
+            "Wine Folly: Magnum Edition (Puckette & Hammack)",
+            "On Food and Cooking (Harold McGee)",
+            "Taste Buds and Molecules / Papilles et Molécules (François Chartier)",
+            "Lignes directrices des formations WSET / Court of Master Sommeliers"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Très bonne idée: pour une planche charcuterie/fromage, vise des rouges fruités, peu boisés, avec des tanins souples et de la fraîcheur. Budget ~10€: voici des valeurs sûres faciles à trouver en GMS/caviste.\n\nLégers et croquants (parfaits à l’apéro, à servir un peu frais 12–14°C)\n- Beaujolais-Villages (Gamay) — ex. Château de Pizay, Georges Duboeuf. Fruits rouges, gourmand, peu tannique.\n- Touraine Gamay — cuvées de coop’ locales. Cerise/cassis, très facile.\n- Pinot Noir Pays d’Oc — Les Jamelles, Paul Mas. Léger, juteux, sans bois marqué.\n\nFrais et juteux (top avec charcuterie et fromages doux)\n- Saumur rouge (Cabernet Franc) — Robert & Marcel “Les Pouches”, Domaine des Hauts de Sanziers. Poivron doux, fruits rouges, bouche tonique.\n- Saumur-Champigny (entrée de gamme) — styles similaires, un peu plus fin.\n\nSouples et épicés (annoncent bien la planche, tanins fondus)\n- Côtes-du-Rhône — Guigal, M. Chapoutier “Belleruche”, Jaboulet “Parallèle 45”. Grenache/Syrah: fruits noirs, épices, très polyvalent.\n- Ventoux — Famille Perrin Ventoux. Fruité, souple, super rapport prix/plaisir.\n- Luberon / Costières de Nîmes — Marrenon Classique, Château de Nages (entrée de gamme).\n\nLanguedoc/Roussillon (soleil mais reste digeste à l’apéro)\n- Minervois — Château d’Oupia. Gourmand, un brin garrigue.\n- Fitou/Corbières — Mont Tauch Fitou, Château de Lastours (entrée de gamme).\n- Côtes du Roussillon — Chapoutier “Bila-Haut”. Fruits noirs, épices, frais.\n\nSud-Ouest et Alpes (authentiques et conviviaux)\n- Fronton — Château Bellevue la Forêt. Négrette fruitée et poivrée, super avec saucisson.\n- Savoie Mondeuse — Jean Perrier & Fils. Poivre/violette, idéal charcut’ montagnarde.\n\nSi ça ne te dérange pas de sortir de France (toujours ~10€)\n- Espagne: Rioja Joven (Cune/El Coto), Garnacha “Borsao Selección”. Fruités, sans bois lourd.\n- Italie: Montepulciano d’Abruzzo (Masciarelli). Souple, gourmand.\n- Portugal: Douro “Altano” (Symington), Dão “Grão Vasco”. Frais, polyvalents.\n\nConseils service et accords\n- Serre légèrement au frais: 20–30 min au frigo avant de servir les vins légers; 10–15 min pour Rhône/Languedoc (viser 14–16°C).\n- Évite les rouges très boisés ou très tanniques (jeunes Bordeaux puissants, Cahors/Madiran) qui se heurtent aux fromages à pâte molle.\n- Fromages: brie/camembert → Gamay/Pinot; comté/tomme → Côtes-du-Rhône/Ventoux; chèvre → Cabernet Franc; bleu → le rouge n’est pas idéal, mais un Grenache mûr marche mieux que la plupart.\n\nPetit plan d’achat express (autour de 10€ pièce)\n- Beaujolais-Villages Château de Pizay\n- Saumur rouge “Les Pouches” (Robert & Marcel)\n- Côtes-du-Rhône Guigal ou Jaboulet “Parallèle 45”\n- Ventoux Famille Perrin\n- Minervois Château d’Oupia\n- Fronton Château Bellevue la Forêt\n- Côtes du Roussillon Chapoutier “Bila-Haut”\n- Pinot Noir Les Jamelles\n- Option Espagne: Rioja Joven Cune\n- Option Italie: Masciarelli Montepulciano d’Abruzzo\n\nÇa te ferait une belle sélection variée et conviviale pour un apéro entre amis. Tu veux que je t’aide à choisir 3–4 bouteilles complémentaires selon ta planche précise et le nombre de personnes?\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne m’appuie pas sur une base unique ni sur une source en temps réel. Mes conseils d’accords proviennent de connaissances apprises lors de l’entraînement à partir d’un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains, ainsi que de principes œnologiques largement admis (équilibre acidité/gras, tanins/protéines, sucre/piment, intensité/intensité, accords régionaux).\n\nPour approfondir par vous-même, voici des références couramment utilisées par les passionnés et pros:\n- What to Drink with What You Eat (Dornenburg & Page)\n- The Flavor Bible (Page & Dornenburg)\n- Wine Folly: Magnum Edition (Puckette & Hammack)\n- On Food and Cooking (Harold McGee) pour la science culinaire\n- Taste Buds and Molecules / Papilles et Molécules (François Chartier)\n- Lignes directrices enseignées dans les formations WSET/Court of Master Sommeliers\n\nSi vous voulez, dites-moi un plat précis et je vous explique l’accord proposé et le raisonnement, avec des références adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "What to Drink with What You Eat (A. Dornenburg & K. Page)",
+            "The Flavor Bible (A. Dornenburg & K. Page)",
+            "Wine Folly (site et guide de M. Puckette)",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "jancisrobinson.com",
+            "Decanter",
+            "Serious Eats",
+            "Papilles et Molécules (F. Chartier)",
+            "Le Goût du Vin (É. Peynaud)",
+            "La Revue du vin de France",
+            "Guide Hachette des Vins",
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Pour un apéro charcuterie/fromage, vise des rouges fruités, frais, avec des tanins souples. Évite les rouges très boisés ou alcooleux. Voici des options autour de 10€ (souvent dispo en grande surface ou chez caviste), avec un style qui marche bien sur saucisson, jambon cru, comté, tommes, brie, etc.\n\nTrès faciles à marier (léger à moyen, à pouvoir servir un peu frais)\n- Beaujolais‑Villages (Louis Jadot ou Georges Duboeuf) – Gamay juteux, cerise/framboise, tanins très doux. Top aussi avec fromages à pâte molle. 8–10€.\n- Fleurie ou Chiroubles (cave coop) – un cran au‑dessus en finesse, à servir à 12–14°C. 10–12€.\n- Chinon/Bourgueil “tradition” (cabernet franc, entrée de gamme) – fruits rouges, légère note poivrée, bonne fraîcheur. 9–12€.\n- Fronton – Château Bellevue La Forêt – Négrette gourmande, violette/épices douces, hyper polyvalent. 7–9€.\n\nRouges souples et épicés (parfaits pour la charcut’ et fromages à pâte dure)\n- Côtes‑du‑Rhône – Parallèle 45 (Jaboulet) ou Réserve (Famille Perrin) – Grenache/Syrah, rond, fruits noirs/épices. 8–10€.\n- Côtes‑du‑Rhône (E. Guigal) – un classique fiable, un poil plus structuré. 9–11€.\n- Minervois – Château d’Oupia “Tradition” – syrah/carignan, garrigue, tanins polis. 9–11€.\n- Faugères – Mas Olivier – fruit mûr mais frais, touche de garrigue. 9–11€.\n- “Les Darons” (Jeff Carrel, Languedoc) – charme immédiat, fruits noirs/épices, très convivial. 9–11€.\n\nBons plans hors France (fruités et faciles)\n- Rioja Tempranillo “joven” – Campo Viejo Tempranillo – cerise/vanille légère, très accessible. 7–9€.\n- Navarra – Viña Zorzal Garnacha – juteux et gourmand, peu de tanin. 9–11€.\n- Montepulciano d’Abruzzo (Umani Ronchi, etc.) – souple, prune/épices. 7–9€.\n- Douro – Casa Ferreirinha “Esteva” – frais, fruits rouges/noirs, touche épicée. 6–8€.\n\nConseils service et quantités\n- Température: 12–14°C pour Beaujolais/Loire; 15–16°C pour Rhône/Languedoc. Mets les bouteilles 20–30 min au frigo avant.\n- Ouvre 20–30 min avant de servir; pas besoin de carafe.\n- Quantité: pour un apéro, compte 1 bouteille pour 3–4 personnes.\n\nAstuce fromages: avec brie/camembert, privilégie un rouge léger (Beaujolais/Loire). Pour comté/tomme, un Côtes‑du‑Rhône ou Languedoc souple marche très bien. Évite les rouges très tanniques avec les fromages coulants.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas dans une base unique en temps réel. Mes réponses s’appuient sur un mélange de données utilisées pendant mon entraînement (contenus publics, données sous licence et retours de formateurs), ainsi que sur des principes d’accords mets-vins largement partagés par la communauté (intensité, acidité vs gras, sucre vs piment, tannins et protéines, effets de l’umami, accords régionaux).\n\nSi vous cherchez des références où l’on retrouve ces principes et des exemples d’accords, voici des sources représentatives et reconnues:\n- What to Drink with What You Eat (A. Dornenburg & K. Page)\n- The Flavor Bible (A. Dornenburg & K. Page)\n- Wine Folly (site et guide de M. Puckette) – tableaux d’accords accessibles\n- The Oxford Companion to Wine (J. Robinson) et jancisrobinson.com\n- Decanter, Serious Eats (rubriques accords)\n- Papilles et Molécules (F. Chartier) – approche “arômes/molécules”\n- Le Goût du Vin (É. Peynaud) – bases sensorielle/œnologie utiles aux accords\n- La Revue du vin de France; Guide Hachette des Vins (rubriques accords)\n- Principes enseignés dans les cursus sommelier (WSET, Court of Master Sommeliers), largement diffusés sous forme de règles pratiques\n\nJe ne peux pas garantir qu’un point précis vient d’une source donnée sans vérification. Si vous me dites quel accord ou quelle affirmation vous voulez sourcer, je peux vous proposer des références plus ciblées (et, si besoin, des liens vers des articles en ligne)."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "The Oxford Companion to Wine (J. Robinson et al.)",
+            "What to Drink with What You Eat (A. Dornenburg, K. Page)",
+            "Tastebuds and Molecules / L’Essence du goût (F. Chartier)",
+            "Le Goût du vin (É. Peynaud)",
+            "Wine Folly (M. Puckette, J. Hammack)",
+            "Larousse du Vin",
+            "WSET (Wine & Spirit Education Trust) – niveaux 2/3 et Diploma",
+            "Court of Master Sommeliers – principes d’accords par congruence/contraste et gestion de l’intensité",
+            "GuildSomm (articles techniques et dossiers)",
+            "Études sur les interactions tanins–protéines (impact sur l’astringence avec viandes)",
+            "Effets du sucre, de l’acidité et du piment sur la perception de l’alcool et l’amertume",
+            "Recherches en psychologie du goût et crossmodalité (p. ex. Charles Spence)",
+            "Publications de l’ISVV (Bordeaux)",
+            "American Society for Enology and Viticulture"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Pour une planche charcuterie/fromage, vise des rouges fruités, peu tanniques, servis légèrement frais (12–14 °C). Autour de 10€ (grande surface ou caviste), voici des valeurs sûres:\n\n- Beaujolais/Gamay (léger, juteux, top charcuterie)\n  - Beaujolais-Villages: Georges Duboeuf, Louis Jadot “Combe aux Jacques”, Jean Loron\n  - Brouilly ou Régnié (négociants type Duboeuf/Trenel) si promo\n\n- Loire – Cabernet Franc (frais, gourmand, herbacé léger)\n  - Chinon ou Bourgueil “jeunes vignes”/cuvées d’entrée: Plouzeau “Rive Gauche”, Cave de Bourgueil\n  - Saumur-Champigny d’entrée de gamme (Robert & Marcel, Domaine des Roches Neuves “Soif” si trouvé)\n\n- Rhône Sud (souple, épicé, polyvalent)\n  - Côtes-du-Rhône: Guigal, Famille Perrin “Réserve”, Jaboulet “Parallèle 45”, Chapoutier “Belleruche”\n  - Ventoux: Famille Perrin Ventoux, TerraVentoux\n\n- Languedoc/Roussillon (fruit mûr mais digeste)\n  - Minervois Château d’Oupia “Tradition”\n  - Faugères “Mas Olivier”\n  - Côtes-du-Roussillon M. Chapoutier “Bila-Haut”\n\n- Sud-Ouest (original, parfait avec saucissons)\n  - Fronton Château Bellevue la Forêt (Négrette)\n  - Marcillac Domaine du Cros “Lo Sang del Païs” (Fer Servadou)\n\n- Bordeaux léger\n  - Bordeaux Clairet: Château Penin Clairet, Château Thieuley Clairet (excellent avec charcuteries et fromages doux)\n\n- Savoie\n  - Mondeuse (Jean Perrier & Fils) pour un rouge vif, poivré, très apéro\n\nConseils rapides:\n- Millésimes: 2021–2023 pour garder du fruit et peu de tanins.\n- Service: léger passage au frais 20–30 min; éviter les rouges très boisés/puissants.\n- Fromages plus affinés: prévois aussi un Côtes-du-Rhône/Costières de Nîmes un peu plus charnu.\n\nSi tu me dis où tu achètes (enseigne/caviste) et ton budget total, je te fais une short-list précise et le nombre de bouteilles à prévoir.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas dans une base unique de « données » sur les accords mets-vins. Comme modèle, j’ai été entraîné sur un mélange de contenus sous licence, de données créées par des formateurs humains et d’informations librement accessibles. Je n’ai pas accès à ma liste d’entraînement exacte ni à des sources en direct. Mes recommandations reflètent donc des principes largement enseignés et documentés en œnologie et sommellerie.\n\nQuelques références et familles de sources reconnues sur lesquelles ces principes sont généralement fondés :\n- Ouvrages de référence et manuels\n  - The Oxford Companion to Wine (J. Robinson et al.)\n  - What to Drink with What You Eat (A. Dornenburg, K. Page)\n  - Tastebuds and Molecules / L’Essence du goût (F. Chartier)\n  - Le Goût du vin (É. Peynaud)\n  - Wine Folly (M. Puckette, J. Hammack)\n  - Larousse du Vin\n- Programmes et supports pédagogiques\n  - WSET (Wine & Spirit Education Trust) – niveaux 2/3 et Diploma\n  - Court of Master Sommeliers – principes d’accords par congruence/contraste et gestion de l’intensité\n  - GuildSomm (articles techniques et dossiers, souvent cités dans le milieu)\n- Travaux de sciences sensorielles et œnologie\n  - Études sur les interactions tanins–protéines (impact sur l’astringence avec viandes)\n  - Effets du sucre, de l’acidité et du piment sur la perception de l’alcool et l’amertume\n  - Recherches en psychologie du goût et crossmodalité (p. ex. Charles Spence)\n  - Publications de l’ISVV (Bordeaux) et de l’American Society for Enology and Viticulture\n\nSi vous voulez vérifier un point précis (ex. “pourquoi l’umami peut accentuer l’amertume d’un vin tannique ?” ou “pourquoi on conseille du sucre résiduel avec des plats pimentés ?”), dites-moi lequel et je vous indique des explications et des références plus ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "Manuels WSET (Wine & Spirit Education Trust)",
+            "Manuels du Court of Master Sommeliers",
+            "The Wine Bible — Karen MacNeil",
+            "The Oxford Companion to Wine — Jancis Robinson",
+            "The Taste of Wine — Émile Peynaud",
+            "What to Drink with What You Eat — Andrew Dornenburg & Karen Page",
+            "On Food and Cooking — Harold McGee",
+            "Recherches en analyse sensorielle (ex. UC Davis)",
+            "Travaux d’Ann C. Noble",
+            "Wine Folly"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour un apéro charcuterie/fromage, vise des rouges fruités, peu tanniques, servis légèrement frais (12–14°C). Budget ~10€: voici des valeurs sûres faciles à trouver.\n\nFrais et légers (top à l’apéro)\n- Beaujolais/Beaujolais-Villages (Gamay) – 8–11€: fruit rouge croquant, peu tannique. Ex.: Georges Duboeuf, Louis Jadot, Mommessin.\n- Loire – Cabernet franc (Chinon, Bourgueil, Saumur-Champigny) – 8–11€: notes de fruits rouges et poivron doux, bouche fraîche. Ex.: Couly-Dutheil “Le Petit…”, Cave de Saumur/Alliance Loire.\n- Alsace Pinot Noir – 9–11€: léger et juteux. Ex.: Cave de Turckheim, Bestheim.\n\nSoleil, mais souple (charcuterie salée, fromages tomme/comté)\n- Côtes-du-Rhône – 8–12€: grenache/syrah, fruits noirs, épices douces. Ex.: Chapoutier “Belleruche”, Guigal, Jaboulet “Parallèle 45”.\n- Ventoux/Luberon/Costières de Nîmes – 7–11€: style rhodanien, un peu de garrigue, tanins souples. Ex.: Château Pesquié “Terrasses” (Ventoux), Marrenon (Luberon).\n- Languedoc (Minervois, Corbières, Côtes de Thau/Languedoc générique) – 7–11€: fruit mûr mais frais. Ex.: Jeff Carrel “Les Darons”, Gérard Bertrand entrées de gamme.\n\nSud-Ouest (original et très apéro)\n- Fronton (Négrette) – 7–10€: floral, poivré, léger. Ex.: Château Bellevue La Forêt.\n- Gaillac rouge – 6–9€: fruité et digeste. Ex.: Cave de Labastide.\n\nBordeaux souple (prends des cuvées fruitées, peu boisées)\n- Bordeaux Supérieur/Côtes de Bordeaux – 8–11€: merlot majoritaire, rond et accessible. Ex.: Château Pey La Tour, Château Recougne.\n\nOptions étrangères faciles et canons à 10€\n- Rioja Joven/Roble (Espagne) – 7–10€: tempranillo juteux, peu boisé. Ex.: Cune, Campo Viejo (gammes jóvenes).\n- Montepulciano d’Abruzzo ou Chianti “classico” entrée de gamme (Italie) – 8–11€: cerise, acidité vive, tanins souples. Ex.: Zaccagnini, Cecchi/Piccini.\n- Portugal (Dão/Douro) – 7–10€: fruit noir frais, épices. Ex.: Grão Vasco (Dão), Porca de Murça (Douro).\n- Bonus décalé: Lambrusco di Sorbara secco – 8–12€: rouge pétillant sec, parfait sur charcuterie.\n\nConseils rapides\n- Servez légèrement frais: 15–20 min au frigo avant ouverture.\n- Visez des millésimes récents (2021–2023) pour le fruit.\n- Prévoyez 1 bouteille pour 3–4 personnes à l’apéro.\n- Mixez 1 vin très léger (Beaujolais/Loire) + 1 vin un peu plus solaire (Côtes-du-Rhône/Ventoux) pour plaire à tout le monde.\n\nSi tu me dis dans quel magasin tu vas (caviste, supermarché X) et ton nombre d’invités, je te propose une short-list précise à mettre dans le panier.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas dans une base unique d’accords « toute faite ». Mes recommandations viennent de ma formation: un mélange de données sous licence, de contenu rédigé par des formateurs humains et de sources publiques, jusqu’à fin 2024. Je n’ai pas la capacité de citer la source exacte de chaque conseil, mais j’applique des principes largement enseignés en sommellerie.\n\nEn pratique, je m’appuie sur:\n- Principes généraux: équilibre acidité/tanins/sucre/sel/umami, intensité du plat vs du vin, rôle des sauces, méthodes de cuisson, accords régionaux.\n- Références courantes du domaine: manuels WSET et Court of Master Sommeliers; The Wine Bible (Karen MacNeil); The Oxford Companion to Wine (Jancis Robinson); The Taste of Wine (Émile Peynaud); What to Drink with What You Eat (Dornenburg & Page).\n- Culture scientifique du goût: On Food and Cooking (Harold McGee); recherches en analyse sensorielle (ex. UC Davis, travaux d’Ann C. Noble) sur l’effet du sel, du gras, de l’umami et du piment sur la perception du vin.\n- Vulgarisation et profils de cépages/régions: ressources pédagogiques publiques et guides généralistes (p. ex. Wine Folly).\n\nSi vous voulez, je peux fournir des références plus précises pour un accord donné, ou adapter les recommandations à votre plat exact et à vos préférences."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "Karen MacNeil — The Wine Bible",
+            "Jancis Robinson (dir.) — The Oxford Companion to Wine",
+            "WSET — Exploring the World of Wines and Spirits (niveaux 2/3)",
+            "Madeline Puckette & Justin Hammack — Wine Folly",
+            "Guide Hachette des Vins",
+            "La Revue du Vin de France"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Pour un apéro charcuterie/fromage, vise des rouges gourmands, peu tanniques et frais, autour de 10€. Idées fiables et faciles à trouver:\n\nStyles français (priorité)\n- Beaujolais (Gamay): Beaujolais-Villages, Brouilly, Chiroubles, Fleurie jeunes. Marques/coops: Georges Duboeuf, Mommessin, Henry Fessy, Vignerons de Bel Air, Pardon & Fils. Millésimes 2021-2023.\n- Loire (Cabernet franc léger): Saumur-Champigny, Chinon, Bourgueil (cuvées “fruit”). Producteurs/coops accessibles: Robert & Marcel (Saumur), Langlois-Chateau, Plouzeau (souvent ~10-12€).\n- Côtes du Rhône (souple et épicé): Guigal Côtes-du-Rhône, Chapoutier “Belleruche”, Famille Perrin “Réserve”, Vidal-Fleury. 8-12€ en GMS.\n- Languedoc/Roussillon (gourmand): Saint-Chinian, Faugères, Corbières, Fitou. Coops/marques: Cave de Roquebrun, Mont Tauch (Fitou), Les Jamelles (Grenache/Syrah).\n- Sud-Ouest (parfumé, peu tannique): Fronton (Négrette) – Château Bellevue la Forêt est un très bon rapport Q/P; Gaillac ou Duras en cuvées “tradition”.\n- Savoie (poivré, digeste): Mondeuse (Jean Perrier & Fils, Domaine Grisard) souvent 9-11€.\n- Alsace Pinot Noir: Cave de Turckheim Pinot Noir (souple, fruit rouge) ~10€.\n- Bordeaux léger pour apéro: Bordeaux clairet (ex. Château Penin Clairet ~10-12€) ou Bordeaux Supérieur souple (Dourthe N°1, Château Bonnet).\n\nOptions étrangères faciles et pas chères\n- Espagne: Rioja joven/roble (Cune, Campo Viejo, Marqués de Cáceres).\n- Italie: Barbera d’Asti ou Barbera del Monferrato (Araldica, Fontanafredda); Montepulciano d’Abruzzo (Fantini/Farnese).\n- Portugal: Douro/Dão (Casa Ferreirinha “Esteva”, Grão Vasco).\n\nConseils rapides\n- Service: 14–16°C (légèrement rafraîchi), ouvrir 20–30 min avant.\n- Charcuterie/fromages: privilégie fruit et acidité; évite les rouges très boisés ou >14,5% alc. Pour fromages bleus/puissants, aie éventuellement un blanc en secours.\n- Quantités: compte 1 bouteille pour 3–4 personnes à l’apéro.\n\nPetite liste prête à acheter (≈50€)\n- Côtes-du-Rhône Guigal ou Perrin Réserve\n- Beaujolais-Villages (Duboeuf ou Mommessin)\n- Saumur-Champigny (Robert & Marcel)\n- Fronton Château Bellevue la Forêt\n- Mondeuse Jean Perrier & Fils\n\nSi tu me dis où tu comptes acheter (caviste, Carrefour/Leclerc/Monoprix…), je te propose des références exactement disponibles en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas accès à une base de données unique ni à mes données d’entraînement exactes. Je suis entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains, puis j’applique des principes de sommellerie largement admis. Je ne navigue pas sur le web en temps réel.\n\nConcrètement, mes conseils s’appuient sur des règles classiques enseignées en œnologie/sommellerie (équilibre intensité/texture, rôle de la sauce, tanins qui aiment le gras/protéines, l’acidité qui “coupe” le gras et aime l’acidité, sucre du vin ≥ sucre du plat, piquant qui appelle du sucre et un alcool modéré, accords régionaux, etc.), plutôt que sur une seule source.\n\nSi vous voulez des références à consulter (non exhaustif) :\n- Karen MacNeil — The Wine Bible\n- Jancis Robinson (dir.) — The Oxford Companion to Wine\n- WSET — Exploring the World of Wines and Spirits (niveaux 2/3)\n- Madeline Puckette & Justin Hammack — Wine Folly\n- Guide Hachette des Vins; La Revue du Vin de France (articles et dossiers)\n\nDites-moi si vous souhaitez des sources ou justifications pour un accord précis, je peux détailler."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": false,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (niveaux 2/3)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "The Wine Bible (Karen MacNeil)",
+            "Wine Folly",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "Perfect Pairings (Evan Goldstein)",
+            "On Food and Cooking (Harold McGee)"
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Super idée. Pour un apéro charcuterie/fromage, vise des rouges frais, peu tanniques, fruités. Budget ~10€: privilégie Beaujolais, Loire, Rhône sud et Languedoc. Quelques pistes très sûres et faciles à trouver:\n\nLéger, fruité, à servir légèrement frais (12–14°C)\n- Beaujolais-Villages, Brouilly, Régnié, Chiroubles (Gamay): parfait avec saucisson et fromages doux. Exemples faciles: Duboeuf, Trenel, Jadot, Cave du Château de Chénas.\n- Loire en cabernet franc: Saumur-Champigny, St-Nicolas-de-Bourgueil, Bourgueil (cuvées «domaine»/«tradition», 2021–2023). Frais, croquant, herbacé léger.\n\nSouple et épicé, un peu plus de matière (14–16°C)\n- Côtes-du-Rhône ou Ventoux (Grenache/Syrah): rond et épicé, passe très bien avec charcuteries. Exemples largement dispo: Jaboulet Parallèle 45, Guigal Côtes-du-Rhône, Chapoutier Belleruche, La Vieille Ferme (Ventoux).\n- Languedoc: Corbières, Minervois, Fitou, IGP Pays d’Oc (Grenache/Carignan/Syrah). Exemples: Castelmaure (Corbières), Les Darons – Jeff Carrel, Montmija/Caraguilhes, coop locales.\n- Sud-Ouest gouleyant: Fronton (Négrette), Gaillac «primeur» ou cuvée fruitée, Buzet, Marcillac. Bons rapports Q/P de coopératives.\n\nAutres options légères\n- Pinot noir d’Alsace entrée de gamme (souple, cerise).\n- Si tu élargis hors France: Rioja joven/tempranillo (Cune/Campo Viejo), Barbera d’Asti (Fontanafredda/Bersano), Dão portugais (Grão Vasco). Souvent 7–11€.\n\nQuelle(s) bouteille(s) choisir en pratique\n- 1 bouteille «léger et fruité» (Beaujolais-Villages ou Saumur-Champigny) + 1 bouteille «souple et épicé» (Côtes-du-Rhône ou Corbières). Tu couvres charcuteries et fromages à pâte dure.\n- Vise des millésimes récents (2021–2023) et des cuvées «classiques/tradition» plutôt que «réserve/boisé».\n\nPetits conseils service & accords\n- Légère fraîcheur: 12–14°C pour Beaujolais/Loire; 14–16°C pour Rhône/Languedoc. Un petit passage 20–30 min au frigo aide.\n- Évite pour l’apéro: rouges très tanniques/boisés (Cahors/madiran jeunes, certains Bordeaux costauds).\n- Fromages: pâtes molles (brie, camembert) aiment les rouges légers; pâtes dures (comté) supportent un Rhône ou Languedoc souple; bleus sont plus compliqués avec le rouge (si tu en as beaucoup, prévois un blanc ou un petit moelleux à côté).\n\nQuantités\n- Compte environ 1 bouteille pour 3 personnes pour un apéro de 1–2 h.\n\nSi tu me dis le nombre de personnes et ton magasin (caviste, supermarché), je te propose une courte liste précise à acheter.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Mes suggestions viennent de principes d’accords largement enseignés en œnologie/sommellerie et de connaissances générales acquises lors de mon entraînement (un mélange de données publiques, sous licence et de contenu rédigé par des formateurs humains), plutôt que d’une base unique ou d’une expérience personnelle.\n\nEn pratique, je m’appuie sur:\n- Principes classiques: intensité du plat ~ intensité du vin; acidité qui “coupe” le gras; tanins adoucis par les protéines; sucre pour calmer le piment; accords de terroir (“ce qui pousse ensemble va ensemble”).\n- Références largement reconnues et accessibles: WSET (niveaux 2/3) et Court of Master Sommeliers pour les principes; The Oxford Companion to Wine (Jancis Robinson); The Wine Bible (Karen MacNeil); Wine Folly; What to Drink with What You Eat (Dornenburg & Page); Perfect Pairings (Evan Goldstein). Pour la partie science du goût: On Food and Cooking (Harold McGee).\n\nSi vous voulez, dites-moi quel accord précis vous souhaitez sourcer et je vous pointe vers des passages ou articles pertinents décrivant ce principe."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "aromatics_notes": true,
+            "purchase_place": true,
+            "price_mention": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat (Karen Page & Andrew Dornenburg)",
+            "Perfect Pairings (Evan Goldstein)",
+            "Papilles et molécules / Taste Buds and Molecules (François Chartier)",
+            "Wine Folly: The Master Guide (Madeline Puckette & Justin Hammack)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Programmes et guides de dégustation WSET (module Accords mets-vins)",
+            "Court of Master Sommeliers",
+            "Articles GuildSomm",
+            "Travaux de sciences sensorielles (UC Davis) sur acidité, tanins, umami, etc."
+        ],
+        "history": "User: Quels vins rouges autour de 10€ je peux acheter pour un apéro entre amis? Pour aller avec une planche charcuterie/fromage.\nAssistant: Pour un apéro charcuterie/fromage, visez des rouges fruités, peu boisés, à servir légèrement frais (14–16°C). Autour de 10€ (±2€ selon l’enseigne), voici des valeurs sûres faciles à trouver en grande distrib’ ou caviste.\n\nFrance\n- Beaujolais (Gamay, léger et juteux)\n  - Beaujolais-Villages: Georges Duboeuf, Louis Jadot, Château de Pizay (8–11€)\n  - Brouilly ou Régnié de caves coopératives (9–12€)\n- Vallée du Rhône sud (souple, gourmand)\n  - Côtes-du-Rhône: Famille Perrin “Réserve”, E. Guigal, M. Chapoutier “Belleruche” (8–12€)\n  - Ventoux: Famille Perrin “Ventoux” (7–9€)\n  - Luberon: Chapoutier “La Ciboise” (7–10€)\n- Loire – Cabernet Franc (frais, peu tannique)\n  - Chinon/Bourgueil/St‑Nicolas: Bougrier “Pure Loire” (8–10€), cuvées de coop (8–11€)\n  - Saumur‑Champigny: cuvées de la Cave de Saumur (9–12€)\n- Languedoc/Roussillon (fruit mûr, épices, sans excès de bois)\n  - Corbières “Col des Vents” (Castelmaure) (7–9€)\n  - Fitou – Mont Tauch “Grande Réserve” (7–10€)\n  - Minervois – Château de Paraza (9–11€)\n- Sud‑Ouest (original, convivial)\n  - Fronton – Château Bellevue La Forêt (8–10€)\n  - Côtes de Gascogne rouge – UBY N°7 Merlot/Tannat (6–8€)\n  - Gaillac rouge (caves coop) (7–9€)\n- Savoie\n  - Mondeuse – Cave de Chautagne (7–9€), poivrée et fraîche, top à l’apéro\n\nInternational (bons plans)\n- Espagne: Borsao Selección (Garnacha, Campo de Borja) 6–8€; Rioja joven – El Coto/Coto Mayor 8–10€\n- Italie: Montepulciano d’Abruzzo – Umani Ronchi, Fantini 7–10€\n- Portugal: Douro “Altano” (Symington) 9–11€\n\nPanier tout prêt pour 6–8 personnes (6 bouteilles)\n- 2 x Beaujolais‑Villages (démarrage léger et fruité)\n- 2 x Côtes‑du‑Rhône ou Ventoux (plus solaire et gourmand)\n- 1 x Cabernet Franc de Loire (Chinon/Bourgueil) pour la fraîcheur\n- 1 x Corbières ou Minervois pour un peu plus de matière\n\nAccords rapides\n- Charcuteries: Beaujolais, Ventoux, Côtes‑du‑Rhône (fruit et acidité > tanins)\n- Fromages\n  - Pâtes molles (brie, camembert): Beaujolais ou Loire\n  - Pâtes pressées (tomme, comté): Rhône/Languedoc\n  - Bleus: pas idéal en rouge; si vous tenez au rouge, un Grenache mûr (Côtes‑du‑Rhône) ira mieux\n\nService\n- Servez à 14–16°C (petit passage au frais 20–30 min si besoin)\n- Ouvrez 20–30 min avant; pas besoin de carafe sur ces cuvées\n\nSi vous me dites où vous achetez (enseigne) et votre région, je peux proposer des références très précises en rayon.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas une base unique de “données d’accords” que je consulte. Mes suggestions s’appuient sur:\n- un entraînement sur un mélange de données publiques, sous licence et de contenus rédigés par des formateurs, \n- et surtout sur des principes largement enseignés en sommellerie (équilibre intensité/puissance, acidité qui “coupe” le gras et le sel, sucre qui adoucit le piment, sel qui assouplit les tanins, umami qui accentue l’astringence, accords régionaux, etc.).\n\nSi vous voulez vérifier ou approfondir, vous retrouverez ces mêmes principes dans des sources reconnues:\n- What to Drink with What You Eat (Karen Page & Andrew Dornenburg)\n- Perfect Pairings (Evan Goldstein)\n- Papilles et molécules / Taste Buds and Molecules (François Chartier)\n- Wine Folly: The Master Guide (Madeline Puckette & Justin Hammack)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Programmes et guides de dégustation WSET (module Accords mets-vins), Court of Master Sommeliers et articles GuildSomm\n- Travaux de sciences sensorielles (UC Davis) sur acidité, tanins, umami, etc.\n\nSi vous avez un accord précis en tête, je peux expliquer la logique et pointer vers des références adaptées."
+    }
+]

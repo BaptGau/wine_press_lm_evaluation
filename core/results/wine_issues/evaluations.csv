@@ -1,0 +1,7 @@
+variable,total,true,false,null,true_%,false_%,null_%
+specialised_press_mention,30,0,0,30,0.0,0.0,100.0
+context,30,30,0,0,100.0,0.0,0.0
+organize_per_category,30,30,0,0,100.0,0.0,0.0
+same_organisation_per_fault_type,30,25,5,0,83.33333333333334,16.666666666666664,0.0
+precision_proposal,30,29,1,0,96.66666666666667,3.3333333333333335,0.0
+visual_synthesis_proposal,30,0,30,0,0.0,100.0,0.0

@@ -8,7 +8,7 @@ class WineIssues {
 }
 
 function EvaluateWineIssues(query: string, response: string) -> WineIssues {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

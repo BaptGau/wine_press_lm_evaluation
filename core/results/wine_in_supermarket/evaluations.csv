@@ -1,0 +1,9 @@
+variable,total,true,false,null,true_%,false_%,null_%
+specialised_press_mention,30,0,0,30,0.0,0.0,100.0
+context,30,30,0,0,100.0,0.0,0.0
+precise_objective,30,29,1,0,96.66666666666667,3.3333333333333335,0.0
+region_reference,30,30,0,0,100.0,0.0,0.0
+calling_reference,30,30,0,0,100.0,0.0,0.0
+label_analysis_advices,30,30,0,0,100.0,0.0,0.0
+wine_advices,30,30,0,0,100.0,0.0,0.0
+precision_proposal,30,30,0,0,100.0,0.0,0.0

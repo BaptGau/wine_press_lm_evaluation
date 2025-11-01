@@ -5,7 +5,9 @@ from openai import AsyncOpenAI
 from wine_press_lm_evaluation.core.helpers.chat_history import ChatTurn, SpeakerRole
 
 
-async def get_gpt_answer(query: str, history: list[ChatTurn] = None, model: str = "gpt-5") -> str:
+async def get_gpt_answer(
+    query: str, history: list[ChatTurn] = None, model: str = "gpt-5"
+) -> str:
     """
     Asynchronously get an answer for a query from OpenAI's model.
 

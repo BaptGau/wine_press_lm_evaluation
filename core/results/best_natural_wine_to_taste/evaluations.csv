@@ -1,0 +1,10 @@
+variable,total,true,false,null,true_%,false_%,null_%
+specialised_press_mention,30,0,0,30,0.0,0.0,100.0
+context,30,30,0,0,100.0,0.0,0.0
+red_white_division,30,27,3,0,90.0,10.0,0.0
+region_suggestion,30,30,0,0,100.0,0.0,0.0
+cepage_suggestion,30,30,0,0,100.0,0.0,0.0
+domain_suggestion,30,30,0,0,100.0,0.0,0.0
+aromatics_notes,30,28,2,0,93.33333333333333,6.666666666666667,0.0
+purchase_place,30,30,0,0,100.0,0.0,0.0
+precision_proposal,30,30,0,0,100.0,0.0,0.0

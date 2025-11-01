@@ -1,0 +1,764 @@
+[
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "INAO (AOC/AOP en France)",
+            "OIV",
+            "Règlements UE sur l’étiquetage et les pratiques œnologiques",
+            "UC Davis (Viticulture & Enology)",
+            "ISVV Bordeaux",
+            "Hochschule Geisenheim",
+            "OIV Compendium",
+            "Manuels WSET",
+            "Understanding Wine Technology (David Bird)",
+            "Wine Science (Jamie Goode)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour les rouges) qui consiste à encuver des grappes entières non foulées dans une cuve saturée en dioxyde de carbone (CO2). En absence d’oxygène, chaque baie démarre une “fermentation intracellulaire” avant d’être pressée, puis la fermentation alcoolique se termine classiquement avec les levures.\n\nComment ça se passe:\n- On remplit une cuve hermétique de grappes entières et on la sature en CO2.\n- À l’intérieur des baies intactes, les sucres sont partiellement transformés en alcool (≈1–2% vol) et en composés aromatiques; l’acide malique diminue.\n- Après quelques jours à ~20–30°C, on presse et on achève la fermentation comme d’habitude.\n\nEffets sur le vin:\n- Arômes très fruités et “confiserie” (fraise, framboise, banane, bonbon anglais), couleur vive.\n- Tanins souples, sensation plus ronde, acidité souvent adoucie.\n- Vins généralement prêts à boire jeunes (même si des versions plus sérieuses peuvent vieillir).\n\nÀ distinguer:\n- Semi-carbonique: on n’ajoute pas de CO2; le gaz est produit par la fermentation des baies écrasées au fond de la cuve. C’est la méthode traditionnelle du Beaujolais.\n- À l’inverse d’une vinification classique, on n’érafle ni ne foule au départ, donc moins d’extraction de tanins et une expression plus fruitée.\n\nOù et pour quels cépages:\n- Très utilisée en Beaujolais (Gamay, notamment pour le Beaujolais Nouveau), aussi en Rioja (maceración carbónica), Loire, et parfois pour adoucir Carignan, Grenache, etc.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne “pioche” pas ces infos dans une base unique. Je suis un modèle d’OpenAI entraîné sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs, couvrant notamment viticulture, vinification, appellations, service, etc., jusqu’en octobre 2024. Je n’ai pas d’accès en temps réel au web ni à des bases privées, et je ne peux pas citer la source exacte d’une phrase donnée.\n\nSi tu veux des références pour vérifier un point précis, dis-moi lequel. À titre indicatif, pour l’œnologie et les appellations, on se réfère souvent à:\n- Organismes officiels: INAO (AOC/AOP en France), OIV, règlements UE sur l’étiquetage et les pratiques œnologiques.\n- Institutions académiques: UC Davis (Viticulture & Enology), ISVV Bordeaux, Hochschule Geisenheim.\n- Ouvrages et supports pédagogiques: OIV Compendium, manuels WSET, “Understanding Wine Technology” (David Bird), “Wine Science” (Jamie Goode).\n\nJe peux te proposer des sources ciblées selon la question exacte."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV – Code international des pratiques œnologiques",
+            "Règlements de l’UE sur l’OCM vitivinicole (ex. Règlement (UE) n° 1308/2013 et actes délégués/d’exécution)",
+            "INAO et cahiers des charges des AOC/AOP",
+            "Bulletins des interprofessions (CIVB, BIVB, etc.)",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "Journal International des Sciences de la Vigne et du Vin",
+            "Publications de l’AWRI",
+            "Ressources UC Davis Viticulture & Enology",
+            "Traité d’œnologie (Ribéreau-Gayon et al.)",
+            "Émile Peynaud (ex. Le goût du vin)",
+            "Wine Science (R. S. Jackson)",
+            "Understanding Wine Technology (D. Bird)",
+            "Matériel pédagogique WSET",
+            "The Oxford Companion to Wine"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour des rouges légers et fruités, comme en Beaujolais) où des grappes entières et intactes fermentent dans une atmosphère saturée en CO2, avant d’être pressées.\n\nPrincipe\n- On met des grappes entières dans une cuve hermétique remplie de CO2.\n- Les baies intactes fermentent “de l’intérieur” sans levures au départ (fermentation intracellulaire): les sucres et l’acide malique sont partiellement transformés en alcool et en composés aromatiques.\n- Après quelques jours, on presse; le jus obtenu finit sa fermentation alcoolique de façon classique avec les levures.\n\nEffets sur le vin\n- Arômes intenses de fruits rouges/bonbon, banane, violette, kirsch; caractère très gourmand.\n- Tanins souples, extraction phénolique modérée, couleur plutôt légère à moyenne.\n- Acidité perçue plus douce (l’acide malique baisse dans la baie).\n- Vins généralement à boire jeunes, plus sur le fruit que sur la structure.\n\nCarbonique vs semi‑carbonique\n- Carbonique “pure”: CO2 ajouté dès le départ; toutes les baies intactes macèrent en atmosphère inerte.\n- Semi‑carbonique (la plus courante en Beaujolais): on remplit la cuve de grappes sans ajouter de CO2; les raisins du bas s’écrasent, démarrent une fermentation classique qui produit le CO2 nécessaire; les raisins du haut macèrent alors en carbonique.\n\nOù et pour quels cépages\n- Classique en Beaujolais (Gamay), aussi utilisée pour des Grenache, Carignan, ou certains vins jeunes de Rioja et du Languedoc.\n- Employée pure ou partielle pour apporter fruit et souplesse à un assemblage.\n\nDurées et conditions typiques\n- 4 à 20 jours selon le style; température modérée (environ 20–30 °C) pour préserver le fruit et éviter les déviations.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Mes réponses ne viennent pas d’une base de données unique que je consulterais en direct. Elles s’appuient sur mon entraînement, qui a utilisé un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains, ainsi que sur des schémas statistiques appris avant ma date de coupure de connaissances (octobre 2024).\n\nPour la culture œnologique en particulier, les informations que je fournis reflètent généralement des sources de référence largement reconnues, par exemple :\n- Institutions et réglementation: OIV (Code international des pratiques œnologiques), règlements de l’UE sur l’organisation commune du marché (ex. Règlement (UE) n° 1308/2013 et textes délégués/actes d’exécution), INAO et cahiers des charges des AOC/AOP, bulletins des interprofessions (CIVB, BIVB, etc.).\n- Recherche et enseignement: American Journal of Enology and Viticulture, Australian Journal of Grape and Wine Research, Journal International des Sciences de la Vigne et du Vin, publications de l’AWRI, ressources UC Davis Viticulture & Enology.\n- Ouvrages et manuels courants: Traité d’œnologie (Ribéreau-Gayon et al.), Émile Peynaud (ex. Le goût du vin), Wine Science (R.S. Jackson), Understanding Wine Technology (D. Bird), matériel pédagogique WSET, The Oxford Companion to Wine. Ce sont des références classiques que les professionnels citent fréquemment.\n\nSi vous voulez la source précise d’un point que j’ai avancé, dites-moi lequel et je vous indiquerai le texte de référence ou l’organisme à consulter pour vérification."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (rapports, Code international des pratiques œnologiques)",
+            "INAO et base eAmbrosia (AOP/IGP, cahiers des charges)",
+            "The Oxford Companion to Wine (J. Robinson et al.)",
+            "Wine Grapes (Robinson, Harding, Vouillamoz)",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "Ressources UC Davis Viticulture & Enology",
+            "Vitis International Variety Catalogue (VIVC)",
+            "Fiches techniques d’interprofessions (BIVB, CIVB, InterRhône, Comité Champagne)",
+            "Guides GuildSomm"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout en rouge) où l’on encuve des grappes entières non foulées dans une atmosphère saturée en CO2. Privées d’oxygène, les baies fermentent “de l’intérieur” (fermentation intracellulaire) avant d’être pressées; la fermentation alcoolique se termine ensuite comme d’habitude sur le jus.\n\nCe que cela implique:\n- Processus: cuve fermée + CO2, grappes entières intactes, 3 à 20 jours selon le style, puis pressurage et fin de fermentation.\n- Effets: peu d’extraction de tanins, couleur vive, baisse d’acidité malique, production d’esters aromatiques (notes de fraise, framboise, banane, bonbon, violette), texture souple; vins prêts à boire jeunes.\n- Utilisation: emblématique du Beaujolais (notamment Nouveau), mais aussi employée partiellement sur Gamay, Carignan, Grenache, Tempranillo, etc.\n- Variantes:\n  - Macération carbonique “pure”: la cuve est remplie de CO2 dès le départ.\n  - Semi-carbonique (très courante en Beaujolais): le CO2 est produit par les baies écrasées au fond de cuve, remplaçant l’oxygène progressivement.\n- Avantages/inconvénients: fruit éclatant et tanins doux, mais structure et potentiel de garde souvent plus modestes; nécessite des grappes saines et intactes.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne « possède » pas une base de données œnologique dédiée. Je suis un modèle de langage d’OpenAI entraîné sur un mélange de textes publics, de contenus sous licence et de données créées par des formateurs humains. Je ne peux pas voir ni citer la liste exacte des documents d’entraînement, et je ne navigue pas le web en temps réel. Mes réponses s’appuient sur des connaissances générales apprises pendant l’entraînement.\n\nPour la culture œnologique, les repères fiables incluent notamment:\n- OIV (rapports, Code international des pratiques œnologiques)\n- INAO et base eAmbrosia (AOP/IGP, cahiers des charges)\n- The Oxford Companion to Wine (J. Robinson et al.)\n- Wine Grapes (Robinson, Harding, Vouillamoz)\n- American Journal of Enology and Viticulture; Australian Journal of Grape and Wine Research\n- Ressources UC Davis Viticulture & Enology\n- Vitis International Variety Catalogue (VIVC)\n- Fiches techniques d’interprofessions (BIVB, CIVB, InterRhône, Comité Champagne)\n- Guides GuildSomm\n\nDites-moi quels points précis vous souhaitez sourcer (cépages, styles, réglementations, techniques), et je vous proposerai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (rapports statistiques, compendiums)",
+            "INAO",
+            "registre européen des IG (eAmbrosia)",
+            "American Journal of Enology and Viticulture (AJEV)",
+            "Australian Wine Research Institute (AWRI)",
+            "publications de UC Davis Viticulture & Enology",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "The World Atlas of Wine (Johnson & Robinson)",
+            "Wine Grapes (Robinson, Harding, Vouillamoz)",
+            "Wine Science (R.S. Jackson)",
+            "Understanding Wine Chemistry (Waterhouse et al.)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification consistant à fermenter des grappes entières non foulées dans une cuve saturée en dioxyde de carbone, donc sans oxygène. Dans ces conditions, les baies fermentent « de l’intérieur » (fermentation intracellulaire) avant d’être pressées.\n\nComment ça marche\n- On remplit une cuve de grappes entières et on la chasse à l’CO2 (ou on laisse le CO2 se créer, voir plus bas).\n- À l’abri de l’oxygène, des enzymes dans la baie transforment sucres et acides en arômes et en un peu d’alcool (environ 2% vol) sans intervention de levures.\n- Après quelques jours, on presse les raisins; le jus finit sa fermentation alcoolique de façon classique avec les levures.\n\nEffets sur le vin\n- Arômes très fruités et amyliques (fraise, cerise, banane, bonbon), faible extraction tannique, texture souple.\n- Couleur généralement plus légère, vins à boire jeunes plutôt qu’à longue garde.\n\nCarbonique vs semi-carbonique\n- Macération carbonique « stricte »: on inertie la cuve avec du CO2 dès le départ.\n- Semi-carbonique (très courante en Beaujolais): les grappes entières sont encuvées sans ajout de CO2; les baies écrasées au fond démarrent une fermentation classique qui produit le CO2 nécessaire pour créer l’atmosphère anaérobie.\n\nOù et pourquoi\n- Emblématique du Beaujolais (notamment Beaujolais Nouveau), mais aussi utilisée ailleurs (Carignan, Tempranillo en Rioja Alavesa, etc.) pour des vins fruités, accessibles et prêts à boire rapidement.\n\nPoints de vigilance\n- Températures modérées et durée maîtrisée pour éviter des déviations (volatile, notes « cuites »), hygiène soignée.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Mon savoir en œnologie provient d’un mélange de données publiques, de contenus sous licence et d’informations fournies par des formateurs humains durant mon entraînement. Je n’ai pas accès en direct à des bases propriétaires, et je ne m’appuie pas sur une source unique. Si vous voulez des références pour un point précis, je peux en proposer.\n\nQuelques références reconnues que je peux citer selon les sujets:\n- Organismes et statistiques: OIV (rapports statistiques, compendiums), INAO pour les AOP françaises, registre européen des IG (eAmbrosia).\n- Recherche et technique: American Journal of Enology and Viticulture (AJEV), Australian Wine Research Institute (AWRI), publications de UC Davis Viticulture & Enology.\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), The World Atlas of Wine (Johnson & Robinson), Wine Grapes (Robinson, Harding, Vouillamoz), Wine Science (R.S. Jackson), Understanding Wine Chemistry (Waterhouse et al.).\n\nDites-moi quel point vous souhaitez sourcer (cépages, vinification, appellations, service, histoire, données de consommation, etc.) et je vous fournis des références précises."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation internationale de la vigne et du vin) – oiv.int",
+            "IFV (Institut français de la vigne et du vin) – vignevin.com",
+            "INAO",
+            "eAmbrosia (UE)",
+            "UC Davis Viticulture & Enology",
+            "Traité d’œnologie (Ribéreau-Gayon, Dubourdieu, Donèche, Lonvaud)",
+            "Le Goût du Vin (Émile Peynaud)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Science (Ronald S. Jackson)",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "Food Chemistry (section arômes/composés volatils)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour les vins rouges) où des grappes entières, non éraflées, sont placées dans une cuve saturée en CO2 et fermée hermétiquement.\n\nPrincipe:\n- En absence d’oxygène, les baies intactes démarrent une fermentation intracellulaire: leurs enzymes transforment une partie des sucres en alcool et créent des arômes spécifiques.\n- Après quelques jours, les baies éclatent; on presse alors et on termine la fermentation alcoolique de manière classique avec les levures.\n\nEffets sur le vin:\n- Arômes très fruités et fermentaires (banane, bonbon anglais, kirsch, fraise), texture souple.\n- Moins de tannins et de couleur (extraction réduite), vin prêt à boire tôt.\n- Généralement moindre potentiel de garde; profil qui peut masquer partiellement l’expression du terroir/du cépage.\n\nDurée et conditions:\n- Typiquement 5 à 15 jours, autour de 20–30 °C, cuve saturée en CO2 (apport externe ou généré par une petite fraction de raisins foulés).\n\nVariantes:\n- Semi-carbonique: on encuve entier sans ajouter de CO2; le CO2 est produit par les baies du bas qui fermentent, créant progressivement l’atmosphère anaérobie. C’est très courant en Beaujolais.\n- Carbonique «pleine»: ajout direct de CO2 et cuve totalement hermétique.\n\nExemples classiques:\n- Beaujolais (notamment Beaujolais Nouveau, à base de Gamay), mais aussi utilisée ponctuellement en Rioja Alavesa, Languedoc (Carignan), etc.\n\nÀ ne pas confondre:\n- Avec la macération pelliculaire (sur peaux) des blancs/rosés, qui vise l’extraction d’arômes, pas la fermentation intracellulaire.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je ne puise pas dans une base unique dédiée au vin. Mes réponses sont générées à partir de connaissances acquises lors de mon entraînement par OpenAI, qui combine des données publiques, des contenus sous licence et des données rédigées par des formateurs humains. Je n’ai pas la capacité de lister les documents précis ni d’accéder en direct à des sources payantes.\n\nSi vous voulez vérifier ou approfondir un point d’œnologie, voici des références fiables couramment utilisées dans le domaine:\n- OIV (Organisation internationale de la vigne et du vin): rapports, définitions, méthodes d’analyse (oiv.int)\n- IFV (Institut français de la vigne et du vin): fiches techniques et dossiers (vignevin.com)\n- INAO et eAmbrosia (UE): appellations et cahiers des charges\n- UC Davis Viticulture & Enology: ressources techniques et cours\n- Ouvrages: Traité d’œnologie (Ribéreau-Gayon, Dubourdieu, Donèche, Lonvaud), Le Goût du Vin (Émile Peynaud), The Oxford Companion to Wine (Jancis Robinson), Wine Science (Ronald S. Jackson)\n- Revues: American Journal of Enology and Viticulture; Australian Journal of Grape and Wine Research; Food Chemistry (section arômes/composés volatils)\n\nSi vous avez un point précis à sourcer (par exemple une pratique de cave ou une donnée sur les cépages/appellations), dites-moi lequel et je vous indiquerai des références adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Grapes (Robinson/Harding/Vouillamoz)",
+            "Wine Science (R.S. Jackson)",
+            "American Journal of Enology and Viticulture",
+            "Food Chemistry (sections œnologie)",
+            "Revue des Œnologues",
+            "OIV (pratiques œnologiques)",
+            "INAO (cahiers des charges AOC/AOP)",
+            "IFV (fiches techniques)",
+            "UC Davis Department of Viticulture & Enology",
+            "CIVC/Comité Champagne",
+            "CIVB (Bordeaux)",
+            "InterRhône",
+            "InterLoire",
+            "Vitisphere",
+            "La Revue du vin de France"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières et non foulées fermentent en atmosphère saturée de CO2, avant toute fermentation classique du jus par les levures.\n\nComment ça marche, en bref:\n- On met des grappes entières dans une cuve hermétique remplie de CO2.\n- À l’intérieur des baies intactes, se produit une fermentation intracellulaire (enzymatique) en milieu anaérobie: une petite partie des sucres est transformée en alcool (≈1–2%), CO2 et composés aromatiques; une partie de l’acide malique est consommée.\n- Après quelques jours, les baies éclatent ou sont pressées; le jus fermente alors “classiquement” grâce aux levures jusqu’au sec.\n\nVariantes:\n- Macération carbonique “totale”: CO2 apporté dès le départ, grappes intactes.\n- Semi-carbonique (très fréquente en Beaujolais): on remplit la cuve de grappes entières sans ajouter de CO2; les baies écrasées au fond démarrent une fermentation qui produit le CO2, permettant la macération des baies du dessus.\n\nEffets sur le style du vin:\n- Couleur modérée, tannins souples, bouche ronde.\n- Arômes très fruités et “amyliques” (fraise, framboise, bonbon/banane, parfois violette), grande buvabilité, vins à boire jeunes.\n- Acidité perçue plus douce (malique partiellement consommé), parfois pH un peu plus élevé.\n\nDurées et conditions typiques:\n- 4 à 10 jours (parfois plus), souvent autour de 20–30 °C, avec grappes entières, peu ou pas de remontages/pigeages pendant la phase carbonique.\n\nOù et pour quels cépages:\n- Méthode emblématique du Beaujolais (Gamay), aussi utilisée en Espagnes (Rioja “maceración carbónica”), Languedoc/Roussillon (Carignan, Grenache), et ponctuellement pour des styles fruités de Tempranillo, Cinsault, etc.\n- À distinguer de la “fermentation en vendange entière” des Pinots, où une part de macération carbonique peut se produire mais avec plus d’extraction classique.\n\nAvantages et points de vigilance:\n- Avantages: grande expression fruitée, tanins doux, vins accessibles tôt.\n- Vigilance: contrôle de température et d’anaérobie pour éviter les déviations (volatile), gestion des rafles (risque végétal si trop extraites).\n\nEn résumé: la macération carbonique favorise une fermentation d’abord “dans la baie”, donnant des vins très fruités, souples et faits pour une consommation relativement rapide.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Principalement de mon entraînement: un mélange de textes publics, de contenus sous licence et de données rédigées par des formateurs humains. Cela inclut des livres, articles scientifiques, sites d’institutions, documents réglementaires et médias spécialisés sur la viticulture et l’œnologie.\n\nExemples de références reconnues que j’utilise comme “trame” de connaissance:\n- Ouvrages: The Oxford Companion to Wine (J. Robinson), Wine Grapes (Robinson/Harding/Vouillamoz), Wine Science (R.S. Jackson).\n- Revues et publications: American Journal of Enology and Viticulture, Food Chemistry (sections œnologie), Revue des Œnologues.\n- Institutions et normes: OIV (pratiques œnologiques), INAO (cahiers des charges AOC/AOP), IFV (fiches techniques), UC Davis Department of Viticulture & Enology.\n- Interprofessions/médias: CIVC/Comité Champagne, CIVB (Bordeaux), InterRhône, InterLoire, Vitisphere, La Revue du vin de France.\n\nJe n’ai pas d’accès en temps réel à des bases propriétaires et je ne “me souviens” pas d’une source unique pour chaque fait. Si vous voulez la source d’un point précis (ex. méthode de vinification, règle d’appellation, profil d’un cépage), dites-moi lequel et je vous fournirai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Organisation Internationale de la Vigne et du Vin (OIV) — rapports statistiques, compendium",
+            "INAO — cahiers des charges AOC/AOP",
+            "Réglementation de l’Union européenne sur le vin (CMO/OCM vin, étiquetage, bio)",
+            "CIVC Champagne (Comité/Interprofession Champagne)",
+            "CIVB Bordeaux",
+            "Consorzi italiani (consorzi di tutela)",
+            "Consejos reguladores españoles",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "The World Atlas of Wine (Hugh Johnson & Jancis Robinson)",
+            "Wine Grapes (Jancis Robinson, Julia Harding, José Vouillamoz)",
+            "Wine Science (Ron S. Jackson)",
+            "Le Goût du Vin (Émile Peynaud)",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "UC Davis (Department of Viticulture and Enology) — travaux/recherche",
+            "ISVV Bordeaux (Institut des Sciences de la Vigne et du Vin) — travaux/recherche",
+            "Hochschule Geisenheim University — travaux/recherche",
+            "FranceAgriMer",
+            "Rapports d’interprofessions",
+            "Publications techniques des régions"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour les rouges) où l’on encuve des grappes entières intactes dans une atmosphère saturée en CO2, sans oxygène. Dans ces conditions, les baies fermentent “de l’intérieur” (fermentation intracellulaire) avant d’être pressées; ensuite, le jus finit sa fermentation alcoolique de manière classique avec les levures.\n\nCe que cela change:\n- Extraction douce: peu de tannins, trame souple, couleur vive.\n- Profil aromatique très fruité (fraise, framboise, bonbon, parfois banane/notes amyliques), floral.\n- Acidité perçue plus douce: le malique est partiellement consommé pendant l’intracellulaire.\n- Vins souvent à boire jeunes, “gouleyants”.\n\nDéroulé simplifié:\n- Grappes entières en cuve étanche, CO2 exogène ajouté (ou généré) pour créer l’anaérobie.\n- 3 à 20 jours environ, température modérée (souvent 20–30 °C).\n- Les baies produisent jusqu’à ~1–2% d’alcool et des composés aromatiques.\n- Pressurage, puis fin de fermentation du jus par les levures.\n\nMacération carbonique vs semi-carbonique:\n- Carbonique “pure”: on ajoute du CO2 dès le départ et on travaille 100% en grappes entières intactes.\n- Semi-carbonique (très utilisée en Beaujolais): pas d’ajout de CO2; les raisins du bas s’écrasent sous le poids, démarrent la fermentation, le CO2 produit carbonique le reste de la cuve.\n\nExemples d’usage:\n- Beaujolais (notamment Beaujolais Nouveau) et, plus largement, des cuvées fruitées et légères dans de nombreuses régions.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas une base secrète de données œnologiques et je ne navigue pas le web en direct. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et d’enseignements rédigés par des formateurs humains, jusqu’en octobre 2024. Je ne peux pas citer la source exacte de chaque phrase, mais pour la culture œnologique mes réponses s’appuient généralement sur des références reconnues, par exemple:\n\n- Organismes et textes officiels: OIV (rapports statistiques, compendium), INAO et cahiers des charges AOC/AOP, réglementation UE (CMO vin, étiquetage, bio), consortiums/régulateurs (CIVC Champagne, CIVB Bordeaux, consorzi italiens, consejos reguladores espagnols).\n- Ouvrages de référence: The Oxford Companion to Wine (Jancis Robinson), The World Atlas of Wine (Johnson & Robinson), Wine Grapes (Robinson/Harding/Vouillamoz), Wine Science (Ron S. Jackson), Le Goût du Vin (Émile Peynaud).\n- Revues et recherche: American Journal of Enology and Viticulture, Australian Journal of Grape and Wine Research, travaux d’UC Davis, ISVV Bordeaux, Geisenheim, etc.\n- Sources sectorielles et statistiques: FranceAgriMer, OIV, rapports interprofessions, publications techniques des régions.\n\nSi vous me dites quelle affirmation précise vous voulez sourcer (cépage autorisé, pratique de cave, règle d’étiquetage, style d’une appellation, etc.), je peux vous proposer des références ciblées ou des pistes de vérification primaires."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Organisation internationale de la vigne et du vin (OIV)",
+            "Textes et règlements de l'Union européenne (UE)",
+            "Institut national de l'origine et de la qualité (INAO)",
+            "University of California, Davis (UC Davis)",
+            "Institut des Sciences de la Vigne et du Vin (ISVV) Bordeaux",
+            "Cornell University",
+            "American Journal of Enology and Viticulture (AJEV)",
+            "OENO One",
+            "Institut Français de la Vigne et du Vin (IFV, France)",
+            "Ministères de l'Agriculture (ressources nationales)",
+            "The Oxford Companion to Wine"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des rouges où l’on encuve des grappes entières non foulées dans une cuve saturée en CO2, sans oxygène. Dans ces conditions, les baies intactes commencent une fermentation dite intracellulaire: leurs enzymes transforment une partie des sucres et de l’acide malique en alcool, CO2 et composés aromatiques, avant même l’intervention des levures.\n\nDéroulé simplifié:\n- Grappes entières, non égrappées, mises en cuve anaérobie (CO2).\n- Fermentation intracellulaire pendant quelques jours (souvent 4 à 15, selon style et température).\n- Pressurage des grappes; le jus obtenu termine sa fermentation alcoolique de façon classique avec les levures.\n\nEffets sur le vin:\n- Arômes très fruités et intenses (fraise, cerise, banane, bonbon, violette), faible astringence, tanins souples.\n- Couleur généralement vive, structure légère à moyenne.\n- Diminution de l’acide malique, vins souvent à boire jeunes.\n\nÀ distinguer:\n- Macération carbonique “complète”: CO2 ajouté dès le départ, toutes les baies intactes.\n- Semi-carbonique (très courante en Beaujolais): pas d’ajout de CO2; les baies du bas s’écrasent, la fermentation classique produit le CO2 qui met le reste de la cuve en anaérobie.\n- “Whole cluster” (vendange entière) n’est pas forcément carbonique si l’environnement n’est pas anaérobie.\n\nRégions et styles typiques: Beaujolais (notamment Beaujolais Nouveau), certains vins jeunes de Rioja, Languedoc, et quelques vins “nature” cherchant un profil très fruité.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas une base de données privée sur le vin et je ne « sais » pas d’où provient chaque fait individuel. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et de données rédigées par des formateurs humains. Cela inclut typiquement des sources ouvertes et reconnues dans le domaine, par exemple :\n\n- Rapports et bases de l’OIV (Organisation internationale de la vigne et du vin)\n- Textes et règlements de l’UE et de l’INAO sur les appellations, l’étiquetage, etc.\n- Publications universitaires et d’extension (UC Davis, ISVV Bordeaux, Cornell, etc.)\n- Articles scientifiques (p. ex. American Journal of Enology and Viticulture, OENO One)\n- Ressources d’instituts nationaux (IFV en France) et de ministères de l’agriculture\n- Ouvrages de référence courants dans la culture œnologique (par ex. The Oxford Companion to Wine)\n\nJe n’ai pas d’accès en temps réel à des bases payantes et je ne peux pas lister précisément toutes les sources d’entraînement. Si vous avez un point précis (cépages, pratiques viticoles, histoire, régions, millésimes, législation) je peux vous donner des références ciblées pour ce point. Quel aspect souhaitez-vous sourcer ?"
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Données publiques largement disponibles (articles, sites institutionnels, encyclopédies, rapports techniques)",
+            "Contenu sous licence et données produites par des formateurs humains",
+            "Ouvrages et ressources de référence en œnologie et viticulture",
+            "OIV (Organisation internationale de la vigne et du vin)",
+            "The Oxford Companion to Wine (J. Robinson et al.)",
+            "Wine Science: Principles and Applications (R.S. Jackson)",
+            "Wine Grapes (Robinson, Harding, Vouillamoz)",
+            "IFV/INRAE (France)",
+            "UC Davis Viticulture & Enology",
+            "AWRI (Australie)",
+            "Textes réglementaires (INAO, UE) sur les AOP/IGP et pratiques autorisées"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières et intactes fermentent dans une atmosphère saturée en CO2, avant toute fermentation alcoolique classique du jus.\n\nPrincipe\n- On remplit une cuve de grappes entières. En absence d’oxygène et sous CO2, chaque baie commence une “fermentation intracellulaire”: elle transforme ses sucres en un peu d’alcool (≈1–2%), produit des arômes et consomme une partie de l’acide malique.\n- Après quelques jours (souvent 4 à 15), les baies éclatent ou on presse; le jus finit ensuite en fermentation alcoolique classique avec les levures.\n\nEffets sur le vin\n- Arômes très fruités et esters (fraise, framboise, bonbon, parfois banane).\n- Tanins souples, peu d’astringence; couleur généralement vive mais modérée.\n- Acidité perçue plus basse, vins prêts à boire jeunes, moins taillés pour la garde.\n\nVariantes\n- Macération carbonique “pure”: CO2 ajouté dès le départ.\n- Semi-carbonique: le CO2 est produit par la fermentation des baies écrasées au fond de la cuve (méthode emblématique du Beaujolais).\n\nÀ ne pas confondre avec\n- La prise de mousse (carbonatation) qui ajoute du gaz dans le vin.\n- La macération pré-fermentaire à froid, qui n’implique pas de CO2 ni de grappes entières.\n\nExemples: Beaujolais (notamment Nouveau), certains vins de Rioja “maceración carbónica”, et quelques cuvées de style fruité dans d’autres régions.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Principalement de trois types de sources, intégrés lors de mon entraînement:\n- Données publiques largement disponibles (articles, sites institutionnels, encyclopédies, rapports techniques).\n- Contenu sous licence et données produites par des formateurs humains.\n- Ouvrages et ressources de référence en œnologie et viticulture.\n\nJe n’ai pas un accès direct à des bases propriétaires ni la capacité de “reparcourir” mes sources au moment où je réponds. Pour l’œnologie, mes réponses synthétisent typiquement des références comme:\n- OIV (Organisation internationale de la vigne et du vin) – pratiques œnologiques, statistiques.\n- The Oxford Companion to Wine (J. Robinson et al.).\n- Wine Science: Principles and Applications (R.S. Jackson).\n- Wine Grapes (Robinson, Harding, Vouillamoz).\n- IFV/INRAE (France), UC Davis Viticulture & Enology, AWRI (Australie) – fiches techniques et notes de recherche.\n- Textes réglementaires (INAO, UE) sur les AOP/IGP et pratiques autorisées.\n\nSi tu veux des sources précises pour un point donné (ex. une technique de vinification, une règle d’appellation, un cépage), dis-moi lequel et je te fournis des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": true
+        },
+        "sources": [
+            "OIV (Organisation Internationale de la Vigne et du Vin)",
+            "IFV (Institut Français de la Vigne et du Vin)",
+            "INAO (Institut National de l’Origine et de la Qualité)",
+            "Règlements de l’Union européenne sur les AOP/IGP",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "UC Davis (ressources d’œnologie/viticulture)",
+            "Bordeaux Sciences Agro (ressources pédagogiques)",
+            "Cahiers des charges d’appellations",
+            "Fiches techniques de domaines"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières non égrappées sont placées dans une cuve saturée en CO2, sans oxygène. Dans ces conditions, les baies intactes fermentent de l’intérieur (fermentation intracellulaire) avant qu’on ne les presse.\n\nComment ça se passe (schéma simple):\n- Remplissage de la cuve avec des grappes entières.\n- Atmosphère anaérobie créée par ajout de CO2 (macération “carbonique” stricte) ou par le CO2 produit au fond par quelques baies écrasées (dit “semi-carbonique”, très courant en Beaujolais).\n- Fermentation intracellulaire dans les baies: sucres et acide malique sont partiellement transformés en alcool et en arômes.\n- Après quelques jours, on presse, puis on termine la fermentation alcoolique du jus comme d’habitude.\n\nEffets sur le vin:\n- Tanins plus doux, structure légère, couleur souvent moins extraite.\n- Profil très fruité, arômes amyliques (banane, bonbon anglais), cerise/kirsch, fleurs.\n- Acidité malique réduite, sensation plus ronde.\n- Vins généralement à boire jeunes (ex: Beaujolais Nouveau), mais on peut aussi l’utiliser partiellement pour des vins plus sérieux.\n\nOù et pourquoi:\n- Classique en Beaujolais, aussi utilisé en Rioja Alavesa, Languedoc, et ailleurs.\n- Intérêt: obtenir des rouges gourmands, souples et très aromatiques en peu de temps.\n\nNuance:\n- “Carbonique” = CO2 ajouté dès le départ; “semi-carbonique” = CO2 produit par les raisins eux‑mêmes. La plupart des Beaujolais utilisent la semi-carbonique.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je ne “tiens” pas ces infos d’une source unique. Je suis un modèle entraîné par OpenAI sur un mélange de données: contenus publics, données sous licence et exemples fournis par des formateurs humains. Je n’ai pas d’accès web en temps réel et je ne conserve pas la trace source-par-source de chaque fait. Mon savoir est figé jusqu’à fin 2024.\n\nPour l’œnologie en particulier, mes réponses synthétisent des connaissances généralement disponibles dans:\n- publications et normes d’organismes pro (ex. OIV, IFV, INAO, règlements UE sur AOP/IGP),\n- revues scientifiques (ex. American Journal of Enology and Viticulture, Australian Journal of Grape and Wine Research),\n- manuels et ressources éducatives publiques de facultés d’œnologie/viticulture (ex. UC Davis, Bordeaux Sciences Agro),\n- guides et documents techniques de filières (cahiers des charges d’appellations, fiches techniques de domaines).\n\nSi vous me dites quelle affirmation précise vous souhaitez sourcer (fermentation, élevage, cépages, terroir, appellations, dégustation, etc.), je peux vous proposer des références concrètes et vérifiables."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": true
+        },
+        "sources": [
+            "OIV (Organisation internationale de la vigne et du vin) — résolutions et Codex œnologique",
+            "IFV (Institut français de la vigne et du vin)",
+            "INAO (Institut national de l’origine et de la qualité) — cahiers des charges AOP/AOC",
+            "UC Davis Viticulture & Enology",
+            "AWRI (Australian Wine Research Institute)",
+            "American Journal of Enology and Viticulture",
+            "Journal International des Sciences de la Vigne et du Vin",
+            "Wine Science (R. S. Jackson)",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Le Goût du Vin (É. Peynaud)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une méthode de vinification où des grappes entières et intactes fermentent à l’intérieur même des baies, dans une atmosphère saturée en dioxyde de carbone (CO2), avant d’être pressées puis finies par une fermentation alcoolique classique.\n\nComment ça marche (schéma rapide)\n- Cuve fermée remplie de grappes entières; on ajoute du CO2 pour chasser l’oxygène.\n- À l’intérieur des baies, une fermentation dite intracellulaire démarre: les cellules consomment sucres et acide malique, produisant alcool (≈1–2% vol dans la baie), CO2 et arômes.\n- Après quelques jours (souvent 4–10), on presse les grappes; le jus obtenu termine sa fermentation grâce aux levures.\n- Températures modérées (souvent ~20–30 °C) et baies intactes sont cruciales.\n\nEffets sur le style du vin\n- Arômes très fruités (fruits rouges/noirs croquants), parfois notes de bonbon/banane/poire (esters comme l’isoamyl-acétate), épices douces.\n- Couleur vive, tanins souples, faible astringence.\n- Moins d’acidité malique, sensation plus ronde; vins généralement à boire jeunes, même si certains styles plus extraits peuvent vieillir.\n\nVariantes\n- Macération carbonique “pure”: CO2 exogène injecté dès le départ, grappes parfaitement intactes.\n- Semi-carbonique (très courante en Beaujolais traditionnel): on encuve des grappes sans ajouter de CO2; celles du bas s’écrasent, le début de fermentation produit naturellement du CO2 qui carbonique le reste.\n- À distinguer de la “fermentation en grappes entières” classique: là, les levures dominent rapidement et il n’y a pas (ou peu) de phase intracellulaire généralisée.\n\nOù et pour quels vins\n- Emblématique du Beaujolais (notamment Beaujolais Nouveau) avec le gamay; aussi pratiquée en Rioja Alavesa, sur carignan, pais, listán negro, et dans certains vins “glou-glou” modernes.\n\nEnjeux techniques\n- Nécessite des baies saines et entières, atmosphère bien saturée en CO2; surveiller temps/Température pour éviter déviations (volatile, réduction).\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne “tiens” pas ces infos d’une base unique. Mes réponses sont générées par un modèle entraîné sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains. Je n’ai pas de liste de sources précises par phrase, ni d’accès direct au web pendant la conversation.\n\nPour l’œnologie, ce que je dis reflète des notions largement documentées dans des références reconnues. Si vous voulez vérifier ou creuser, voici des ressources fiables:\n- OIV (Organisation internationale de la vigne et du vin): résolutions, Codex œnologique\n- IFV (Institut français de la vigne et du vin) et INAO pour les cahiers des charges AOP/AOC\n- UC Davis Viticulture & Enology; AWRI (Australian Wine Research Institute)\n- Revues: American Journal of Enology and Viticulture; Journal International des Sciences de la Vigne et du Vin\n- Ouvrages: Wine Science (R.S. Jackson); The Oxford Companion to Wine (J. Robinson); Le Goût du Vin (É. Peynaud)\n\nSi vous me dites quel point précis vous voulez sourcer (terroir, cépages, vinification, service, réglementation, etc.), je peux proposer des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation internationale de la vigne et du vin)",
+            "INAO (France)",
+            "Registre européen des AOP/IGP",
+            "TTB/AVA (États‑Unis)",
+            "Wine Australia",
+            "CIVB (Bordeaux)",
+            "BIVB (Bourgogne)",
+            "InterRhône",
+            "Consejo Regulador Rioja",
+            "Consorzi DOC/DOCG italiens",
+            "The Oxford Companion to Wine",
+            "The World Atlas of Wine",
+            "Publications académiques/technico‑professionnelles"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour les rouges) où des grappes entières et intactes fermentent en milieu anaérobie saturé en CO2, avant tout vrai travail des levures.\n\nPrincipe:\n- On met des grappes entières non foulées dans une cuve étanche remplie de CO2.\n- En absence d’oxygène, les baies vivantes lancent une “fermentation intracellulaire”: elles transforment une partie de leurs sucres et de l’acide malique en alcool, CO2 et arômes.\n- Après quelques jours à ~20–30 °C, les baies éclatent; on presse, puis la fermentation alcoolique classique termine sur le jus.\n\nEffets sur le vin:\n- Couleur vive, tannins souples, extraction limitée.\n- Arômes fruités intenses et “amyliques” (banane, bonbon anglais, fruits rouges), grande buvabilité.\n- Acidité souvent adoucie (malique partiellement consommé).\n- Vins à boire jeunes, style Beaujolais Nouveau par exemple.\n\nÀ distinguer de la “semi-carbonique” (méthode beaujolaise traditionnelle):\n- On ne rajoute pas de CO2; les grappes au fond, écrasées par le poids, fermentent et produisent le CO2 qui sature la cuve. Le haut de cuve subit alors une macération intracellulaire. Beaucoup de vins dits “carboniques” sont en réalité semi-carboniques.\n\nUsages:\n- Courant en Beaujolais, parfois en Rioja Alavesa, Languedoc, et chez certains vignerons “nature”.\n- Peut s’appliquer expérimentalement à des blancs/rosés pour des profils aromatiques originaux, mais plus rare.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Mes réponses sont générées à partir d’un mélange de données publiques, de contenus fournis sous licence et d’exemples rédigés par des formateurs humains. Je n’ai pas d’accès direct à une base de sources ni la liste exacte des documents vus pendant l’entraînement.\n\nPour les sujets de culture œnologique, je m’efforce de refléter des références largement reconnues, par exemple:\n- Organismes et normes: OIV (Organisation internationale de la vigne et du vin), INAO (France), registre européen des AOP/IGP, TTB/AVA (États‑Unis), Wine Australia, etc.\n- Interprofessions et consorzi: CIVB (Bordeaux), BIVB (Bourgogne), InterRhône, Consejo Regulador Rioja, consorzi DOC/DOCG italiens, etc.\n- Ouvrages et synthèses courants: The Oxford Companion to Wine, The World Atlas of Wine, publications académiques/technico‑professionnelles.\n\nSi vous voulez des sources précises pour un point en particulier (une appellation, un cépage, une technique), dites‑moi lequel et je vous indiquerai une référence autoritative correspondante."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "The Oxford Companion to Wine (J. Robinson & J. Harding)",
+            "Wine Grapes (Robinson/Harding/Vouillamoz)",
+            "The World Atlas of Wine (H. Johnson & J. Robinson)",
+            "Le Goût du Vin (É. Peynaud)",
+            "Wine Science (R. Jackson)",
+            "OIV (Organisation Internationale de la Vigne et du Vin)",
+            "INAO (France)",
+            "Règlements de l’UE sur les appellations",
+            "Consorzi DOC/DOCG en Italie",
+            "Consejos reguladores en Espagne",
+            "TTB aux États‑Unis",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "Journal of Agricultural and Food Chemistry",
+            "Food Chemistry",
+            "BIVB (Bourgogne)",
+            "CIVB (Bordeaux)",
+            "Comités interprofessionnels régionaux",
+            "Fiches techniques de producteurs"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des vins rouges où des grappes entières, non foulées, sont placées dans une cuve saturée en dioxyde de carbone (CO2) et hermétique. En absence d’oxygène, chaque baie commence à fermenter de l’intérieur (fermentation intracellulaire) avant d’être pressée, puis la fermentation alcoolique se termine classiquement avec les levures.\n\nEffets sur le vin:\n- Arômes très fruités et floraux (fraise, banane, bonbon, kirsch, violette)\n- Tanins doux, peu d’astringence, couleur vive\n- Vins généralement à boire jeunes, parfois servis légèrement frais\n\nOù et pour quoi:\n- Style emblématique du Beaujolais (notamment Beaujolais Nouveau, cépage Gamay), aussi utilisé en Rioja et ailleurs pour des cuvées « jeunes » et gourmandes.\n\nÀ distinguer:\n- Semi-carbonique: on n’ajoute pas de CO2; les grappes entières sont encuvées, les baies écrasées au fond démarrent la fermentation, produisant le CO2 qui déclenche l’intracellulaire dans les baies intactes (méthode traditionnelle en Beaujolais).\n- Fermentation en grappes entières (whole cluster): on encuve avec les rafles, sans forcément d’atmosphère de CO2; il peut y avoir un peu d’intracellulaire, mais ce n’est pas une vraie macération carbonique.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Mes réponses s’appuient sur mon entraînement: un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains. Je n’ai pas d’accès direct en temps réel à des bases propriétaires. Dernière mise à jour de mes connaissances: fin 2024.\n\nPour la culture œnologique en particulier, les informations typiques proviennent de:\n- Ouvrages et encyclopédies de référence: The Oxford Companion to Wine (J. Robinson & J. Harding), Wine Grapes (Robinson/Harding/Vouillamoz), The World Atlas of Wine (H. Johnson & J. Robinson), Le Goût du Vin (É. Peynaud), Wine Science (R. Jackson).\n- Organismes officiels et réglementaires: OIV (Organisation Internationale de la Vigne et du Vin), INAO (France), règlements de l’UE sur les appellations, consorzi DOC/DOCG en Italie, consejos reguladores en Espagne, TTB aux États‑Unis.\n- Revues et publications scientifiques: American Journal of Enology and Viticulture, Australian Journal of Grape and Wine Research, Journal of Agricultural and Food Chemistry, Food Chemistry.\n- Sources professionnelles et interprofessions: BIVB (Bourgogne), CIVB (Bordeaux), comités interprofessionnels régionaux, fiches techniques de producteurs.\n\nSi vous avez une assertion précise en tête (par ex. une température de service, une règle d’appellation, un point sur la vinification), dites‑la moi et je vous indiquerai une référence appropriée ou une source publique à consulter."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (rapports annuels)",
+            "IFV/INRAE (France)",
+            "registres INAO/AOP et bases UE des IG",
+            "American Journal of Enology and Viticulture (AJEV)",
+            "OENO One",
+            "Australian Journal of Grape and Wine Research",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Grapes (Robinson/Harding/Vouillamoz)",
+            "Understanding Wine Technology (D. Bird)",
+            "UC Davis V&E",
+            "Geisenheim",
+            "Bordeaux Sciences Agro/ISVV",
+            "University of Adelaide"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout en rouge) où l’on encuve des grappes entières, non éraflées, dans une cuve saturée en dioxyde de carbone. Privées d’oxygène, les baies intactes démarrent une “fermentation intracellulaire”: elles transforment une partie de leurs sucres et de l’acide malique en alcool et en arômes, avant d’être pressées. Le jus obtenu termine ensuite sa fermentation alcoolique de manière classique avec les levures.\n\nCe que cela apporte:\n- Style: vins très fruités, souples, peu tanniques, à la couleur vive, destinés souvent à être bus jeunes.\n- Arômes typiques: fruits rouges croquants (fraise, framboise), bonbon/banane (esters), parfois kirsch/violette.\n- Structure: tanins doux, acidité perçue un peu plus basse (malique partiellement consommé), alcool modéré.\n\nDéroulé courant:\n- Vendange manuelle pour garder les grappes intactes.\n- Cuve fermée remplie de CO2; 4 à 20 jours selon le style et la température (environ 20–30 °C).\n- Pressurage, puis fin de fermentation en jus.\n\nVariantes:\n- Semi-carbonique: pas d’injection de CO2; le raisin écrasé au fond fermente et produit le CO2 qui sature la cuve (cas classique en Beaujolais).\n- À ne pas confondre avec la simple vinification en grappe entière sans atmosphère de CO2.\n\nExemples connus: Beaujolais (notamment le Beaujolais Nouveau, cépage Gamay), mais aussi pratiquée partiellement avec Carignan, Tempranillo, Syrah, Pinot noir pour apporter du fruit et de la souplesse.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je ne puise pas ces infos dans une source unique. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains, ce qui inclut des informations générales sur l’œnologie. Je n’ai pas un enregistrement précis de la provenance de chaque fait, et je n’ai pas d’accès direct à des bases privées.\n\nSi vous voulez vérifier ou creuser un point précis, voici des références fiables couramment utilisées en œnologie:\n- Organismes et statistiques: OIV (rapports annuels), IFV/INRAE (France), registres INAO/AOP et bases UE des IG.\n- Revues scientifiques: American Journal of Enology and Viticulture (AJEV), OENO One, Australian Journal of Grape and Wine Research.\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), Wine Grapes (Robinson/Harding/Vouillamoz), Understanding Wine Technology (D. Bird).\n- Universités/centres: UC Davis V&E, Geisenheim, Bordeaux Sciences Agro/ISVV, University of Adelaide.\n\nDites-moi quels points précis vous souhaitez sourcer (par ex. fermentation malolactique, élevage, appellations, températures de service, etc.), et je vous donnerai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "The Oxford Companion to Wine (J. Robinson)",
+            "The World Atlas of Wine (H. Johnson & J. Robinson)",
+            "The Wine Bible (K. MacNeil)",
+            "Le Goût du vin (É. Peynaud)",
+            "Le Traité d’œnologie (P. Ribéreau-Gayon et al.)",
+            "OIV (rapports statistiques et résolutions)",
+            "INAO (cahiers des charges AOC/AOP)",
+            "Règlement (UE) n° 1308/2013 (OCM vitivinicole)",
+            "FranceAgriMer (études de filière)",
+            "INRAE/ISVV",
+            "WSET (niveaux 2–4)",
+            "UC Davis Department of Viticulture and Enology",
+            "Decanter",
+            "La Revue du Vin de France",
+            "GuildSomm",
+            "Wine-Searcher (profils de régions/raisins)",
+            "Vitisphere"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des vins rouges où des grappes entières non égrappées fermentent à l’intérieur même des baies, dans une cuve saturée en dioxyde de carbone (milieu sans oxygène).\n\nPrincipe et étapes:\n- Récolte en grappes entières, baies intactes.\n- Mise en cuve fermée remplie de CO2 (macération carbonique “pure”) ou production de CO2 par les baies écrasées au fond de cuve (semi-carbonique, méthode Beaujolais).\n- Fermentation intracellulaire: à l’intérieur de chaque baie, les enzymes transforment sucres et acides en arômes et un peu d’alcool (≈1,5–2%).\n- Après 4 à 15 jours, on presse les grappes; le jus achève ensuite la fermentation alcoolique de façon classique.\n- La malo-lactique suit généralement.\n\nEffets sur le vin:\n- Profil très fruité (fraise, framboise, cerise, banane, bonbon), notes florales, épices douces.\n- Tannins souples, extraction modérée, couleur vive mais moins structurée.\n- Vins plaisants jeunes, moins taillés pour la longue garde.\n\nVariantes et usages:\n- Carbonique “pure” (CO2 ajouté) vs semi-carbonique (CO2 généré in situ).\n- Emblématique du Beaujolais (Gamay), aussi employée pour certains “joven” de Rioja et vins de soif/nature.\n\nDifférence avec une macération classique:\n- Classique: on foule/égrappe, levures fermentent le jus au contact des peaux avec extractions (remontages/pigeages).\n- Carbonique: pas de foulage initial, fermentation commence à l’intérieur des baies, extraction plus douce.\n\nPoints de vigilance:\n- Températures modérées et milieu bien anaérobie pour éviter déviations (volatile, éthyl-acétate).\n- Donne des vins charmeurs mais moins structurés si on cherche de la garde.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas de “sources personnelles” et je n’accède pas en direct à des bases de données. Mes réponses s’appuient sur un mélange de données publiques, de contenu sous licence et d’exemples rédigés par des formateurs, appris lors de mon entraînement. Je ne peux pas voir ni citer précisément les documents individuels de cet entraînement.\n\nSi vous souhaitez des références vérifiables pour la culture œnologique, voici des sources reconnues que vous pouvez consulter directement:\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), The World Atlas of Wine (H. Johnson & J. Robinson), The Wine Bible (K. MacNeil), Le Goût du vin et Le Traité d’œnologie (É. Peynaud; P. Ribéreau-Gayon et al.).\n- Institutions et réglementation: OIV (rapports statistiques et résolutions), INAO (cahiers des charges AOC/AOP), Règlement (UE) n° 1308/2013 (OCM vitivinicole), FranceAgriMer (études de filière), INRAE/ISVV.\n- Pédagogie/formation: WSET (niveaux 2–4), UC Davis Department of Viticulture and Enology.\n- Médias spécialisés: Decanter, La Revue du Vin de France, GuildSomm, Wine-Searcher (profils de régions/raisins), Vitisphere.\n\nDites-moi quel point précis vous souhaitez sourcer (cépages, vinif, AOP, service, statistiques, etc.) et je vous indiquerai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation Internationale de la Vigne et du Vin)",
+            "INAO (Institut National de l'Origine et de la Qualité)",
+            "Règlements de l'Union européenne sur les AOP/IGP",
+            "IFV (Institut Français de la Vigne et du Vin)",
+            "INRAE (Institut national de recherche pour l’agriculture, l’alimentation et l’environnement)",
+            "UC Davis Department of Viticulture and Enology",
+            "Australian Wine Research Institute (AWRI)",
+            "Geisenheim (Hochschule Geisenheim University)",
+            "ISVV Bordeaux (Institut des Sciences de la Vigne et du Vin)",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "Journal International des Sciences de la Vigne et du Vin",
+            "Handbook of Enology (Ribéreau-Gayon, Dubourdieu, et al.)",
+            "Wine Science (Ron S. Jackson)",
+            "Understanding Wine Technology (David Bird MW)",
+            "The Oxford Companion to Wine (Jancis Robinson & Julia Harding)",
+            "WSET (Wine & Spirit Education Trust) programmes de formation"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où l’on encuve des grappes entières et intactes dans une cuve saturée en dioxyde de carbone (CO2). Privées d’oxygène, les baies fermentent “de l’intérieur” (fermentation intracellulaire) avant d’être pressées; le jus termine ensuite sa fermentation alcoolique de façon classique avec les levures.\n\nCe que ça change:\n- Arômes: profil très fruité et « esters » (fraise, framboise, cerise, banane, bonbon anglais, violette), épices douces parfois.\n- Texture: tanins plus souples, bouche ronde; couleur souvent vive mais extraction tannique modérée.\n- Acidité: une partie de l’acide malique est consommée dans la baie, perception plus douce.\n- Style: vins prêts à boire tôt, axés sur le fruit plutôt que sur la structure.\n\nDéroulé (schéma type):\n- Encuvage en grappes entières non foulées.\n- Cuve fermée, purgée et saturée en CO2, souvent vers 20–30 °C.\n- 4 à 20 jours selon le style recherché.\n- Écoulage et pressurage, puis fin de fermentation alcoolique “classique”.\n\nÀ distinguer de la « semi-carbonique »:\n- Semi-carbonique: on n’ajoute pas de CO2; les grappes du bas se tassent, fermentent, produisent du CO2 qui “carbonique” le reste. Très courant en Beaujolais traditionnel.\n- Résultat aromatique proche, mais gestion plus délicate et moins standardisée.\n\nOù la trouve-t-on:\n- Beaujolais (surtout Gamay, ex. Beaujolais Nouveau, mais pas uniquement).\n- Certains Rioja (« maceración carbónica »), Loire, Languedoc, et chez des vignerons nature dans divers régions.\n- Employée aussi, plus rarement, sur blancs/rosés pour des profils très aromatiques.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas d’accès direct au web ni de base de données propriétaire; mes réponses s’appuient sur des connaissances acquises lors de mon entraînement (mélange de données publiques, sous licence et de contenus rédigés par des formateurs), avec une mise à jour des connaissances jusqu’en 2024. Je ne peux pas attribuer chaque fait à une source unique, mais pour la culture œnologique, elles reflètent généralement des références reconnues comme:\n\n- Organisations et normes: OIV (codes, résolutions, pratiques œnologiques), INAO et règlements UE sur les AOP/IGP.\n- Instituts techniques et universitaires: IFV/INRAE (France), UC Davis Viticulture & Enology, Australian Wine Research Institute, Geisenheim, ISVV Bordeaux.\n- Revues scientifiques: American Journal of Enology and Viticulture, Australian Journal of Grape and Wine Research, Journal International des Sciences de la Vigne et du Vin.\n- Ouvrages de référence: Handbook of Enology (Ribéreau-Gayon, Dubourdieu, et al.), Wine Science (Ron S. Jackson), Understanding Wine Technology (David Bird MW), The Oxford Companion to Wine (Jancis Robinson & Julia Harding).\n- Cadres pédagogiques: programmes de formation en vin (ex. WSET) largement diffusés.\n\nSi vous avez une info précise que vous voulez sourcer (par exemple sur la vinification, une appellation, ou une pratique viticole), dites-moi laquelle et je vous proposerai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation internationale de la vigne et du vin)",
+            "INAO (Institut national de l’origine et de la qualité)",
+            "IFV/INRAE (Institut Français de la Vigne et du Vin / Institut national de recherche pour l’agriculture, l’alimentation et l’environnement)",
+            "UC Davis Viticulture & Enology",
+            "Le Goût du Vin (Émile Peynaud)",
+            "Wine Science (R.S. Jackson)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "WSET (matériels pédagogiques)",
+            "Cahiers des charges d’AOC/IGP",
+            "Publications du CIVB (Conseil Interprofessionnel du Vin de Bordeaux)",
+            "Comité Champagne"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour les rouges) où des grappes entières, non égrappées, fermentent dans une cuve saturée en dioxyde de carbone. Cela déclenche une fermentation “intracellulaire” à l’intérieur des baies intactes avant le pressurage et la fermentation alcoolique classique par les levures.\n\nComment ça se passe\n- On remplit la cuve de grappes entières.\n- En “carbonique” stricte, on injecte du CO2 pour créer un milieu anaérobie; en “semi‑carbonique” (la plus courante), le CO2 est produit par les baies écrasées au fond qui fermentent et gazent la cuve.\n- Phase intracellulaire de quelques jours: les baies consomment une partie de leurs sucres et de l’acide malique, produisent un peu d’alcool et surtout des composés aromatiques.\n- On presse, puis la fermentation alcoolique se termine de façon classique.\n\nEffets sur le vin\n- Couleur plutôt claire, tanins très souples, texture juteuse.\n- Arômes marqués de fruits frais (fraise, framboise, cerise), parfois bonbon anglais/banane/violette selon l’intensité.\n- Vins généralement prêts à boire tôt; structure et potentiel de garde plus limités si la part carbonique est élevée.\n\nOù et pourquoi\n- Technique emblématique du Beaujolais (Gamay), notamment pour le Beaujolais Nouveau.\n- Aussi utilisée (souvent en semi‑carbonique) en Rioja Alavesa, Languedoc/Roussillon (Carignan), Grenache, et dans certains vins “nature”.\n- Avantages: fruit immédiat, buvabilité, extraction douce; inconvénients possibles: notes “confiserie” uniformisantes, moindre structure, risque de volatile si mal maîtrisé.\n\nDifférences clés\n- Carbonique stricte: CO2 ajouté, baies intactes.\n- Semi‑carbonique: CO2 généré dans la cuve par la fermentation des baies écrasées.\n- Vinification en grappes entières sans CO2 n’est pas de la macération carbonique et donne un profil aromatique différent.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne “tiens” pas ces infos d’une base unique. Elles proviennent de mon entraînement sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains. Je n’ai pas de mémoire de sources précises pour chaque fait, ni d’accès direct à des bases propriétaires en temps réel.\n\nSi vous voulez vérifier ou approfondir un point, voici des références reconnues en œnologie et viticulture que vous pouvez consulter:\n- Organisations et institutions: OIV (Organisation internationale de la vigne et du vin), INAO (appellations en France), IFV/INRAE, UC Davis Viticulture & Enology.\n- Ouvrages de référence: Le Goût du Vin (Émile Peynaud), Wine Science (R.S. Jackson), The Oxford Companion to Wine (J. Robinson).\n- Ressources professionnelles: WSET (matériels pédagogiques), cahiers des charges d’AOC/IGP, publications du CIVB, Comité Champagne, etc.\n\nDites-moi quelle affirmation vous souhaitez sourcer et je vous indiquerai des références précises et publiques."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV",
+            "INAO (AOC/AOP)",
+            "base UE des IG (PDO/PGI)",
+            "ASEV",
+            "AWRI",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Le goût du vin (É. Peynaud)",
+            "Traité d’œnologie (Ribéreau-Gayon & Dubourdieu)",
+            "Wine Science (R.S. Jackson)",
+            "Understanding Wine Technology (D. Bird)",
+            "WSET",
+            "UC Davis Viticulture & Enology",
+            "GuildSomm"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières, non foulées, fermentent d’abord à l’intérieur même des baies dans une atmosphère saturée en dioxyde de carbone (CO2), sans oxygène. Ce n’est pas une fermentation levurienne au départ, mais une fermentation intracellulaire: les enzymes du raisin transforment des sucres et de l’acide malique en arômes et en un peu d’alcool (environ 1–2% vol) avant que les baies n’éclatent.\n\nComment ça se passe:\n- Récolte en grappes entières (souvent vendanges manuelles, rafles intactes).\n- Cuve fermée remplie de CO2, dans laquelle on place les grappes entières.\n- Phase intracellulaire sous CO2 pendant quelques jours (en général 3–10 jours pour des vins légers, plus long pour plus de structure), à température modérée.\n- Pressurage des baies, puis fin de fermentation alcoolique classique par les levures sur le jus.\n\nEffets sur le vin:\n- Arômes très fruités et floraux (fraise, framboise, banane/bonbon, violette), texture souple.\n- Couleur vive, tanins faibles à modérés, acidité perçue plus douce (réduction de l’acide malique).\n- Vins souvent prêts à boire tôt; moins orientés garde longue, selon la durée et le style.\n\nCarbonique vs semi-carbonique:\n- Macération carbonique “pure”: on purge la cuve au CO2 avant d’y mettre les grappes, atmosphère anaérobie immédiate.\n- Semi-carbonique: on remplit la cuve de grappes; celles du bas s’écrasent, démarrent une fermentation levurienne qui produit du CO2, créant progressivement l’atmosphère anaérobie. Très courant en Beaujolais.\n\nOù et pour quels vins:\n- Classique en Beaujolais (notamment Beaujolais Nouveau) avec le Gamay; aussi utilisée pour Carignan, Grenache, et ponctuellement ailleurs (Languedoc, Rioja Alavesa, vins de soif modernes).\n- Permet des vins gourmands, fruités, à tanins ronds, souvent servis légèrement rafraîchis.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je n’ai pas une base unique ou des notes personnelles. Mon savoir provient d’un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains utilisés pour m’entraîner. Je n’ai pas la liste détaillée des documents ni un accès direct à des bases propriétaires en temps réel.\n\nPour l’œnologie, ce que je fournis s’aligne généralement avec des références reconnues, par exemple:\n- Organisations et normes: OIV, INAO (AOC/AOP), base UE des IG (PDO/PGI), ASEV, AWRI\n- Ouvrages: The Oxford Companion to Wine (J. Robinson), Le goût du vin (É. Peynaud), Traité d’œnologie (Ribéreau-Gayon & Dubourdieu), Wine Science (R.S. Jackson), Understanding Wine Technology (D. Bird)\n- Ressources pédagogiques: WSET, UC Davis Viticulture & Enology, GuildSomm\n\nSi vous avez un point précis que vous souhaitez sourcer (cépages, pratiques de cave, appellations, etc.), dites-moi lequel et je proposerai des références adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation Internationale de la Vigne et du Vin) – rapports et International Code of Oenological Practices",
+            "INAO (Institut National de l’Origine et de la Qualité)",
+            "Règlements de l’UE sur les AOP/IGP (cahiers des charges, étiquetage, pratiques œnologiques)",
+            "IFV (Institut Français de la Vigne et du Vin)",
+            "INRAE (Institut national de recherche pour l’agriculture, l’alimentation et l’environnement)",
+            "UC Davis Viticulture & Enology",
+            "AWRI (Australian Wine Research Institute)",
+            "American Journal of Enology and Viticulture",
+            "Australian Journal of Grape and Wine Research",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Science (R. S. Jackson)",
+            "Understanding Wine Technology (David Bird)",
+            "GuildSomm",
+            "Wine Folly"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des rouges où l’on encuve des grappes entières, intactes, dans une cuve saturée en CO2 (milieu anaérobie). À l’intérieur de chaque baie se produit alors une “fermentation intracellulaire” avant tout départ de fermentation levurienne.\n\nComment ça marche\n- Grappes entières mises en cuve hermétique, remplie de CO2.\n- En absence d’oxygène, les enzymes de la baie transforment une partie des sucres et de l’acide malique en alcool (≈1–2%), CO2 et composés aromatiques.\n- Après quelques jours, on presse; le jus finit sa fermentation alcoolique de façon classique.\n\nEffets sur le vin\n- Tanins plus doux, structure légère à moyenne.\n- Couleur souvent plus claire.\n- Acidité malique réduite, sensation plus souple.\n- Arômes typiques: fruits rouges/candis, bonbon anglais, banane, violette, kirsch, parfois poivre rose. Vins souvent à boire jeunes.\n\nDeux variantes\n- Macération carbonique “pleine”: ajout de CO2 dans une cuve étanche avec grappes entières.\n- Macération semi-carbonique (méthode beaujolaise): pas d’ajout de CO2; les baies écrasées au fond fermentent et produisent le CO2 qui sature la cuve, tandis que les grappes intactes en haut subissent la fermentation intracellulaire.\n\nOù et pour quels cépages\n- Classique en Beaujolais (Gamay, notamment pour le Beaujolais Nouveau), mais aussi utilisée ailleurs (certains Tempranillo en Rioja, Grenache, Carignan, parfois Pinot Noir en partie).\n\nÀ ne pas confondre avec\n- La macération pré-fermentaire à froid (cold soak) ou la simple fermentation en grappes entières, qui n’implique pas forcément un milieu saturé en CO2 ni une vraie fermentation intracellulaire.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je ne consulte pas une base unique en temps réel. Mes réponses proviennent d’un mélange de données publiques, de contenus sous licence et d’informations fournies par des formateurs humains, apprises durant mon entraînement (jusqu’à fin 2024). Je ne garde pas la trace de la source exacte de chaque fait. \n\nPour la culture œnologique, je m’appuie généralement sur des références reconnues, par exemple:\n- OIV (Organisation Internationale de la Vigne et du Vin): rapports, International Code of Oenological Practices\n- INAO et règlements de l’UE sur les AOP/IGP (cahiers des charges, étiquetage, pratiques œnologiques)\n- IFV et INRAE (notes techniques, fiches cépages, itinéraires œnologiques)\n- UC Davis Viticulture & Enology, AWRI (Australian Wine Research Institute) – ressources techniques\n- Revues scientifiques: American Journal of Enology and Viticulture, Australian Journal of Grape and Wine Research\n- Ouvrages de référence: The Oxford Companion to Wine (Jancis Robinson), Wine Science (R.S. Jackson), Understanding Wine Technology (D. Bird)\n- Pour des synthèses pédagogiques: GuildSomm, Wine Folly (à recouper avec les sources primaires)\n\nSi vous me dites précisément quelle information vous souhaitez vérifier (cépage, pratique œno, règle d’appellation, etc.), je peux vous donner des références ciblées ou reformuler avec la source la plus pertinente."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Organisation internationale de la vigne et du vin (OIV)",
+            "Institut national de l'origine et de la qualité (INAO)",
+            "eAmbrosia (registre AOP/IGP de l’Union européenne)",
+            "Vitis International Variety Catalogue (VIVC)",
+            "The Oxford Companion to Wine (Jancis Robinson et al.)",
+            "Wine Science (Ron S. Jackson)",
+            "Understanding Wine Technology (David Bird)",
+            "Larousse du Vin",
+            "Wine & Spirit Education Trust (WSET)",
+            "Court of Master Sommeliers",
+            "GuildSomm",
+            "Conseil Interprofessionnel du Vin de Bordeaux (CIVB)",
+            "Bureau Interprofessionnel des Vins de Bourgogne (BIVB)",
+            "Inter Rhône",
+            "Comité Champagne",
+            "Consorzi italiani (consorzi di tutela)",
+            "Conseils interprofessionnels espagnols",
+            "Wine Folly"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières, non foulées, fermentent en milieu saturé de CO2. Elle est surtout utilisée pour produire des vins très fruités, souples et à boire jeunes (ex. Beaujolais Nouveau).\n\nPrincipe\n- Les grappes entières sont placées dans une cuve hermétique remplie de CO2.\n- À l’intérieur de chaque baie intacte, se produit une “fermentation intracellulaire” sans oxygène: une partie des sucres devient ~1–2% d’alcool, le malique diminue, et des arômes fermentaires (esters) se forment.\n- Après quelques jours (souvent 4 à 15), on presse; le jus finit la fermentation alcoolique de manière classique avec les levures.\n\nRésultats sensoriels\n- Arômes très fruités (fraise, framboise, cerise), parfois banane/bonbon anglais (isoamyl acétate).\n- Tanins faibles, texture souple, couleur modérée.\n- Acidité perçue plus douce (dégradation du malique).\n- Vins généralement prêts à boire tôt, même si certaines versions plus longues peuvent gagner en complexité.\n\nVariantes\n- Macération carbonique “pure”: CO2 ajouté dès le départ.\n- Semi-carbonique: pas de CO2 ajouté; les baies du bas se percent sous le poids, fermentent et produisent le CO2 pour le reste (méthode traditionnelle du Beaujolais).\n\nDifférence avec la vinification classique\n- Classique: foulage/éraflage, fermentation du moût par les levures avec remontages/pigeages → plus d’extraction, de tanins et de structure.\n- Carbonique: grappes entières, peu de manipulations, extraction douce et profil aromatique plus estérifié.\n\nCépages et régions\n- Typique du Gamay en Beaujolais, mais aussi employée sur Grenache, Carignan, Tempranillo et dans certains vins “nature”.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne “tiens” pas mes réponses d’une base unique. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et de contenus créés par des formateurs humains. Je ne consulte pas de sites en temps réel et je n’ai pas accès à des bases propriétaires; je génère mes réponses à partir de connaissances générales apprises jusqu’en octobre 2024. Je ne peux donc pas citer une source précise pour chaque phrase sans que vous me demandiez un point spécifique.\n\nSi vous voulez vérifier ou approfondir, voici des références fiables couramment utilisées en œnologie et culture du vin:\n- Institutions et données officielles: OIV (Organisation internationale de la vigne et du vin), INAO (fiches d’appellation), base eAmbrosia de l’UE (AOP/IGP), VIVC (Vitis International Variety Catalogue).\n- Ouvrages et manuels: The Oxford Companion to Wine (Jancis Robinson et al.), Wine Science (Ron S. Jackson), Understanding Wine Technology (David Bird), Larousse du Vin.\n- Pédagogie et dégustation: WSET (syllabus et guides), Court of Master Sommeliers, GuildSomm (articles techniques).\n- Ressources régionales: Interprofessions (CIVB Bordeaux, BIVB Bourgogne, Inter Rhône, Comité Champagne), consorzi italiens, conseils interprofessionnels espagnols, etc.\n- Vulgarisation de qualité: Wine Folly (cartes et profils de cépages/régions, avec prudence pour les simplifications).\n\nDites-moi quel point précis vous souhaitez sourcer (une appellation, un cépage, une technique de vinification, des chiffres de production, etc.), et je vous proposerai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation internationale de la vigne et du vin)",
+            "INAO (Institut national de l’origine et de la qualité)",
+            "Réglementation UE sur les AOP/IGP",
+            "UC Davis (Viticulture & Enology)",
+            "American Journal of Enology and Viticulture",
+            "The Oxford Companion to Wine (J. Robinson et al.)",
+            "Wine Science (R.S. Jackson)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des vins rouges où des grappes entières et intactes fermentent en milieu saturé en CO2, sans être d’abord foulées ni égrappées. Elle provoque une fermentation “intracellulaire” à l’intérieur des baies.\n\nPrincipe:\n- On remplit une cuve de grappes entières, on chasse l’oxygène avec du CO2 (ou on laisse le CO2 produit par les raisins du bas saturer la cuve).\n- En absence d’oxygène, chaque baie démarre une fermentation interne: elle consomme ses sucres et une partie de l’acide malique, produit ~1–2% d’alcool et des arômes spécifiques.\n- Après quelques jours, on presse et on termine la fermentation alcoolique classiquement avec les levures.\n\nEffets sur le vin:\n- Couleur brillante, tannins souples, structure légère à moyenne.\n- Acidité plus douce (malique partiellement consommé).\n- Arômes fruités intenses et “confiserie” (fraise, framboise, banane, bonbon anglais, kirsch), dus notamment aux esters (ex. isoamyl acétate).\n- Vins généralement prêts à boire jeunes, moins taillés pour la longue garde.\n\nVariantes:\n- Macération carbonique “pure”: CO2 ajouté dès le départ, cuve fermée, grappes intactes.\n- Semi-carbonique (très utilisée en Beaujolais): les grappes du bas s’écrasent, les levures fermentent le jus et dégagent le CO2 qui crée l’atmosphère anaérobie pour les grappes du haut.\n\nOù et pourquoi:\n- Classique en Beaujolais (Gamay), notamment pour les “Nouveau” et certains crus, mais aussi utilisée ailleurs pour obtenir des rouges très fruités, peu tanniques, à servir légèrement frais.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne “pioche” pas ces infos dans une base unique en temps réel. J’ai été entraîné sur un mélange de données sous licence, de contenus créés par des formateurs humains et d’informations librement accessibles. Je n’ai pas la liste détaillée des documents exacts.\n\nPour la culture œnologique, mes réponses reflètent des connaissances issues de sources de référence couramment utilisées dans le domaine, par exemple:\n- Organisations et normes: OIV, INAO, réglementation UE sur les AOP/IGP\n- Publications académiques: UC Davis (Viticulture & Enology), American Journal of Enology and Viticulture\n- Ouvrages de synthèse: The Oxford Companion to Wine (J. Robinson et al.), Wine Science (R.S. Jackson)\n\nSi vous voulez sourcer un point précis que j’ai mentionné, dites-moi lequel et je proposerai des références adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": true
+        },
+        "sources": [
+            "Jancis Robinson (dir.), The Oxford Companion to Wine (4e éd.)",
+            "J. Robinson, J. Harding, J. Vouillamoz, Wine Grapes",
+            "Émile Peynaud, Le Goût du vin; Connaissance et travail du vin",
+            "P. Ribéreau-Gayon, D. Dubourdieu et al., Traité d’œnologie (Dunod)",
+            "Ronald S. Jackson, Wine Science: Principles and Applications",
+            "OIV (Organisation internationale de la vigne et du vin): Code international des pratiques œnologiques, résolutions/rapports",
+            "INAO: cahiers des charges AOC/AOP et documents techniques",
+            "Réglementation UE (ex. Règl. (UE) n° 1308/2013; Règl. d’exécution 2019/934) sur pratiques et appellations",
+            "UC Davis / American Journal of Enology and Viticulture; Australian Journal of Grape and Wine Research",
+            "WSET (matériels de formation) et articles techniques GuildSomm"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières et non foulées fermentent à l’intérieur de leurs baies, en milieu saturé en CO2 et sans oxygène (anaérobie), avant d’être pressées puis de terminer la fermentation de façon « classique » avec les levures.\n\nComment ça marche (schéma rapide):\n- On remplit une cuve de grappes entières.\n- On la sature en CO2 (apporté ou produit sur place) et on ferme hermétiquement.\n- À l’intérieur des baies intactes, une fermentation intracellulaire démarre: les enzymes du raisin transforment une partie des sucres (et une partie de l’acide malique) en alcool, CO2 et composés aromatiques.\n- Après quelques jours (4 à 20 selon le style), on presse; le jus finit sa fermentation alcoolique avec les levures.\n\nEffets sur le vin:\n- Arômes très fruités (fruits rouges/noirs croquants), notes de bonbon, banane/ester (isoamyl acétate), violette.\n- Tanins souples, peu d’astringence; couleur souvent vive mais extraction modérée.\n- Acidité ressentie plus douce (malique en partie dégradé).\n- Vin généralement prêt à boire tôt; potentiel de garde limité (selon cépage et part de macération).\n\nCarbonique vs semi-carbonique:\n- Carbonique “pure”: cuve fermée, ajout de CO2 au départ.\n- Semi-carbonique (Beaujolais): pas d’ajout de CO2; les grappes du bas, écrasées par le poids, fermentent et produisent le CO2 qui met le reste en anaérobie.\n\nExemples et usages:\n- Classique en Beaujolais (notamment Beaujolais Nouveau), présent aussi en Rioja Alavesa et dans certains vins nature ou « glou-glou ». Souvent utilisée partiellement pour apporter du fruit et assouplir les tanins.\n\nRepères techniques (indicatifs):\n- Température: ~20–30°C; durée: 4–10 jours (style “primeur”) jusqu’à ~2 semaines.\n- Alcool formé à l’intérieur des baies: ~1–2% vol avant pressurage.\n\nAvantages: fruit éclatant, tanins ronds, buvabilité précoce. Limites: typicité variétale parfois gommée, complexité et garde moindres si utilisée à 100%.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je ne consulte pas Internet en temps réel. Mes réponses s’appuient sur des connaissances apprises lors de mon entraînement (mélange de contenus publics, sous licence et rédigés par des experts) jusqu’en octobre 2024. Pour l’œnologie et la culture du vin, je me cale sur des références reconnues, par exemple :\n\n- Jancis Robinson (dir.), The Oxford Companion to Wine (4e éd.)\n- J. Robinson, J. Harding, J. Vouillamoz, Wine Grapes\n- Émile Peynaud, Le Goût du vin; Connaissance et travail du vin\n- P. Ribéreau-Gayon, D. Dubourdieu et al., Traité d’œnologie (Dunod)\n- Ronald S. Jackson, Wine Science: Principles and Applications\n- OIV (Organisation internationale de la vigne et du vin): Code international des pratiques œnologiques, résolutions/rapports\n- INAO: cahiers des charges AOC/AOP et documents techniques\n- Réglementation UE (ex. Règl. (UE) n° 1308/2013; Règl. d’exécution 2019/934) sur pratiques et appellations\n- UC Davis / American Journal of Enology and Viticulture; Australian Journal of Grape and Wine Research\n- WSET (matériels de formation) et articles techniques GuildSomm\n\nSi vous voulez la source précise d’un point que j’ai mentionné, dites-moi lequel et je vous donne une référence ciblée."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (rapports statistiques; Code international des pratiques œnologiques)",
+            "INAO",
+            "eAmbrosia (UE – AOP/IGP)",
+            "IFV/INRAE",
+            "UC Davis Viticulture & Enology",
+            "American Journal of Enology and Viticulture",
+            "VIVC (Vitis International Variety Catalogue)",
+            "FAO (statistiques agricoles)",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Science (R.S. Jackson)",
+            "Wine Grapes (Robinson, Harding, Vouillamoz)",
+            "Indices de Winkler",
+            "Indice de Huglin",
+            "Travaux de Tonietto & Carbonneau sur la géoviticulture"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une méthode de vinification où des grappes entières, non foulées, fermentent d’abord à l’intérieur même des baies dans une atmosphère saturée en dioxyde de carbone, avant d’être pressées.\n\nComment ça se passe\n- On remplit une cuve de grappes entières et on la sature en CO2 (ou le CO2 se crée naturellement).\n- En milieu anaérobie, les baies intactes déclenchent une fermentation intracellulaire: elles produisent un peu d’alcool (≈1–2%), consomment une partie de l’acide malique et synthétisent des composés aromatiques.\n- Après quelques jours, on presse, puis la fermentation alcoolique classique par les levures se termine sur le moût.\n\nEffets sur le vin\n- Arômes très fruités et esters (fraise, framboise, banane, bonbon, parfois violette).\n- Tanins souples, peu d’extraction, couleur plutôt légère si la macération est courte.\n- Acidité adoucie (malique partiellement consommé), vins à boire jeunes, souvent agréables légèrement rafraîchis.\n\nCarbonique vs semi-carbonique\n- Carbonique: CO2 ajouté dès le départ dans une cuve étanche avec baies intactes.\n- Semi-carbonique: grappes entières empilées; les baies du bas s’écrasent, les levures démarquent une fermentation classique qui génère le CO2 créant l’environnement anaérobie pour les baies du haut. Très utilisé en Beaujolais.\n\nExemples et usages\n- Signature des Beaujolais (notamment Nouveau), mais aussi employée partiellement dans d’autres régions pour apporter du fruit et de la buvabilité.\n- Convient bien aux cépages à pellicule fine (ex. Gamay).\n\nPoints d’attention\n- Gestion de la température et de la durée (quelques jours à ~2 semaines) pour éviter les déviations (volatile, arômes dissociés).\n- Moins de structure et de potentiel de garde si la part de macération carbonique est élevée.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas une base de données personnelle ni des notes de lecture; je suis un modèle entraîné par OpenAI sur un mélange de textes publics, de contenus sous licence et de données générées par des formateurs, et je ne peux pas « voir » ou citer précisément chaque document source. \n\nPour les sujets œnologiques, les informations que je donne reflètent généralement des références reconnues, par exemple:\n- Organismes et normes: OIV (rapports statistiques, Code international des pratiques œnologiques), INAO, eAmbrosia (UE – AOP/IGP), IFV/INRAE, UC Davis Viticulture & Enology.\n- Littérature et bases: American Journal of Enology and Viticulture, VIVC (Vitis International Variety Catalogue), FAO (stats agricoles).\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), Wine Science (R.S. Jackson), Wine Grapes (Robinson, Harding, Vouillamoz).\n- Outils/climat: indices de Winkler et de Huglin; travaux de Tonietto & Carbonneau sur la géoviticulture.\n\nSi vous me dites quelles données précises vous voulez sourcer (ex. un chiffre de production, une règle d’appellation, un profil de cépage), je peux vous indiquer les références les plus pertinentes pour les vérifier."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Organisation internationale de la vigne et du vin (OIV)",
+            "INAO et documents AOP/IGP",
+            "UC Davis Department of Viticulture and Enology",
+            "WSET (materials et syllabus)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Folly (guides pédagogiques)",
+            "American Journal of Enology and Viticulture",
+            "Fiches techniques de domaines et syndicats d’appellation"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des vins rouges où des grappes entières, non foulées, fermentent à l’intérieur d’une cuve saturée en dioxyde de carbone (sans oxygène). Cette ambiance déclenche une “fermentation intracellulaire” dans chaque baie avant la fermentation alcoolique classique du jus.\n\nComment ça se passe\n- Vendange manuelle et mise en cuve de grappes entières intactes.\n- Deux variantes:\n  - Macération carbonique “complète”: la cuve est purgée/remplie de CO2 dès le départ.\n  - Semi-carbonique (très répandue en Beaujolais): la cuve est fermée sans ajout de CO2; les baies écrasées au fond fermentent, produisent du CO2 qui sature progressivement la cuve.\n- Pendant 5 à 15 jours (parfois plus), à ~20–30 °C:\n  - Les baies intactes consomment du sucre et une partie de l’acide malique et produisent jusqu’à ~1–2% vol d’alcool et beaucoup de composés aromatiques, avec très peu d’extraction de tanins.\n- On soutire le jus, on presse, puis la fermentation alcoolique se termine de manière “classique” sur les jus, suivie éventuellement de la malo.\n\nEffets sur le vin\n- Arômes: fruit très frais et intense (fraise, framboise, cerise), notes amyliques/esters possibles (banane, bonbon anglais) selon températures et levures, parfois violette/épices.\n- Structure: tanins souples, bouche ronde, acidité perçue plus douce (malique réduit), couleur vive mais extraction phénolique limitée.\n- Style: vins généralement très accessibles jeunes; potentiel de garde souvent plus court (sauf versions maîtrisées/partielles).\n\nOù et pourquoi\n- Classique du Beaujolais (dont le Beaujolais Nouveau), aussi utilisé en Rioja Alavesa, Loire (cabernet franc), et par certains vignerons “nature” ou pour apporter du fruit dans des assemblages.\n- Avantages: fruit éclatant, tanins fins, buvabilité.\n- Points de vigilance: hygiène et température (sinon risque d’acidité volatile ou d’arômes amyliques excessifs); nécessite une vendange saine et entière.\n\nEn résumé: c’est une vinification en grappes entières sous CO2 qui privilégie la fermentation à l’intérieur des baies, donnant des rouges très fruités, peu tanniques et prêts à boire.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je n’ai pas une base unique dédiée à l’œnologie. Mon savoir vient de mon entraînement sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains. Je n’ai pas d’accès direct à mes données d’entraînement ni à des sources en temps réel, et je ne peux pas « voir » des documents précis a posteriori.\n\nSi vous souhaitez sourcer un point particulier (cépages, vinification, appellations, accords mets-vins, régions, etc.), dites-moi lequel et je vous proposerai des références reconnues à consulter, par exemple:\n- Organisation internationale de la vigne et du vin (OIV)\n- INAO et documents AOP/IGP\n- UC Davis Department of Viticulture and Enology\n- WSET (materials et syllabus)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Wine Folly (guides pédagogiques)\n- American Journal of Enology and Viticulture\n- Fiches techniques de domaines et syndicats d’appellation\n\nIndiquez-moi ce que vous voulez vérifier et je vous oriente vers des sources adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Données publiques: sites d’organismes viticoles",
+            "Données publiques: articles",
+            "Données publiques: ressources éducatives",
+            "Contenus sous licence",
+            "Textes rédigés par des formateurs humains",
+            "OIV (Organisation Internationale de la Vigne et du Vin)",
+            "INAO (Institut national de l'origine et de la qualité)",
+            "Universités/Centres techniques",
+            "Interprofessions régionales"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification où des grappes entières non foulées fermentent dans une atmosphère saturée en CO2, avant d’être pressées. Elle vise à produire des vins très fruités, souples et à consommer jeunes.\n\nComment ça marche\n- On remplit une cuve de grappes entières (souvent avec les rafles), puis on chasse l’air avec du CO2.\n- En absence d’oxygène, les baies intactes déclenchent une fermentation intracellulaire: les enzymes du raisin transforment une partie des sucres et acides en alcool, CO2 et composés aromatiques, à l’intérieur même de la baie.\n- Quand les baies atteignent environ 1,5–2% d’alcool interne, elles s’autodégradent; on presse alors.\n- Le jus obtenu termine sa fermentation alcoolique classiquement avec les levures.\n\nRésultats dans le vin\n- Arômes intenses de fruits rouges/noirs et notes typiques de bonbon/banane/fraise tagada (esters comme l’acétate d’isoamyle, éthyl-cinnamate).\n- Peu de tannins, bouche ronde et souple, couleur généralement vive mais moins extraite.\n- Vins prêts très tôt, à boire jeunes; complexité et potentiel de garde plus limités (sauf adaptations).\n\nVrai carbonique vs semi-carbonique\n- Carbonique “pur”: cuve préalablement inertée au CO2; toutes les baies fermentent d’emblée en anaérobie.\n- Semi-carbonique (courant en Beaujolais): on encuve grappes entières sans ajouter de CO2; les baies écrasées au fond démarrent une fermentation classique qui dégage du CO2, créant progressivement l’atmosphère anaérobie.\n\nParamètres usuels\n- Raisins sains, vendangés à la main, grappes entières.\n- Température plutôt chaude pour l’intracellulaire (environ 25–30 °C).\n- Durée: 4–10 jours pour des vins très fruités (p. ex. Beaujolais Nouveau), jusqu’à 10–20 jours pour plus de structure.\n- Pressurage doux; fin de fermentation en cuve.\n- Attention aux dérives (volatilité, Brett) si trop long ou trop chaud.\n\nOù et pourquoi\n- Classique en Beaujolais (Gamay), aussi en Gaillac, Languedoc, Rioja pour des “jóvenes”, ou dans certains vins “nature”.\n- Avantages: expression fruitée, tannins modérés, consommation rapide; limites: moindre extraction/complexité si on pousse le style.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Principalement d’un mélange de sources utilisé pour mon entraînement: données publiques (sites d’organismes viticoles, articles, ressources éducatives), contenus sous licence et textes rédigés par des formateurs humains. Je ne consulte pas de bases externes en temps réel et je n’ai pas d’accès privilégié à des sources payantes; mes réponses synthétisent des connaissances générales disponibles avant ma date de mise à jour (octobre 2024).\n\nSi vous souhaitez des références concrètes (par ex. OIV, INAO, universités/centres techniques, interprofessions régionales), dites-moi le thème et je vous propose des liens fiables."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Manuels et cours d’œnologie/viticulture et ressources pédagogiques (ex. WSET)",
+            "Documents d’organismes officiels (OIV, INAO, règlements d’appellations)",
+            "Revues et travaux académiques (ex. American Journal of Enology and Viticulture)",
+            "Ouvrages et guides reconnus sur le vin et les cépages"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une méthode de vinification (surtout pour les vins rouges) où des grappes entières et intactes fermentent d’abord à l’intérieur des baies, en absence d’oxygène, dans une atmosphère de CO2.\n\nComment ça marche:\n- On met des grappes entières non égrappées dans une cuve hermétique saturée en CO2.\n- À l’intérieur des baies, une fermentation enzymatique dite intracellulaire démarre: une petite partie des sucres devient alcool (≈1–2%), le malique diminue, et des arômes fruités se forment.\n- Après quelques jours, on presse; le jus termine sa fermentation de façon “classique” avec les levures.\n\nEffets sur le vin:\n- Couleur modérée, tanins souples (peu d’extraction).\n- Arômes très fruités et immédiats (fraise, framboise, banane/bonbon anglais selon les conditions).\n- Acidité plus douce, vins à boire jeunes.\n\nÀ distinguer:\n- Macération carbonique “pure”: cuve saturée en CO2 exogène.\n- Semi-carbonique (très utilisée en Beaujolais): le CO2 est produit par la fermentation des baies écrasées au fond; les baies du haut fermentent intracellulairement.\n\nExemples: Beaujolais Nouveau et certains styles fruités de Gamay, Grenache, Syrah ou Pinot Noir.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas accès à la liste exacte ni au détail des textes sur lesquels j’ai été entraîné. Je suis un modèle OpenAI entraîné sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains. Je ne consulte pas le web en direct dans cette conversation.\n\nQuand je parle de culture œnologique, mes réponses s’appuient sur des connaissances de référence largement diffusées, par exemple:\n- manuels et cours d’œnologie/viticulture et ressources pédagogiques (p. ex. WSET),\n- documents d’organismes officiels (OIV, INAO, règlements d’appellations),\n- revues et travaux académiques (p. ex. American Journal of Enology and Viticulture),\n- ouvrages et guides reconnus sur le vin et les cépages.\n\nSi vous voulez des sources pour un point précis (une appellation, une méthode de vinification, des statistiques, etc.), dites-moi le sujet et je vous indiquerai des références fiables à consulter."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (Organisation Internationale de la Vigne et du Vin)",
+            "INAO",
+            "IFV (Institut Français de la Vigne et du Vin)",
+            "INRAE",
+            "American Journal of Enology and Viticulture",
+            "Revue des Œnologues",
+            "UC Davis Viticulture & Enology",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Science (R.S. Jackson)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une méthode de vinification (surtout pour les rouges) où l’on encuve des grappes entières non égrappées dans une atmosphère saturée en CO2. Privées d’oxygène, les baies intactes commencent une fermentation dite intracellulaire: à l’intérieur de chaque grain, des enzymes transforment une partie des sucres en alcool (≈1–2%) et produisent des composés aromatiques. Ensuite, les baies éclatent ou sont pressées et la fermentation alcoolique classique se termine sur le jus.\n\nCe que cela change:\n- Extraction limitée de tanins et de couleur: vins plus souples, peu astringents, robe plutôt claire.\n- Profil aromatique très fruité et gourmand: fruits rouges frais (fraise, cerise), parfois notes de bonbon/banane dues aux esters.\n- Vins souvent à boire jeunes, mais la technique peut aussi être modulée pour des styles plus sérieux.\n\nDeux variantes:\n- Macération carbonique “classique”: on purge la cuve au CO2 dès le départ.\n- Semi-carbonique (la plus courante en Beaujolais): on encuve en grappes entières sans ajout de CO2; les baies écrasées au fond démarrent la fermentation, produisant le CO2 qui sature la cuve, tandis que les grappes du dessus fermentent intracellulairement.\n\nRégions/cépages typiques: Beaujolais (Gamay, dont le Beaujolais Nouveau), mais aussi certains vins de la Rioja, du Languedoc ou de la Loire. Durée indicative: quelques jours à deux semaines, selon le style recherché.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je ne “tiens” pas ces infos d’une source unique. Mes réponses sont générées par un modèle entraîné sur un mélange de données publiques, de contenus sous licence et d’informations fournies par des formateurs humains. Je n’ai pas d’accès en temps réel au web ni à des bases propriétaires, et je ne peux pas lister les documents exacts vus pendant l’entraînement.\n\nSi vous voulez vérifier ou approfondir un point précis, je peux proposer des références. Exemples de sources fiables en œnologie:\n- OIV (Organisation Internationale de la Vigne et du Vin): rapports et publications techniques\n- INAO: cahiers des charges AOC/AOP\n- IFV (Institut Français de la Vigne et du Vin) et INRAE: fiches techniques et travaux de recherche\n- American Journal of Enology and Viticulture; Revue des Œnologues\n- UC Davis Viticulture & Enology (publications et extension)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Wine Science (R.S. Jackson)\n\nDites-moi quel point vous souhaitez sourcer (ex. températures de fermentation, pratiques d’élevage, réglementation AOP, géologie d’une région) et je vous donnerai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Données publiques",
+            "Contenus sous licence",
+            "Documents rédigés par des formateurs humains",
+            "Informations fournies par l’utilisateur dans la conversation",
+            "Organisation Internationale de la Vigne et du Vin (OIV)",
+            "INAO (cahiers des charges AOC/IGP en France)",
+            "Règlementation de l’UE sur le vin (ex. règlement (UE) n° 1308/2013 et actes délégués)",
+            "UC Davis – Viticulture & Enology",
+            "AWRI (Australian Wine Research Institute)",
+            "Articles scientifiques et notes techniques accessibles en ligne"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des rouges où des grappes entières, non égrappées, sont placées dans une cuve saturée en CO2 et privée d’oxygène. Dans ces conditions, les baies fermentent “de l’intérieur” (fermentation intracellulaire) avant d’être pressées, puis la fermentation alcoolique se termine ensuite classiquement dans le jus.\n\nCe qui se passe dans la baie:\n- Métabolisme anaérobie: les enzymes de la baie transforment sucres et acides en un peu d’alcool (≈1,5–2%), CO2 et composés aromatiques.\n- Diminution de l’acide malique, formation d’esters (dont l’isoamyl acétate), ce qui favorise des arômes fruités.\n- Après quelques jours, on presse; les levures finissent la fermentation dans le moût.\n\nDeux variantes:\n- Macération carbonique “stricte”: cuve fermée remplie de CO2 dès le départ, grappes intactes.\n- Macération semi-carbonique: on cuve des grappes entières sans ajouter de CO2; les baies du bas s’écrasent, la fermentation démarre et le CO2 produit sature la cuve. C’est la méthode la plus courante en Beaujolais.\n\nEffets sur le vin:\n- Profil aromatique gourmand et net: fruits rouges/noirs, notes de bonbon, banane/bubblegum selon l’intensité, parfois kirsch/épices.\n- Couleur vive, tanins souples, texture ronde, acidité un peu adoucie (malique réduit).\n- Vins souvent prêts à boire jeunes; structure et potentiel de garde plus limités si la macération est courte.\n\nRepères pratiques:\n- Durée: environ 3–7 jours pour des vins très fruités (ex. Beaujolais Nouveau), 8–20 jours pour plus de structure.\n- Température: généralement 20–30°C; trop chaud = risque d’arômes cuits ou de déviations.\n- Cépages/terroirs typiques: Gamay (Beaujolais), Tempranillo (Rioja Alavesa), Grenache, Carignan, Cinsault, etc.\n\nÀ distinguer de la macération “classique” où le jus est en contact avec les peaux pour extraire couleur et tanins: ici, la clé est la fermentation intracellulaire en atmosphère de CO2 avant le pressurage.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je m’appuie sur un mélange de sources appris pendant l’entraînement: données publiques, contenus sous licence et documents rédigés par des formateurs humains, plus ce que vous me fournissez dans la conversation. Je n’ai pas une base de données privée ni la mémoire de documents précis, et je ne “vois” pas des abonnements payants. Mon savoir sur l’œnologie reflète donc des connaissances largement diffusées et synthétisées jusqu’à fin 2024.\n\nSi vous voulez des références vérifiables pour un point précis (par ex. définitions OIV, règles d’appellations, procédés de vinification, données de cépages), je peux les fournir ou aller les chercher. Exemples de sources publiques et reconnues vers lesquelles je peux vous orienter:\n- Organisation Internationale de la Vigne et du Vin (rapports, glossaire, résolutions)\n- INAO (cahiers des charges AOC/IGP en France)\n- Réglementation UE sur le vin (ex. règlement (UE) n° 1308/2013 et actes délégués)\n- Universités et instituts techniques ouverts (UC Davis Viticulture & Enology, AWRI)\n- Articles scientifiques et notes techniques accessibles en ligne\n\nDites-moi ce que vous souhaitez sourcer et je vous donne des liens précis."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "OIV (rapports statistiques, Code international des pratiques œnologiques)",
+            "IFV",
+            "INAO",
+            "INRAE",
+            "AWRI (Australian Wine Research Institute)",
+            "UC Davis Department of Viticulture and Enology",
+            "American Journal of Enology and Viticulture",
+            "Journal of Agricultural and Food Chemistry",
+            "Food Chemistry",
+            "Ribéreau-Gayon et al. “Traité d’œnologie”",
+            "Jackson “Wine Science”",
+            "Boulton et al. “Principles and Practices of Winemaking”",
+            "Peynaud “Le Goût du Vin”",
+            "Robinson (Oxford Companion to Wine)",
+            "eAmbrosia (UE)",
+            "TTB (AVA aux États‑Unis)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification des rouges où des grappes entières et intactes sont placées dans une cuve saturée en CO2, sans oxygène. Dans ces conditions, chaque baie fermente de l’intérieur (fermentation intracellulaire) avant d’être foulée/pressée puis de finir la fermentation de façon classique par les levures.\n\nEffets et objectifs:\n- Extraction douce: peu de tannins, couleur vive, texture souple.\n- Profil aromatique fruité et « amylique »: fraise, framboise, banane, bonbon, kirsch, épices douces.\n- Diminution de l’acidité malique (goût plus rond), alcool déjà partiellement formé dans la baie (~1–2 %).\n\nProcédé en bref:\n- Récolte manuelle pour préserver les baies.\n- Cuve fermée remplie de CO2 (ou généré sur place).\n- 5–15 jours selon style, puis décuvage/pressurage et fin de fermentation par les levures.\n\nÀ distinguer de la semi-carbonique (courante en Beaujolais): on empile des grappes entières sans ajouter de CO2; les baies du bas se écrasent, la fermentation démarre et produit le CO2 qui crée ensuite l’environnement anaérobie pour les baies du haut.\n\nUsages typiques: Beaujolais (surtout Nouveau) avec le Gamay, mais aussi parfois Carignan, Grenache, Rioja Alavesa, et certains styles modernes pour des rouges légers et faciles à boire.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Bonne question. Je n’ai pas d’accès direct à des bases de données ni de navigation en temps réel. Je suis un modèle entraîné sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains. Je ne peux pas lister les documents exacts vus pendant l’entraînement, mais pour l’œnologie mes réponses s’alignent généralement sur des sources reconnues comme :\n\n- OIV (rapports statistiques, Code international des pratiques œnologiques)\n- IFV et INAO (France), INRAE pour la recherche vigne/vin\n- AWRI (Australian Wine Research Institute)\n- UC Davis Department of Viticulture and Enology\n- Revues scientifiques: American Journal of Enology and Viticulture, Journal of Agricultural and Food Chemistry, Food Chemistry\n- Ouvrages de référence: Ribéreau-Gayon et al. “Traité d’œnologie”, Jackson “Wine Science”, Boulton et al. “Principles and Practices of Winemaking”, Peynaud “Le Goût du Vin”, Robinson (Oxford Companion to Wine)\n- Appellations/étiquetage: INAO, base eAmbrosia (UE), TTB (AVA aux États‑Unis)\n\nSi vous me dites quel point précis vous voulez sourcer (cépage, pratique œnologique, appellation, etc.), je peux proposer des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "carbonic_maceration_principle": true,
+            "carbonic_maceration_effects": true,
+            "precisions_about_nuances": true,
+            "visual_synthesis_proposal": false
+        },
+        "sources": [
+            "Publications et codes de l’OIV (pratiques œnologiques, compendium d’analyses)",
+            "Réglementation UE (ex. 1308/2013, 2019/934) et décrets d’AOP/IGP",
+            "INRAE",
+            "IFV",
+            "AWRI",
+            "UC Davis Viticulture & Enology",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Science (R. S. Jackson)",
+            "Le goût du vin (É. Peynaud)",
+            "Traité d’œnologie (Ribéreau-Gayon & Dubourdieu)",
+            "Understanding Wine Technology (D. Bird)",
+            "American Journal of Enology and Viticulture",
+            "OENO One",
+            "Notes techniques de comités interprofessionnels (CIVB, BIVB, Comité Champagne, InterRhône)"
+        ],
+        "history": "User: Qu'est ce qu'une macération carbonique ?\nAssistant: La macération carbonique est une technique de vinification (surtout pour les vins rouges) où l’on fait fermenter des grappes entières, intactes, dans une cuve saturée en gaz carbonique (CO2) et sans oxygène. Les baies fermentent d’abord “de l’intérieur” (fermentation intracellulaire) avant qu’on ne presse et ne termine la fermentation de manière classique avec les levures.\n\nComment ça se passe, en bref:\n- On encuve des grappes entières dans une cuve hermétique remplie de CO2.\n- À l’intérieur des baies, des réactions enzymatiques produisent jusqu’à ~2% d’alcool, consomment une partie de l’acide malique et génèrent des arômes fruités.\n- Après quelques jours, on presse; le jus finit sa fermentation alcoolique avec des levures.\n\nEffets sur le style du vin:\n- Couleur plutôt vive, tannins souples, texture légère à moyenne.\n- Arômes très fruités et “estérifiés”: fraise, framboise, cerise, banane, bonbon anglais, violette.\n- Vins souvent prêts à boire jeunes.\n\nVariantes et régions:\n- Semi-carbonique: on n’ajoute pas de CO2; le jus des baies écrasées au fond fermente et produit le CO2 qui fait macérer le reste (méthode traditionnelle du Beaujolais).\n- Utilisée aussi en Rioja (maceración carbónica) et par certains vignerons “nature” ailleurs.\n\nÀ distinguer de la simple “vinification en vendange entière”: celle-ci peut impliquer des grappes non égrappées mais n’est pas forcément conduite en atmosphère de CO2, même si une part d’intracellulaire peut tout de même se produire.\nUser: D'où tu tiens ces données de culture œnologique ?\nAssistant: Je n’ai pas une base de sources consultable ni la mémoire de documents précis. Mon entraînement repose sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs, jusqu’à fin octobre 2024. Je ne consulte pas de bases propriétaires en direct.\n\nPour les sujets de culture œnologique, mes réponses reflètent des connaissances généralement admises et largement diffusées, comme celles qu’on trouve typiquement dans:\n- Publications et codes de l’OIV (pratiques œnologiques, compendium d’analyses)\n- Réglementation UE (ex. 1308/2013, 2019/934) et décrets d’AOP/IGP\n- Instituts et organismes techniques: INRAE, IFV, AWRI, UC Davis Viticulture & Enology\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), Wine Science (R. S. Jackson), Le goût du vin (É. Peynaud), Traité d’œnologie (Ribéreau-Gayon & Dubourdieu), Understanding Wine Technology (D. Bird)\n- Revues et ressources pro: American Journal of Enology and Viticulture, OENO One, notes techniques de comités interprofessionnels (CIVB, BIVB, Comité Champagne, InterRhône)\n\nSi vous voulez la source précise d’un point particulier, dites-moi lequel et je vous indiquerai une référence appropriée (titre, auteur, édition, article)."
+    }
+]

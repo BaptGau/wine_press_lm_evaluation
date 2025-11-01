@@ -13,8 +13,9 @@ def multi_turn_history():
     return [
         ChatTurn(SpeakerRole.USER, "What is the capital of France?"),
         ChatTurn(SpeakerRole.ASSISTANT, "The capital is Paris."),
-        ChatTurn(SpeakerRole.USER, "Thank you.")
+        ChatTurn(SpeakerRole.USER, "Thank you."),
     ]
+
 
 def test_empty_history_returns_empty_string():
     """Test with an empty list should return an empty string."""
@@ -22,13 +23,13 @@ def test_empty_history_returns_empty_string():
     expected = ""
     assert convert_history_to_string(history) == expected
 
+
 def test_single_turn_history_no_newline():
     """Test with a single turn, ensuring no trailing newline."""
-    history = [
-        ChatTurn(SpeakerRole.USER, "Hello there!")
-    ]
+    history = [ChatTurn(SpeakerRole.USER, "Hello there!")]
     expected = "User: Hello there!"
     assert convert_history_to_string(history) == expected
+
 
 def test_multi_turn_history_correct_newlines(multi_turn_history):
     """Test with multiple turns, checking for newlines between turns, but not at the end."""
@@ -38,6 +39,7 @@ def test_multi_turn_history_correct_newlines(multi_turn_history):
         "User: Thank you."
     )
     assert convert_history_to_string(multi_turn_history) == expected
+
 
 def test_to_string_method():
     """Test the to_string method on a single object."""

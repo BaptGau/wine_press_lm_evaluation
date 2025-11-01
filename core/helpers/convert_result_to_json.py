@@ -16,11 +16,12 @@ def write_results_to_json(results: List[Dict[str, Any]], json_path: Path):
 
     try:
         json_path.write_text(
-            json.dumps(results, indent=4, ensure_ascii=False),
-            encoding='utf-8'
+            json.dumps(results, indent=4, ensure_ascii=False), encoding="utf-8"
         )
 
-        print(f"✅ {len(results)} évaluations écrites dans '{json_path}' au format JSON.")
+        print(
+            f"✅ {len(results)} évaluations écrites dans '{json_path}' au format JSON."
+        )
 
     except Exception as e:
         print(f"❌ Erreur lors de l'écriture du fichier JSON : {e}")

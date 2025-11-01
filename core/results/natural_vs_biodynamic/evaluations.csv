@@ -1,0 +1,7 @@
+variable,total,true,false,null,true_%,false_%,null_%
+specialised_press_mention,30,0,0,30,0.0,0.0,100.0
+context,30,27,3,0,90.0,10.0,0.0
+notions_definition,30,0,30,0,0.0,100.0,0.0
+synthetical_comparison,30,0,30,0,0.0,100.0,0.0
+central_idea_conclusion,30,0,30,0,0.0,100.0,0.0
+visual_support_proposal,30,3,27,0,10.0,90.0,0.0

@@ -13,7 +13,7 @@ class WineForAperitif {
 }
 
 function EvaluateWineForAperitif(query: string, response: string) -> WineForAperitif {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

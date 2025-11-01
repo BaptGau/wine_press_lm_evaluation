@@ -9,7 +9,7 @@ class NaturalVsBiodynamical {
 }
 
 function EvaluateNaturalVsBiodynamical(query: string, response: string) -> NaturalVsBiodynamical {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

@@ -1,0 +1,11 @@
+variable,total,true,false,null,true_%,false_%,null_%
+specialised_press_mention,30,0,0,30,0.0,0.0,100.0
+context,30,30,0,0,100.0,0.0,0.0
+concrete_suggestions,30,30,0,0,100.0,0.0,0.0
+region_suggestion,30,30,0,0,100.0,0.0,0.0
+cepage_suggestion,30,30,0,0,100.0,0.0,0.0
+domain_suggestion,30,30,0,0,100.0,0.0,0.0
+aromatics_notes,30,30,0,0,100.0,0.0,0.0
+purchase_place,30,2,28,0,6.666666666666667,93.33333333333333,0.0
+wine_advices,30,30,0,0,100.0,0.0,0.0
+precision_proposal,30,19,11,0,63.33333333333333,36.666666666666664,0.0

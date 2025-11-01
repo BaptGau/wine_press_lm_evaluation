@@ -7,6 +7,7 @@ class SpeakerRole(Enum):
     ASSISTANT = "Assistant"
     USER = "User"
 
+
 @dataclass
 class ChatTurn:
     role: SpeakerRole
@@ -20,7 +21,7 @@ def convert_history_to_string(history: List[ChatTurn]) -> str:
     string = ""
 
     for turn_idx, turn in enumerate(history):
-        if turn_idx == len(history)-1:
+        if turn_idx == len(history) - 1:
             string += turn.to_string()
         else:
             string += turn.to_string() + "\n"

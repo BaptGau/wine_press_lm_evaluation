@@ -6,7 +6,7 @@ class RetrievedSourcesWineCulture {
 }
 
 function RetrieveSourcesWineCulture(history: string, source_retrieval_query: string, response: string) -> RetrievedSourcesWineCulture {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

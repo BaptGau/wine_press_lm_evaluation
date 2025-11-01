@@ -6,7 +6,6 @@ from wine_press_lm_evaluation.core.helpers.open_ai_query import get_gpt_answer
 
 
 def test_get_gpt_answer():
-
     test_input = "Hello world"
     test_model = "gpt-19"
 
@@ -14,7 +13,6 @@ def test_get_gpt_answer():
         target=Responses,
         attribute="create",
     ) as mock_api_call:
-
         get_gpt_answer(
             query=test_input,
             model=test_model,
@@ -27,9 +25,3 @@ def test_get_gpt_answer():
 
     assert call_kwargs["input"] == test_input, "Query should be the correct one"
     assert call_kwargs["model"] == test_model, "Model should be the correct one"
-
-
-
-
-
-        

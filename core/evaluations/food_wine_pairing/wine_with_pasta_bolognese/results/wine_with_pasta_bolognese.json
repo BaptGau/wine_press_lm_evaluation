@@ -1,0 +1,771 @@
+[
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust) – guides de niveau 2/3 sur les principes d’accords",
+            "Court of Master Sommeliers – manuel d’introduction (chapitres sur les accords)",
+            "Jancis Robinson: The Oxford Companion to Wine",
+            "Karen MacNeil: The Wine Bible",
+            "Madeline Puckette: Wine Folly (Magnum Edition)",
+            "GuildSomm – articles pédagogiques sur les accords",
+            "La Revue du Vin de France (dossiers \"Accords\")",
+            "Le Guide Hachette des Vins (rubriques accords)",
+            "L’École du Vin de Bordeaux (supports pédagogiques)",
+            "Harold McGee: On Food and Cooking (pour la partie science des saveurs)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise (tomate + viande), visez un vin rouge à bonne acidité et tannins modérés. Top accords:\n\n- Chianti / Chianti Classico (Sangiovese)\n- Rosso di Montalcino\n- Barbera d’Asti ou d’Alba\n- Montepulciano d’Abruzzo\n- Valpolicella Classico ou Ripasso (si sauce riche)\n- Lambrusco secco (frizzante), accord régional délicieux\n\nAlternatives non italiennes:\n- Côtes-du-Rhône ou Languedoc (Grenache–Syrah), peu boisé\n- Beaujolais (cru Morgon, Fleurie) légèrement rafraîchi\n- Rioja joven/crianza peu boisé\n\nBlanc/rosé si vous préférez:\n- Soave Classico, Verdicchio, Fiano, Gavi (blancs vifs, pas trop boisés)\n- Cerasuolo d’Abruzzo ou Tavel (rosés structurés)\n\nConseils:\n- Évitez les rouges très boisés ou trop tanniques (jeunes Cabernets, Barolo très jeune).\n- Service: 16–18°C pour les rouges; 10–12°C pour rosé/Lambrusco.\n- Bon rapport qualité/prix: Chianti ou Barbera 8–15 €, Montepulciano 7–12 €.\n\nVous avez une préférence (italien/non, budget, style plus fruité ou plus épicé) ? Je peux affiner.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas ces conseils dans une base unique d’accords; je suis un modèle entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains. Je n’enregistre pas les sources précises de chaque énoncé. Mes recommandations reposent surtout sur des principes largement enseignés (équilibrer l’intensité, acide vs. gras, tanins vs. protéines, sucre vs. piquant, accords régionaux, etc.).\n\nSi vous cherchez des références reconnues à consulter vous-même, voici des ressources fiables sur les accords mets-vins et la science sous-jacente:\n- WSET (Wine & Spirit Education Trust) – guides de niveau 2/3 sur les principes d’accords\n- Court of Master Sommeliers – manuel d’introduction (chapitres sur les accords)\n- Jancis Robinson: The Oxford Companion to Wine\n- Karen MacNeil: The Wine Bible\n- Madeline Puckette: Wine Folly (Magnum Edition)\n- GuildSomm – articles pédagogiques sur les accords\n- Ressources francophones: La Revue du Vin de France (dossiers “Accords”), Le Guide Hachette des Vins (rubriques accords), L’École du Vin de Bordeaux (supports pédagogiques)\n- Harold McGee: On Food and Cooking (pour la partie science des saveurs)\n\nSi vous voulez, dites-moi un plat précis et je vous expliquerai le “pourquoi” de l’accord proposé, avec des références plus ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "WSET (Level 2 et Level 3 Award in Wines) – chapitres “Food and Wine Interactions” et méthode de dégustation",
+            "The Oxford Companion to Wine (Jancis Robinson et al., 4e éd.) et articles sur JancisRobinson.com sur “Food and wine pairing”",
+            "The Wine Bible (Karen MacNeil, 2e/3e éditions)",
+            "Evan Goldstein MS: Perfect Pairings (2006)",
+            "Evan Goldstein MS: Daring Pairings (2010)",
+            "What to Drink with What You Eat (Karen Page & Andrew Dornenburg, 2006)",
+            "Wine Folly: The Master Guide, Magnum Edition (Madeline Puckette & Justin Hammack)",
+            "UC Davis / Ann C. Noble: Wine Aroma Wheel et littérature de science sensorielle",
+            "François Chartier: Taste Buds and Molecules (Papilles et Molécules)",
+            "GuildSomm: articles et modules sur l’interaction mets-vins (sel, acide, umami, piment)",
+            "Harold McGee: On Food and Cooking"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Voici des accords sûrs (rouges surtout), avec quelques alternatives et conseils de service:\n\nClassiques italiens\n- Sangiovese: Chianti (Classico si possible), Rosso di Montalcino – acidité vive, parfait avec la tomate.\n- Barbera d’Asti/Alba – très bonne acidité, tannins modérés.\n- Montepulciano d’Abruzzo – fruité, souple.\n- Valpolicella (Classico ou Ripasso si sauce très riche).\n- Accord régional fun: Lambrusco secco (sec et légèrement pétillant).\n\nSi la sauce est très riche et carnée\n- Aglianico, Nero d’Avola, Primitivo, Cannonau (Grenache sarde) – plus de matière, rester peu boisé.\n\nAlternatives non italiennes\n- Côtes-du-Rhône ou Languedoc (Grenache/Syrah).\n- Rioja joven ou Crianza (Tempranillo).\n- Beaujolais cru (Morgon, Moulin-à-Vent) ou Pinot Noir peu boisé pour un style plus léger.\n\nSi vous préférez blanc/rosé\n- Rosé sec (Provence, Tavel).\n- Blancs à bonne acidité et peu boisés: Verdicchio, Soave, Vermentino.\n\nConseils rapides\n- Cherchez acidité moyenne à élevée et tannins modérés; évitez le boisé marqué.\n- Service: 16–18 °C; possible carafe 20–30 min pour les rouges jeunes.\n- Plus la sauce est tomatée/acide, plus un vin vif (Sangiovese/Barbera) fonctionne. Plus elle est riche/fromagée, un vin un peu plus charnu passe mieux.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Mes conseils sur les accords mets-vins viennent d’un mélange de sources reconnues en œnologie/sommellerie, d’ouvrages de référence et d’articles techniques, par exemple:\n\n- WSET (Level 2 et Level 3 Award in Wines): chapitres “Food and Wine Interactions” et la méthode de dégustation. Principes clés: sucre/umami accentuent amertume/astringence; sel et acidité adoucissent le vin; piment augmente la sensation d’alcool et d’amertume.\n- Oxford Companion to Wine (Jancis Robinson et al., 4e éd.) et articles associés sur JancisRobinson.com sur “Food and wine pairing”.\n- The Wine Bible (Karen MacNeil, 2e/3e éd.), chapitres d’accords et profils régionaux.\n- Evan Goldstein MS: Perfect Pairings (2006) et Daring Pairings (2010) pour des lignes directrices pratiques par styles de vin et techniques culinaires.\n- What to Drink with What You Eat (Karen Page & Andrew Dornenburg, 2006) pour des accords transversaux plats/boissons.\n- Wine Folly: The Master Guide, Magnum Edition (Madeline Puckette & Justin Hammack) pour des cartes d’arômes et règles d’intensité.\n- UC Davis/Ann C. Noble: Wine Aroma Wheel et littérature de science sensorielle, utiles pour raisonner les correspondances aromatiques.\n- François Chartier: Taste Buds and Molecules (Papilles et Molécules) sur les liens moléculaires entre ingrédients et vins.\n- Articles et modules GuildSomm sur l’interaction mets-vins et les effets du sel, de l’acide, de l’umami et du piment.\n- Références de gastronomie et science du goût (Harold McGee, On Food and Cooking) pour comprendre sucré/amer/umami et texture.\n\nImportant: beaucoup de recommandations sont des “règles de pouce” validées par la pratique et des tests sensoriels, pas des lois absolues. Les préférences personnelles et le contexte du plat comptent beaucoup. Si vous voulez, dites-moi un accord précis que j’ai suggéré et je vous pointe vers la source ou l’explication sensorielle correspondante."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "What to Drink with What You Eat (Page & Dornenburg)",
+            "Wine Folly: Magnum Edition (Puckette & Hammack)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "WSET (Wine & Spirit Education Trust)",
+            "GuildSomm"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Un ragù bolognaise aime les rouges italiens frais et acidulés, aux tanins modérés, pour répondre à la tomate et à la richesse de la viande.\n\nTrès bons choix (Italie)\n- Sangiovese di Romagna ou Chianti (plutôt non boisé)\n- Barbera d’Asti/Alba (beaucoup d’acidité, tanins souples)\n- Montepulciano d’Abruzzo (fruité, rond)\n- Valpolicella; en version Ripasso si le ragù est très riche\n- Lambrusco secco (sec et légèrement pétillant) pour un accord gourmand et rafraîchissant\n\nAlternatives hors Italie\n- Côtes-du-Rhône (GSM, pas trop boisé)\n- Rioja Crianza/Tempranillo jeune\n- Beaujolais (crus comme Morgon/Julienas) pour le fruit et la fraîcheur\n\nSi vous préférez blanc/rosé\n- Soave Classico, Verdicchio ou Lugana (blancs vifs)\n- Cerasuolo d’Abruzzo ou rosé de Provence (secs)\n\nConseils rapides\n- Privilégiez l’acidité et évitez les boisés/vanillés marqués.\n- Servez à 16–18 °C; aérez 20–30 minutes.\n- Si la sauce est épicée, évitez les rouges très alcooleux (>14,5%).\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas une base de données privée d’accords mets-vins ni l’historique exact de mes sources. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et de données rédigées par des formateurs humains, et je m’appuie sur des principes largement reconnus en sommellerie.\n\nMes suggestions reposent surtout sur des règles courantes:\n- Équilibrer la puissance du vin et du plat\n- Accorder l’acidité avec l’acidité (et rafraîchir les plats gras)\n- Laisser le sucre dominer le piquant ou le salé (vins demi-secs avec épicé/fromages bleus)\n- Les tannins aiment la protéine et le gras (rouges structurés avec viandes rouges)\n- Accorder par région quand c’est logique (plats locaux avec vins locaux)\n- Tenir compte d’abord de la sauce/assaisonnement plutôt que de la protéine seule\n\nSi vous cherchez des références à consulter, voici quelques ouvrages et organismes reconnus:\n- What to Drink with What You Eat (Page & Dornenburg)\n- Wine Folly: Magnum Edition (Puckette & Hammack)\n- The Oxford Companion to Wine (Jancis Robinson)\n- WSET (Wine & Spirit Education Trust) et GuildSomm pour les principes d’accords\n\nSi vous avez un plat précis en tête, je peux proposer un accord et, si besoin, vous indiquer des ressources publiques qui en discutent."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat – Dornenburg & Page",
+            "Perfect Pairings – Evan Goldstein",
+            "Taste Buds and Molecules (Papilles et molécules) – François Chartier",
+            "Wine Folly (guides en ligne et livre)",
+            "Articles pédagogiques de sites culinaires sérieux (ex. Serious Eats) et publications universitaires sur la perception de l’acidité/tanins"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour une bolognaise (tomate + viande), vise un rouge avec bonne acidité, tanins modérés et peu de bois.\n\nClassiques italiens (top choix)\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Sangiovese di Romagna – cerise, fraîcheur, parfait avec la tomate.\n- Barbera d’Asti/Alba – très bonne acidité, tanins souples.\n- Montepulciano d’Abruzzo – fruité, ample mais pas trop tannique.\n- Lambrusco secco (rouge pétillant sec) – frais, nettoie le palais, super avec la richesse du ragù.\n\nAlternatives françaises\n- Beaujolais crus (Morgon, Moulin‑à‑Vent, Fleurie) – fruit et structure sans excès de tanins.\n- Côtes‑du‑Rhône (style frais, peu boisé) – Grenache/Syrah souple.\n- Loire en Cabernet Franc (Chinon, Saumur‑Champigny) – acidité et fruits rouges, très polyvalent.\n\nSi tu préfères blanc/rosé\n- Blancs vifs et peu boisés: Soave Classico, Verdicchio, Gavi, Vermentino.\n- Rosé: Cerasuolo d’Abruzzo (plus coloré) ou rosé de Provence bien sec.\n\nConseils service\n- Rouge: 16–18°C, aérer 20–30 min si jeune. \n- Lambrusco: 10–12°C.\n- Évite les rouges très tanniques/boisés (Cabernet lourd, Primitivo très alcooleux) qui durcissent avec la tomate.\n\nTu as un budget ou une région préférée ? Je peux te proposer 2–3 bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne “tiens” pas ces accords d’une base unique ou d’un accès en direct à des sites. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains. Je n’ai pas la liste exacte des sources et je ne peux pas “consulter” le web en direct.\n\nMes recommandations s’appuient sur des principes de sommellerie largement établis, par exemple :\n- Équilibrer l’acidité (vins vifs) avec le gras/les mets riches\n- Adoucir le piquant avec un peu de sucre résiduel et peu d’alcool\n- Les tanins aiment les protéines et le gras, mais heurtent l’amertume/umami intense\n- Assortir l’intensité (mets délicats avec vins légers, plats puissants avec vins structurés)\n- La sauce et la cuisson comptent autant que l’ingrédient principal\n- “Ce qui pousse ensemble va ensemble” (accords régionaux)\n\nSi vous voulez creuser avec des ressources reconnues (non exhaustif) :\n- What to Drink with What You Eat – Dornenburg & Page\n- Perfect Pairings – Evan Goldstein\n- Taste Buds and Molecules (Papilles et molécules) – François Chartier\n- Wine Folly (guides en ligne et livre) pour des bases pratiques\n- Articles pédagogiques de sites culinaires sérieux (ex. Serious Eats) et publications universitaires sur la perception de l’acidité/tanins\n\nSi vous me donnez un plat précis (ingrédients, sauce, cuisson) ou une bouteille, je peux détailler les accords et expliquer le “pourquoi” derrière chaque suggestion."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust): articles \"Food & Wine Pairing\" sur wsetglobal.com",
+            "Decanter: guides \"Food and wine pairing\" et \"rules of pairing\"",
+            "Wine Folly: \"Food & Wine Pairing Basics\"",
+            "UC Davis — Ann C. Noble: Wine Aroma Wheel (roue des arômes)",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "On Food and Cooking (H. McGee)",
+            "Travaux de Charles Spence sur la perception multisensorielle"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Classique et sûr: des rouges italiens à bonne acidité et tanins modérés pour répondre au gras du ragù et à l’acidité de la tomate.\n\nOptions idéales:\n- Sangiovese: Chianti Classico ou Rosso di Montalcino (fraîcheur, notes de cerise, herbes).\n- Barbera d’Asti/Alba: très juteux, peu tannique, parfait avec la tomate.\n- Montepulciano d’Abruzzo: un peu plus charnu, reste souple.\n- Lambrusco secco (sec, pétillant): régional, rafraîchissant, top avec le gras.\n\nAlternatives françaises et espagnoles:\n- Côtes-du-Rhône (Grenache/Syrah) jeunes et peu boisés.\n- Beaujolais crus structurés (Morgon, Moulin‑à‑Vent) si vous préférez plus de fruit et de finesse.\n- Rioja Crianza (Tempranillo) pas trop boisé.\n\nSi vous voulez un rosé: Cerasuolo d’Abruzzo ou Tavel, assez structurés pour la viande.\n\nÀ éviter: rouges très boisés/tanniques (jeune Barolo/Brunello, Cabernet très boisé) ou très alcooleux.\n\nConseils service:\n- Température 15–17 °C, aérer 20–30 min.\n- Plus la sauce est longue et riche, plus vous pouvez monter en structure; sauce rapide/tomate vive: privilégiez Barbera/Sangiovese jeunes.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base unique en temps réel. Mes réponses sont générées à partir d’un mélange de données sous licence, de contenus créés par des formateurs humains et d’informations publiques utilisées pendant mon entraînement. Pour les accords mets-vins, je m’appuie sur des principes largement reconnus en sommellerie et en sciences du goût.\n\nRessources représentatives (grand public et spécialisées) qui exposent ces principes:\n- WSET (Wine & Spirit Education Trust): articles “Food & Wine Pairing” sur wsetglobal.com\n- Decanter: guides “Food and wine pairing” et “rules of pairing”\n- Wine Folly: “Food & Wine Pairing Basics”\n- UC Davis — Ann C. Noble: Wine Aroma Wheel (roue des arômes)\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), On Food and Cooking (H. McGee), travaux de Charles Spence sur la perception multisensorielle\n\nSi vous voulez la source précise d’un accord particulier (ex. “fromage bleu + Sauternes”, “plat épicé + blanc demi-sec”, “steak + Cabernet”), dites-moi lequel et je vous renverrai des références ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Systematic Approach to Tasting)",
+            "Court of Master Sommeliers",
+            "GuildSomm",
+            "Jancis Robinson (Oxford Companion to Wine)",
+            "The Wine Bible (Karen MacNeil)",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Flavor Bible",
+            "Harold McGee",
+            "François Chartier (Papilles et Molécules)",
+            "Wine Folly",
+            "La Revue du vin de France",
+            "Guide Hachette",
+            "Le Nez du Vin"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise, privilégiez des rouges avec bonne acidité, tanins modérés et peu de bois pour matcher la tomate et le gras.\n\nClassiques italiens\n- Sangiovese (Chianti Classico, Sangiovese di Romagna, Rosso di Montalcino): cerise, acidité vive, très polyvalent.\n- Barbera d’Asti/Alba: très bonne acidité, fruits rouges, peu de tanins; top si la sauce est bien tomatée.\n- Montepulciano d’Abruzzo: plus rond et gourmand, fruits noirs, facile à boire.\n- Dolcetto d’Alba: fruité, souple, peu tannique.\n- Lambrusco secco (Grasparossa di Castelvetro): pétillant sec, rafraîchissant et régional d’Emilie-Romagne.\n\nAlternatives\n- Côtes-du-Rhône (ou Languedoc à base de grenache/syrah): fruité, épices douces, texture souple.\n- Rioja Crianza (tempranillo, peu boisé): cerise, épices, acidité correcte.\n- Beaujolais “cru” (Morgon, Fleurie): fruit croquant, tanins fins.\n\nSi vous préférez blanc ou rosé\n- Blancs avec acidité et corps: Verdicchio, Soave Classico, Fiano, Gavi di Gavi.\n- Rosé structuré: Cerasuolo d’Abruzzo, rosé de Provence plus vineux.\n\nConseils de service\n- Rouges: 16–18 °C, carafe 20–30 min si jeune.\n- Lambrusco/rosés/blancs: 10–12 °C.\n\nBudget indicatif\n- 8–15 €: Montepulciano d’Abruzzo, Barbera, Sangiovese di Romagna, Lambrusco secco.\n- 15–30 €: Chianti Classico, Dolcetto, Rosso di Montalcino, crus du Beaujolais.\n\nVous avez un budget ou une région en tête pour affiner la recommandation?\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Mes réponses sur les accords mets-vins viennent de:\n\n- Mon entraînement: un mélange de données publiques, de contenus sous licence et de connaissances rédigées par des formateurs humains. Je ne consulte pas de base de données unique en temps réel.\n- Des principes largement enseignés en sommellerie et en œnologie: équilibre acidité/gras, tannin/protéine, correspondance d’intensité, rôle de la sauce, sucre vs épices, accords régionaux, etc.\n- Le consensus de sources reconnues et largement citées, par exemple (à titre indicatif):\n  - WSET (Systematic Approach to Tasting), Court of Master Sommeliers, GuildSomm\n  - Jancis Robinson (Oxford Companion to Wine), The Wine Bible (Karen MacNeil)\n  - What to Drink with What You Eat (Dornenburg & Page), The Flavor Bible\n  - Travaux sur arômes et science culinaire: Harold McGee; François Chartier (Papilles et Molécules)\n  - Ressources grand public: Wine Folly; en français, La Revue du vin de France, Guide Hachette, Le Nez du Vin\n- Mon raisonnement culinaire (ex.: l’acidité “coupe” le gras, le sucre adoucit le piment, éviter les tanins avec l’amertume/umami, etc.).\n\nSi vous voulez des références précises pour un accord donné, dites-moi lequel et je vous indique des sources à consulter. Mon horizon de connaissances s’arrête en 2024 et je n’ai pas d’accès web en direct."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "Wine & Spirit Education Trust (WSET)",
+            "Court of Master Sommeliers",
+            "Wine Folly",
+            "The Wine Bible (Karen MacNeil)",
+            "Le Grand Larousse du Vin",
+            "Guide Hachette des Vins",
+            "Académie du Vin de Paris"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour une bolognaise (tomate + viande), il faut surtout de l’acidité pour matcher la tomate, des tanins modérés et peu de bois. Exemples sûrs:\n\n- Classiques italiens\n  - Sangiovese di Romagna ou Chianti (Italie, 10–20 €): cerise, acidité vive, parfait avec la tomate.\n  - Barbera d’Asti/Alba (12–20 €): très bonne acidité, tanins souples.\n  - Montepulciano d’Abruzzo (8–15 €): plus rond et fruité, reste assez frais.\n  - Valpolicella Classico ou Ripasso (12–25 €): rouge léger à moyen, cerise et herbes.\n  - Lambrusco secco (8–15 €): rouge pétillant sec d’Émilie-Romagne; super pour “couper” la richesse du ragù.\n\n- Alternatives françaises\n  - Côtes-du-Rhône (Grenache/Syrah, 8–15 €): fruit rouge, épices douces, tanins modérés.\n  - Beaujolais (un cru comme Morgon/Fleurie, 12–20 €): juteux, acidité vive.\n  - Languedoc (Grenache/Carignan, 8–15 €): style fruité, peu boisé.\n\n- Si vous préférez blanc ou rosé\n  - Soave, Verdicchio, Gavi (10–18 €): blancs italiens frais, non boisés.\n  - Cerasuolo d’Abruzzo ou rosé de Provence (8–15 €): rosés structurés qui tiennent la sauce.\n\nAstuces:\n- Évitez les rouges très boisés ou très tanniques (Barolo/Grands Bordeaux jeunes) qui dominent la sauce.\n- Servez les rouges à 15–16 °C; Lambrusco à 10–12 °C. Un carafage 20–30 min aide les vins jeunes.\n- Sauce plus épicée: privilégiez un rouge fruité et pas trop alcooleux (Beaujolais, Barbera).\n- Sauce très riche/longuement mijotée: vous pouvez monter en structure (Chianti Classico, Ripasso).\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas accès à la liste exacte de mes sources, mais j’ai été entraîné sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains. Je ne consulte pas de bases externes en direct. Mes suggestions d’accords mets-vins s’appuient donc sur des principes classiques largement enseignés en œnologie et en sommellerie, plutôt que sur une base unique.\n\nQuelques principes que j’applique souvent:\n- Intensité: marier la puissance du vin avec l’intensité du plat.\n- Acidité vs gras: un vin acide “coupe” le gras et la friture.\n- Tanins vs protéines/sel: tanins adoucis par protéines; attention au sel qui durcit les tanins.\n- Sucre vs piment: un peu de sucre aide avec les plats épicés; l’alcool fort accentue le feu.\n- Sauce et cuisson dominantes: on accorde surtout à la sauce/technique de cuisson.\n- Accord régional: vins et cuisines d’une même région fonctionnent souvent bien.\n\nSi tu veux des ressources à consulter, voici des références reconnues (à titre indicatif):\n- Wine & Spirit Education Trust (WSET) – principes d’accords des niveaux 2/3\n- Court of Master Sommeliers – matrices d’accords et logique d’intensité/acide/tanins\n- Wine Folly (site et livre) – guides pratiques d’accords\n- The Wine Bible (Karen MacNeil)\n- Le Grand Larousse du Vin; Guide Hachette des Vins; ouvrages de l’Académie du Vin de Paris\n\nSi tu me donnes un plat précis, je peux proposer un accord et expliquer le “pourquoi” avec ces principes."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "Émile Peynaud – Le Goût du Vin",
+            "François Chartier – Papilles et Molécules",
+            "Karen MacNeil – The Wine Bible",
+            "Jancis Robinson – The Oxford Companion to Wine",
+            "Wine Folly (site et livre) – guides pratiques d’accords",
+            "BIVB (Bourgogne)",
+            "CIVB (Bordeaux)",
+            "InterRhône",
+            "Vins d’Alsace",
+            "Vins de Loire",
+            "Guide Hachette des Vins",
+            "La Revue du vin de France"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise (tomate + viande), privilégiez un rouge assez vif en acidité, moyennement corsé, avec des tanins modérés et peu de bois. La tomate est acide: il faut un vin qui “répond” sans lourdeur.\n\nClassiques italiens (meilleur accord)\n- Sangiovese: Chianti Classico, Morellino di Scansano, Rosso di Montalcino\n- Barbera d’Alba/d’Asti\n- Montepulciano d’Abruzzo\n- Valpolicella Classico/Superiore\n- Dolcetto d’Alba\n- Lambrusco secco (sec, pétillant rouge) si vous aimez les bulles\n\nAlternatives non italiennes\n- Côtes-du-Rhône (grenache-syrah, pas trop boisé)\n- Rioja Joven/Crianza\n- Beaujolais “cru” (Morgon, Fleurie, Juliénas) un peu structuré\n- Languedoc/GSM fruité et frais\n\nBlanc/rosé si souhaité\n- Blancs nerveux et sapides: Soave Classico, Verdicchio, Gavi, Fiano\n- Rosés structurés: Cerasuolo d’Abruzzo, Tavel\n\nConseils rapides\n- Évitez les rouges très boisés ou trop tanniques.\n- Servez légèrement rafraîchi (15–17°C).\n- Si le ragù est très riche/longuement mijoté: montez d’un cran (Chianti Classico Riserva, Valpolicella Ripasso).\n\nBesoin d’une recommandation précise selon votre budget ou une bouteille disponible près de chez vous ?\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Mes recommandations ne viennent pas d’une base unique, mais de principes largement enseignés en sommellerie (intensité du plat, acidité qui « coupe » le gras, tanins adoucis par les protéines, sucre qui apaise le piment, prudence avec l’umami, accords régionaux, etc.). En pratique, je génère ces conseils à partir de connaissances acquises lors de mon entraînement sur un mélange de données publiques, sous licence et de contenus rédigés par des spécialistes, plus des exemples fournis par des formateurs humains. Je ne consulte pas le web en direct et je ne peux pas attribuer chaque idée à une source précise.\n\nPour vérifier ou approfondir, voici des références reconnues que vous pouvez consulter:\n- Émile Peynaud – Le Goût du Vin\n- François Chartier – Papilles et Molécules\n- Karen MacNeil – The Wine Bible\n- Jancis Robinson – The Oxford Companion to Wine\n- Wine Folly (site et livre) – guides pratiques d’accords\n- Ressources des interprofessions: BIVB (Bourgogne), CIVB (Bordeaux), InterRhône, Vins d’Alsace, Vins de Loire (fiches d’accords)\n- Guide Hachette des Vins, La Revue du vin de France (dossiers accords)\n\nSi vous voulez, dites-moi un plat précis et je vous donne des accords en expliquant la logique, avec liens ou références publiques quand c’est possible."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust), guides L2/L3 et Systematic Approach to Tasting",
+            "The Wine Bible, Karen MacNeil",
+            "The Oxford Companion to Wine, Jancis Robinson",
+            "Le Goût du Vin, Émile Peynaud",
+            "Papilles et Molécules, François Chartier",
+            "Articles pédagogiques de Decanter et Wine Folly",
+            "Travaux de sensory science en œnologie (UC Davis, publications ASEV)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise, privilégiez des rouges italiens frais et acidulés qui répondent à l’acidité de la tomate et au gras de la viande.\n\nClassiques italiens (meilleur accord)\n- Sangiovese: Chianti Classico, Morellino di Scansano, Rosso di Montalcino – acidité + notes de cerise, parfaites sur la sauce.\n- Barbera d’Asti/Barbera d’Alba: peu tannique, très fraîche, excellente avec la tomate.\n- Montepulciano d’Abruzzo: fruité, medium body, souple.\n- Valpolicella Classico/Superiore: léger à moyen, cerise et herbes.\n- Lambrusco secco (sec): pétillant rouge de l’Émilie-Romagne, régional et top avec les plats riches.\n\nSi la “bolognaise” est plus viande que tomate (ragù traditionnel)\n- Chianti Classico Riserva ou Rosso di Montalcino: un peu plus de structure.\n- Langhe Nebbiolo: tannins fins, belle fraîcheur.\n- Alternatives françaises: Côtes-du-Rhône (grenache-syrah), Bordeaux rive droite jeune (merlot).\n- Espagne: Rioja Crianza (tempranillo) pas trop boisé.\n\nRosé ou blanc (si vous préférez)\n- Rosé soutenu: Cerasuolo d’Abruzzo, Tavel.\n- Blancs vifs italiens: Soave Classico, Verdicchio; éviter les blancs boisés ou trop aromatiques/doux.\n\nÀ éviter\n- Rouges très boisés, très alcooleux ou sur-extraits (Amarone, Primitivo très mûr) avec une sauce très tomate.\n- Blancs moelleux/aromatiques (Gewurztraminer, Muscat).\n\nService\n- 16–18 °C pour les rouges, éventuelle aération 20–30 min.\n- Si sauce relevée/pimentée, privilégiez un rouge fruité et modéré en alcool (12–13,5 %).\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas une base unique d’« accords » prédéfinie. Mes suggestions proviennent de mon entraînement sur un mélange de contenus publics, de données sous licence et de données créées par des formateurs, ainsi que de principes classiques d’œnologie largement enseignés. Je ne consulte pas de source en temps réel, et je ne peux pas attribuer chaque idée à une référence précise.\n\nConcrètement, je m’appuie surtout sur des règles générales éprouvées:\n- Intensité du plat ≈ intensité du vin\n- L’acidité rafraîchit et coupe le gras/salinité\n- Les tanins s’adoucissent avec protéines/gras; attention à l’amertume avec l’amer et le piment\n- Le vin doit être au moins aussi sucré que le plat sucré\n- L’accord régional (plat et vin d’une même région) fonctionne souvent\n- On accorde le vin à la sauce/garniture autant qu’à la protéine\n\nSi vous souhaitez des sources à consulter, ces références recoupent ces principes et donnent des exemples classiques:\n- WSET (Wine & Spirit Education Trust), guides L2/L3 et Systematic Approach to Tasting\n- The Wine Bible, Karen MacNeil\n- The Oxford Companion to Wine, Jancis Robinson\n- Le Goût du Vin, Émile Peynaud\n- Papilles et Molécules, François Chartier\n- Articles pédagogiques de Decanter et Wine Folly (schémas d’accords accessibles)\n- Travaux de sensory science en œnologie (UC Davis, publications ASEV)\n\nSi vous me donnez un menu précis, je peux détailler des accords et, si vous voulez, joindre des liens vers des articles d’introduction correspondants."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "The Oxford Companion to Wine (J. Robinson)",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "Wine Folly",
+            "Les manuels WSET"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Voici l’idée clé: la sauce tomate demande de l’acidité, le ragù (viande mijotée) demande un rouge avec du relief mais des tanins souples. Évite les vins très boisés ou très alcooleux.\n\nExcellents accords (classiques italiens)\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Morellino di Scansano.\n- Barbera d’Alba ou d’Asti: très bonne acidité, tanins modérés.\n- Montepulciano d’Abruzzo (pas trop boisé).\n- Sangiovese di Romagna, Dolcetto.\n- Lambrusco secco (sec, pétillant léger) de l’Émilie-Romagne: accord régional top.\n\nAlternatives faciles à trouver\n- Beaujolais “cru” (Morgon, Fleurie, Juliénas): fruit, fraîcheur, tanins doux.\n- Cabernet Franc de Loire (Chinon, Saumur-Champigny): frais, herbacé léger, parfait avec tomate.\n- Rioja Crianza peu boisé ou un Tempranillo joven.\n- Languedoc/GSM frais ou Crozes-Hermitage léger.\n\nSi vous préférez blanc ou rosé\n- Blancs: Verdicchio dei Castelli di Jesi, Soave Classico, Vermentino (bonne acidité, peu de bois).\n- Rosés: Cerasuolo d’Abruzzo, Tavel (un peu de structure pour la viande).\n- Option audacieuse: vin blanc de macération (orange) sec et vif.\n\nAstuces selon la recette\n- Sauce très riche/fromage généreux: Sangiovese (Chianti) ou Montepulciano.\n- Légèrement piquante: Barbera ou rosé structuré.\n- Avec champignons: Langhe Nebbiolo jeune (pas trop tannique).\n\nService\n- Température: 14–16 °C pour les rouges.\n- Évite le boisé prononcé et les 15 % vol.\n- Un carafage rapide (20–30 min) adoucit les jeunes rouges.\n\nExemples budget\n- 8–12 €: Barbera d’Asti, Lambrusco secco.\n- 10–18 €: Chianti Classico, Montepulciano d’Abruzzo, Beaujolais cru.\n- 12–20 €: Chinon/Saumur-Champigny, Rioja Crianza léger.\n\nSi vous me dites ce que vous avez sous la main (marque/année) ou vos goûts (plus fruité, plus sec, peu tannique), je vous propose un choix précis.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne tire pas ça d’une base unique. Mes réponses s’appuient sur:\n- un mélange de données publiques, de contenus licenciés et d’exemples fournis par des formateurs humains utilisés pendant ma formation (jusqu’en 2024),\n- et surtout sur des principes de sommellerie largement admis (plutôt que des “données” brutes), par exemple: acidité qui coupe le gras et le sel, tanins qui s’adoucissent avec protéines, sucre qui calme le piquant, équilibre d’intensité plat/vin, et accords régionaux classiques.\n\nJe n’ai pas d’accès en temps réel à des bases ou au web. Si tu veux des références à consulter par toi-même, des ouvrages connus incluent par exemple The Oxford Companion to Wine (J. Robinson), What to Drink with What You Eat (Dornenburg & Page), Wine Folly, ou les manuels WSET. Je peux aussi te donner des sources pour un accord précis si tu me dis lequel."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "Wine Folly (guides et articles sur les accords)",
+            "The Oxford Companion to Wine (Jancis Robinson) – entrée “Food and Wine Matching”",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "Perfect Pairings (Evan Goldstein, MS)",
+            "Ressources WSET sur la structure des vins",
+            "Ressources Court of Master Sommeliers sur la structure des vins",
+            "Larousse du Vin",
+            "La Revue du Vin de France (dossiers)",
+            "Guide Hachette (rubriques accords)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise, visez des rouges à bonne acidité et tannins modérés (pour l’acidité de la tomate et la richesse de la viande), peu ou pas boisés.\n\nClassiques italiens (meilleurs accords)\n- Chianti / Chianti Classico (Sangiovese): vif, cerise, herbes.\n- Barbera d’Asti ou d’Alba: très bonne acidité, peu tannique.\n- Montepulciano d’Abruzzo: plus charnu, reste souple.\n- Valpolicella Classico/Superiore: fruit rouge, fraîcheur.\n- Lambrusco secco (sec, pétillant rouge, Émilie-Romagne): top avec ragù et parmesan, servir frais.\n\nAlternatives accessibles\n- Côtes-du-Rhône ou Ventoux (Grenache-Syrah): fruité, épices douces.\n- Beaujolais (Morgon, Brouilly, Fleurie): juteux, peu tannique.\n- Rioja Crianza ou Tempranillo joven: fruité, boisé discret.\n\nAjuster selon la sauce\n- Très tomatée/acidulée: Barbera, Chianti.\n- Ragù riche, longuement mijoté: Chianti Riserva, Montepulciano, Langhe Nebbiolo jeune.\n- Épicée/pimentée: vins souples et fruités (Grenache, Primitivo/Zinfandel léger).\n\nEt si vous voulez sortir du rouge\n- Soave Classico ou Verdicchio (blancs structurés) ou un rosé gastronomique (Tavel, Côtes de Provence) si la sauce est moins tomatée ou plus crémeuse.\n\nService\n- 15–17 °C pour les rouges; carafe 20–30 min si jeune.\n- Lambrusco secco à ~12 °C.\n- Évitez les rouges très boisés ou très alcooleux.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Mes réponses sur les accords mets-vins ne viennent pas d’une seule base de données. Elles s’appuient sur:\n- Mon entraînement général (mélange de données publiques, contenus sous licence et données rédigées par des formateurs humains) jusqu’en 2024.\n- Des principes de sommellerie largement admis: équilibrer intensité et structure, acide avec gras, tanin avec protéines, sucre résiduel pour adoucir le piment/salé, sauces et cuisson plus déterminantes que l’ingrédient principal, “ce qui pousse ensemble va ensemble”, etc.\n- Des références courantes que vous pouvez consulter pour vérifier/approfondir:\n  - Wine Folly (guides et articles sur les accords)\n  - The Oxford Companion to Wine (Jancis Robinson) – entrée “Food and Wine Matching”\n  - What to Drink with What You Eat (Dornenburg & Page)\n  - Perfect Pairings (Evan Goldstein, MS)\n  - Ressources WSET et Court of Master Sommeliers sur la structure des vins\n  - Larousse du Vin; dossiers de La Revue du Vin de France; Guide Hachette (rubriques accords)\n\nSi vous voulez la source ou la logique derrière un accord précis que j’ai proposé, dites-moi lequel et je vous donne une référence ou l’explication détaillée."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "The Taste of Wine (Émile Peynaud)",
+            "Supports pédagogiques WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers / GuildSomm (articles et guides)",
+            "Wine Folly (guides pratiques et cartes d’arômes)",
+            "On Food and Cooking (Harold McGee)",
+            "Publications/ressources d’œnologie de UC Davis",
+            "Publications/ressources d’œnologie de l’American Society for Enology and Viticulture"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise, visez un rouge avec une bonne acidité, des tanins modérés et peu de bois. L’acidité de la tomate et le côté umami/viande aiment les vins frais et sapides.\n\nClassiques italiens (meilleur accord)\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Sangiovese di Romagna\n- Barbera d’Asti ou d’Alba\n- Valpolicella Classico/Superiore (évitez les styles trop sucrés/appassimento)\n- Montepulciano d’Abruzzo (style frais)\n- Lambrusco secco (Grasparossa, Salamino): pétillant rouge sec, parfait avec ragù et parmesan\n- Dolcetto d’Alba\n\nAlternatives non italiennes\n- Beaujolais (crus comme Morgon, Fleurie, Brouilly) ou Beaujolais-Villages\n- Côtes-du-Rhône jeune (Grenache/Syrah)\n- Rioja Joven/Crianza (chêne discret)\n- Loire en Cabernet Franc (Chinon, Saumur-Champigny)\n- Pinot Noir léger et peu boisé (Bourgogne/Alsace/ Allemagne)\n\nSi vous préférez blanc/rosé\n- Blancs italiens vifs: Verdicchio, Soave Classico, Gavi\n- Rosé structuré: Cerasuolo d’Abruzzo, rosé de Provence\n\nPetits ajustements\n- Sauce très tomatée/acide: Barbera, Sangiovese\n- Sauce plus riche/avec lait: Valpolicella Superiore, Chianti souple\n- Beaucoup de parmesan: Lambrusco secco ou Barbera\n\nService\n- 14–16 °C pour rouges légers, 16–18 °C pour plus corsés\n- Carafe 20–30 min pour les rouges jeunes un peu fermes\n\nEn bref: Chianti Classico ou Barbera sont des valeurs sûres; Lambrusco secco si vous voulez un accord régional gourmand.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Mes réponses sur les accords mets-vins viennent d’un mélange de:\n- Données publiques, contenus sous licence et exemples rédigés par des spécialistes utilisés pour m’entraîner\n- Règles de l’art en sommellerie et notions de sciences sensorielles largement diffusées (je n’ai pas un “corpus” unique ni un historique de sources exactes pour chaque phrase)\n\nConcrètement, je m’appuie sur des principes éprouvés:\n- Équilibre intensité plat/vin\n- Acidité du vin pour “couper” le gras et la friture\n- Tannins qui s’adoucissent avec protéines/gras; amertume accentuée par amertume/umami\n- Sucre du vin pour dompter le piquant et les plats sucrés-salés\n- Accord régional “ce qui pousse ensemble s’accorde”\n- Méthode de cuisson et sauce plus déterminantes que l’ingrédient principal\n\nSi tu veux des ressources fiables à consulter directement, voici des références reconnues:\n- The Oxford Companion to Wine (Jancis Robinson)\n- The Taste of Wine (Émile Peynaud)\n- Supports pédagogiques WSET (Wine & Spirit Education Trust)\n- Court of Master Sommeliers / GuildSomm (articles et guides)\n- Wine Folly (guides pratiques et cartes d’arômes)\n- On Food and Cooking (Harold McGee) pour la science des saveurs\n- Publications/ressources d’œnologie de UC Davis et de l’American Society for Enology and Viticulture\n\nSi tu me donnes un accord précis qui t’intéresse, je peux te fournir une courte bibliographie ciblée ou expliquer le mécanisme sensoriel derrière la recommandation."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "Wine Folly (Puckette & Hammack)",
+            "The Wine Bible (Karen MacNeil)",
+            "What to Drink with What You Eat (Page & Dornenburg)",
+            "Taste Buds and Molecules / Papilles et molécules (François Chartier)",
+            "WSET study guides",
+            "Court of Master Sommeliers",
+            "Larousse des vins",
+            "Guide Hachette",
+            "La Revue du vin de France",
+            "L’Académie du Vin"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise (ragù tomate–viande), visez des rouges à bonne acidité et tanins modérés pour équilibrer la tomate et le gras.\n\nClassiques italiens (meilleurs accords)\n- Chianti / Chianti Classico (Sangiovese): acidité vive, tanins fins, parfait avec la tomate.\n- Barbera d’Asti ou d’Alba: très fraîche, peu tannique, super polyvalente.\n- Montepulciano d’Abruzzo: fruité, généreux, rapport qualité/prix.\n- Morellino di Scansano: Sangiovese toscan souple et solaire.\n- Lambrusco secco (sec): pétillant rouge traditionnel d’Émilie-Romagne, coupe le gras et marche très bien.\n\nAutres options\n- Langhe Nebbiolo: élégant; prenez un style souple ou un millésime un peu évolué.\n- Côtes-du-Rhône (Grenache/Syrah): fruité épicé, bonne rondeur.\n- Rioja Crianza (Tempranillo): boisé discret, acidité correcte.\n- Beaujolais crus (Morgon, Juliénas): fruit croquant, tanins mesurés.\n\nÉvitez les rouges très boisés, très alcooleux ou très tanniques (Cabernet jeune, Barolo/Brunello austères) qui heurtent l’acidité de la tomate.\n\nEnvie de blanc/rosé\n- Blancs structurés et frais: Verdicchio, Soave Classico, Fiano.\n- Rosé sec avec du corps: Tavel, Côtes de Provence plus gastronomique.\n\nService\n- Température: 16–18 °C. Jeunes rouges un peu tanniques: carafe 30 minutes.\n- Avec du Parmigiano, les tanins paraissent plus doux.\n\nSi vous me donnez votre budget ou ce que vous avez sous la main, je vous propose une bouteille précise.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je ne tire pas ces accords d’une base unique. Mes réponses sont générées à partir d’un modèle entraîné sur un mélange de données licenciées, de contenus rédigés par des formateurs humains et de textes accessibles publiquement. Je n’ai pas la liste exhaustive des sources ni d’accès direct à des bases en temps réel.\n\nConcrètement, j’applique des principes largement reconnus en sommellerie (équilibre d’intensité, acidité qui “coupe” le gras, tanins + protéines, sucre pour épicer/umami, accords régionaux), tels qu’on les retrouve dans des références comme:\n- Wine Folly (Puckette & Hammack)\n- The Wine Bible (Karen MacNeil)\n- What to Drink with What You Eat (Page & Dornenburg)\n- Taste Buds and Molecules / Papilles et molécules (François Chartier)\n- WSET study guides, Court of Master Sommeliers\n- Sources francophones: Larousse des vins, Guide Hachette, La Revue du vin de France, L’Académie du Vin.\n\nSi vous voulez la justification ou une référence pour un accord précis, dites-moi le plat et le vin envisagé, et je vous explique le raisonnement et où trouver des infos similaires dans ces ouvrages."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat (Karen Page, Andrew Dornenburg)",
+            "Wine Folly: Magnum Edition (Madeline Puckette, Justin Hammack)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Decanter, JancisRobinson.com (articles et guides)",
+            "Ressources pédagogiques de sommellerie (WSET, Court of Master Sommeliers, GuildSomm)",
+            "On Food and Cooking (Harold McGee)",
+            "The Flavor Bible (Page, Dornenburg)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Classique: un rouge à bonne acidité, tanins modérés, pour matcher la tomate et la viande.\n\nExcellents accords (Italie)\n- Chianti Classico ou Rosso di Montalcino (Sangiovese): acidité vive, notes de cerise, parfait sur la tomate.\n- Barbera d’Asti/Alba: très frais, peu tannique, très polyvalent.\n- Montepulciano d’Abruzzo: fruité, un peu plus de matière pour une bolognaise riche.\n- Dolcetto d’Alba: souple, fruit noir, gourmand.\n- Lambrusco secco (sec, pétillant rouge): local et top pour « dégraisser » la sauce.\n- Nero d’Avola (pas trop boisé): soleil, épices douces.\n\nAlternatives françaises\n- Côtes-du-Rhône/Ventoux: grenache-syrah, fruits rouges et épices, tanins souples.\n- Beaujolais (Morgon, Fleurie, Juliénas): juteux, frais, très à l’aise avec la tomate.\n- Loire (Chinon, Saumur-Champigny): cabernet franc, fraîcheur et légère note herbacée qui va bien.\n- Languedoc (Pic Saint-Loup, Terrasses du Larzac) peu boisé.\n\nRosé ou blanc (si vous préférez)\n- Rosé structuré: Tavel ou Cerasuolo d’Abruzzo.\n- Blanc à belle acidité: Verdicchio, Soave Classico. Moins classique mais possible.\n\nÀ éviter\n- Vins très tanniques/boisés (Cabernet boisé, Barolo jeune) ou trop alcooleux/jammés: la tomate les durcit.\n\nService\n- Servez le rouge légèrement frais (15–16 °C). Carafez 20–30 min si le vin est jeune. Parmigiano = umami: l’acidité du vin est votre alliée.\n\nVous avez une préférence (Italie/France), un budget ou une sauce plutôt riche/épicée ? Je vous propose des bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base unique ni des notes personnelles. Mes réponses sont générées à partir d’un entraînement sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs, puis je m’appuie sur des principes de sommellerie largement admis.\n\nPour les accords mets-vins, j’utilise notamment:\n- Principes sensoriels reconnus: équilibre poids/intensité du plat et du vin, rôle de la sauce, acidité qui “coupe” le gras, tanins qui s’adoucissent avec les protéines, sucre pour l’âpreté/les épices, effets du sel et de l’umami.\n- Traditions régionales: “ce qui pousse ensemble va ensemble” (ex. cuisine locale avec vins locaux).\n\nRéférences courantes et alignées avec ces principes:\n- What to Drink with What You Eat (Karen Page, Andrew Dornenburg)\n- Wine Folly: Magnum Edition (Madeline Puckette, Justin Hammack)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Decanter, JancisRobinson.com (articles et guides)\n- Ressources pédagogiques de sommellerie (WSET, Court of Master Sommeliers, GuildSomm)\n- On Food and Cooking (Harold McGee) pour la base scientifique (acidité, tanins, umami)\n- The Flavor Bible (Page, Dornenburg) pour les affinités d’ingrédients\n\nJe n’ai pas de traçabilité au niveau phrase-par-phrase vers une source unique, mais si vous voulez vérifier un accord précis, dites-moi lequel et je vous indique des références ou l’explication sensorielle/scientifique correspondante."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Wine Bible (Karen MacNeil)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Matériaux pédagogiques WSET / Court of Master Sommeliers et guides de dégustation de domaines/régions"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour une bolognaise, vise des rouges à bonne acidité et tanins modérés pour équilibrer la tomate et la viande. Évite les vins très boisés ou très tanniques.\n\nAccords italiens (les plus classiques)\n- Chianti Classico (Sangiovese): cerise, herbes, acidité vive.\n- Barbera d’Alba/Asti: très polyvalent, tanins souples.\n- Sangiovese di Romagna ou Morellino di Scansano: style sanguin/fruité, un peu plus solaire.\n- Montepulciano d’Abruzzo: fruit mûr, structure modérée, bon rapport Q/P.\n- Valpolicella Classico/Superiore: juteux et frais; Ripasso si la sauce est très riche.\n- Lambrusco secco (Grasparossa ou Sorbara): bulles sèches locales, superbe avec le ragù.\n\nHors Italie (bonnes alternatives)\n- Côtes‑du‑Rhône (Grenache/Syrah) ou Languedoc (Grenache–Carignan).\n- Rioja Crianza ou Ribera del Duero joven (Tempranillo).\n- Beaujolais crus (Morgon, Moulin‑à‑Vent, Fleurie) légèrement rafraîchis.\n\nSi tu veux blanc/rosé\n- Blancs secs avec acidité: Soave Classico, Verdicchio, Fiano (éviter le boisé marqué).\n- Rosés secs: Cerasuolo d’Abruzzo, Tavel.\n\nService: 16–18 °C, ouvre 30 min avant. Évite les jeunes Cab très tanniques, Barolo/Barbaresco costauds, et les rouges sucrés. Tu préfères plutôt italien ou ouvert, et quel budget?\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne “pioche” pas dans une base de données unique. Mes réponses s’appuient sur:\n- Un entraînement sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains.\n- Des principes classiques d’accords enseignés et largement diffusés (équilibre intensité/structure, acidité vs gras, tanins vs protéines, sucrosité vs piquant, accords régionaux, “ponts” aromatiques).\n- Des connaissances culinaires et œnologiques de référence, couramment reprises dans la littérature professionnelle.\n\nSi vous souhaitez des sources à consulter vous‑même, voici des références reconnues:\n- What to Drink with What You Eat (Dornenburg & Page)\n- The Wine Bible (Karen MacNeil)\n- The Oxford Companion to Wine (Jancis Robinson)\n- Matériaux pédagogiques WSET/Court of Master Sommeliers et guides de dégustation de domaines/régions\n\nJe n’ai pas d’accès direct à des bases propriétaires ni à internet en temps réel; je synthétise des principes largement établis. Si vous me donnez un plat précis, je peux expliquer l’accord proposé et citer des références utiles."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "Karen MacNeil – The Wine Bible",
+            "Jancis Robinson et al. – The Oxford Companion to Wine",
+            "Wine Folly (site et guides)",
+            "Harold McGee – On Food and Cooking",
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise (tomate + viande + un peu de gras), privilégiez des rouges à bonne acidité et tannins modérés. Les italiens sont parfaits.\n\nMeilleurs accords (classiques)\n- Chianti Classico (Sangiovese): cerise, fraîcheur, idéal avec la tomate.\n- Rosso di Montalcino: un peu plus de corps, très équilibré.\n- Barbera d’Asti/Alba: acidité élevée, tannins souples, super polyvalent.\n- Montepulciano d’Abruzzo: fruit mûr, texture tendre.\n- Valpolicella Ripasso: plus gourmand, top si la sauce est riche.\n\nSi la sauce est très longue cuisson/plus riche\n- Langhe Nebbiolo (plus accessible que Barolo), Aglianico, Primitivo/Zinfandel modéré en alcool.\n\nSi la sauce est plus douce/“blanche” (avec lait/peu de tomate) ou avec champignons\n- Dolcetto d’Alba, Lambrusco secco (sec et pétillant, excellent avec le gras), Cerasuolo d’Abruzzo (rosé soutenu).\n\nAlternatives non italiennes\n- Côtes-du-Rhône (Grenache/Syrah), Rioja Crianza (Tempranillo), Beaujolais cru (Morgon, Fleurie) pour la fraîcheur.\n\nBlancs possibles (si vous préférez blanc)\n- Verdicchio, Soave Classico, Fiano ou Greco di Tufo; éviter le boisé marqué.\n\nConseils\n- Évitez les rouges très tanniques/boisés (Cabernet très chêne, 15% alc.) qui heurtent l’acidité de la tomate.\n- Servez les rouges à 16–18°C; ouvrir/épauler 30 min pour les jeunes Sangiovese.\n- Un peu de Parmigiano-Reggiano sur les pâtes adoucit les tannins et améliore l’accord.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base de données d’accords en temps réel. Mes propositions s’appuient sur:\n- des principes gustatifs largement reconnus (équilibre d’intensité, acidité vs gras, tanins vs protéines, sucre vs piment, sensibilité à l’umami, accords régionaux, rôle de la sauce et de la cuisson) ;\n- mon entraînement sur un mélange de données publiques, de contenus sous licence et de textes rédigés par des formateurs humains. Je n’ai pas accès à la liste exacte des documents individuels utilisés.\n\nSi vous souhaitez des références qui exposent ces mêmes principes, voici des ressources couramment citées dans le milieu:\n- Karen MacNeil – The Wine Bible\n- Jancis Robinson et al. – The Oxford Companion to Wine\n- Wine Folly (site et guides)\n- Harold McGee – On Food and Cooking (interactions saveurs/textures)\n- Principes enseignés par des certifications comme WSET ou la Court of Master Sommeliers\n\nSi vous me donnez un plat précis, je peux détailler le raisonnement d’accord pas à pas et, si besoin, vous pointer vers des articles/chapitres pertinents."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": true,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": true,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Systematic Approach to Tasting) – chapitres “Food and Wine Pairing”",
+            "Court of Master Sommeliers – lignes directrices sur les interactions mets/vins",
+            "What to Drink with What You Eat (Karen Page & Andrew Dornenburg)",
+            "Wine Folly: Magnum Edition (Madeline Puckette & Justin Hammack)",
+            "The Oxford Companion to Wine (Jancis Robinson) – entrées sur “food and wine pairing”",
+            "Larousse du vin",
+            "Guides Bettane+Desseauve",
+            "La Revue du vin de France (articles)",
+            "On Food and Cooking (Harold McGee) – chimie des goûts, acidité, capsaïcine, etc."
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Classique et sûr: choisis un rouge italien avec bonne acidité et tannins modérés pour matcher la tomate et la viande.\n\nTop accords rouges\n- Sangiovese (Chianti Classico, Rosso di Montalcino, Morellino di Scansano): cerise, herbes, belle fraîcheur. Parfait avec la sauce tomate. 10–25€.\n- Barbera d’Asti/Alba: très juteux, peu tannique, acidité élevée; super avec la tomate. 9–20€.\n- Montepulciano d’Abruzzo: plus charnu et gourmand, bien si la sauce est riche. 8–18€.\n- Langhe Nebbiolo: plus structuré; idéal si la sauce est très viandeuse ou servie avec parmesan. 15–25€.\n- Lambrusco secco (sec, pas demi-sec): pétillant rouge sec qui “nettoie” le gras, délicieux et fun. 8–15€.\n\nBonnes alternatives\n- France/espagne: Côtes-du-Rhône (GSM), Rioja Crianza (Tempranillo), Beaujolais «cru» (Morgon, Fleurie) pour plus de fruit et fraîcheur.\n- Si blanc: Verdicchio, Soave Classico, Fiano di Avellino, Vermentino ou Chardonnay peu boisé.\n- En rosé: Cerasuolo d’Abruzzo ou Tavel.\n\nService\n- Rouges: 16–18 °C (légèrement rafraîchis).\n- Blancs/rosés/Lambrusco: 10–12 °C.\n\nExemples faciles à trouver\n- Chianti Classico: Fèlsina “Berardenga”, Isole e Olena.\n- Barbera: Vietti “Tre Vigne”, Giacomo Borgogno.\n- Montepulciano d’Abruzzo: Masciarelli “Classico”.\n- Lambrusco secco: Cleto Chiarli “Vecchia Modena”.\n\nDis‑moi ton budget et si ta sauce est plutôt classique, relevée, ou très viandeuse: je te donne 2–3 bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Mes suggestions d’accords ne viennent pas d’une base unique: elles s’appuient sur des principes largement admis en œnologie et en cuisine, appris à partir d’un mélange de données publiques, de contenus sous licence et de données créées par des formateurs humains. Je n’ai pas accès à mes données d’entraînement exactes ni à des sources en temps réel.\n\nEn pratique, je m’appuie sur des règles éprouvées (mettre en balance l’intensité du plat et du vin, l’acidité qui tranche le gras/salé, tanins et protéines, sucre qui adoucit le piment, “ce qui pousse ensemble va ensemble”, rôle clé de la sauce et du mode de cuisson). On retrouve ces principes dans des références reconnues, par exemple:\n- WSET (Systematic Approach to Tasting) – chapitres “Food and Wine Pairing”\n- Court of Master Sommeliers – lignes directrices sur les interactions mets/vins\n- What to Drink with What You Eat (Karen Page & Andrew Dornenburg)\n- Wine Folly: Magnum Edition (Madeline Puckette & Justin Hammack)\n- The Oxford Companion to Wine (Jancis Robinson) – entrées sur “food and wine pairing”\n- Larousse du vin / guides Bettane+Desseauve; articles de La Revue du vin de France\n- On Food and Cooking (Harold McGee) – chimie des goûts, acidité, capsaïcine, etc.\n\nSi tu veux des sources pour un accord précis (par exemple sushi, cassoulet, curry, fromage), dis-moi le plat et je te donne la logique détaillée et des références à consulter."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "WSET (principes d’accords et Systematic Approach to Tasting)",
+            "Court of Master Sommeliers (matériels d’introduction)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "GuildSomm (articles pédagogiques)",
+            "François Chartier: Taste Buds and Molecules",
+            "Evan Goldstein: Perfect Pairings"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour une bolognaise (ragù tomaté et viande), privilégiez des rouges italiens avec bonne acidité et tanins modérés.\n\nChoix sûrs (Italie):\n- Chianti Classico (Sangiovese) ou Sangiovese di Romagna: cerise, fraîcheur, parfait sur la tomate.\n- Barbera d’Asti/Alba: très bonne acidité, tanins souples.\n- Montepulciano d’Abruzzo: un peu plus rond et charnu.\n- Lambrusco secco (ex. Grasparossa di Castelvetro): rouge pétillant sec, frais et local, top avec le gras du ragù.\n- Rosso di Montalcino ou Morellino di Scansano: Sangiovese fruité, équilibré.\n\nAlternatives hors Italie:\n- Côtes-du-Rhône (Grenache/Syrah) peu boisé.\n- Rioja Crianza (Tempranillo) avec bois discret.\n- Beaujolais “cru” (Morgon, Fleurie) si vous préférez plus léger.\n\nSi vous voulez un blanc/rosé:\n- Blancs structurés et secs: Verdicchio, Soave Classico, Fiano di Avellino.\n- Rosés gastronomiques: Cerasuolo d’Abruzzo, Tavel.\n\nConseils service:\n- 16–18 °C pour les rouges; 10–12 °C pour un Lambrusco.\n- Évitez les rouges trop boisés ou très alcooleux si la sauce est très tomatée.\n- Plus la sauce est riche et longuement mijotée, plus vous pouvez monter en corps (Montepulciano, Côtes-du-Rhône).\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Mes réponses ne viennent pas d’une base unique. Elles s’appuient sur ce que j’ai appris pendant l’entraînement: un mélange de données sous licence, de contenus créés par des formateurs humains et d’informations publiques. Je n’ai pas d’accès en direct à des sources et je ne peux pas citer un document précis pour chaque règle.\n\nPour les accords mets-vins, je m’appuie sur des principes largement enseignés (intensité, équilibre acidité/gras, sucre/épices, tanins/protéines, effets de l’umami, accords régionaux) et sur des exemples classiques couramment admis dans la sommellerie.\n\nSi tu veux des références à consulter, voici des ressources reconnues:\n- WSET (principes d’accords et Systematic Approach to Tasting)\n- Court of Master Sommeliers (matériels d’introduction)\n- The Oxford Companion to Wine (Jancis Robinson)\n- GuildSomm (articles pédagogiques)\n- François Chartier: Taste Buds and Molecules\n- Evan Goldstein: Perfect Pairings\n\nDis-moi si tu veux des sources pour un accord précis ou des recommandations adaptées à un plat concret."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers",
+            "GuildSomm",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "The World Atlas of Wine (Hugh Johnson & Jancis Robinson)",
+            "Wine Folly (Madeline Puckette & Justin Hammack)",
+            "The Sommelier’s Atlas of Taste (Rajat Parr & Jordan Mackay)",
+            "What to Drink with What You Eat (Andrew Dornenburg & Karen Page)",
+            "Perfect Pairings (Evan Goldstein)",
+            "Taste Buds and Molecules (François Chartier)",
+            "On Food and Cooking (Harold McGee)",
+            "Decanter",
+            "JancisRobinson.com",
+            "Serious Eats",
+            "NYT Cooking"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Un rouge italien avec une bonne acidité et des tanins modérés marche le mieux avec la tomate et le gras du ragù.\n\nTop choix (classiques)\n- Chianti Classico (Sangiovese) – frais, cerise, un peu herbacé; super avec la tomate.\n- Barbera d’Asti/Alba – très acidulé, peu tannique, parfait si la sauce est bien tomate.\n- Montepulciano d’Abruzzo – plus rond et gourmand, tient la viande.\n- Sangiovese di Romagna – local par rapport au ragù, profil vif et précis.\n- Valpolicella Classico ou Ripasso – fruit rouge, herbes; le Ripasso si la sauce est très riche.\n\nOptions originales\n- Lambrusco secco (Sorbara ou Grasparossa) bien frais – bulles sèches qui nettoient le palais, accord régional canon.\n- Langhe Nebbiolo/Dolcetto – léger à moyen, tanins fins, bonne acidité.\n- Tempranillo Rioja Crianza ou Côtes-du-Rhône (Grenache/Syrah) – styles souples, peu de boisé.\n\nSi vous préférez blanc/rosé\n- Blancs vifs et texturés: Verdicchio, Soave Classico, Gavi, Vermentino.\n- Rosés structurés: Cerasuolo d’Abruzzo, Tavel, ou un rosé de Provence avec un peu de matière.\n\nConseils rapides\n- Évitez le boisé marqué (vanille, toast) qui heurte la tomate.\n- Servez à 16–18 °C (14–16 °C pour Lambrusco/rosé).\n- Plus il y a de parmesan et de gras, plus un vin légèrement plus tannique (Ripasso, Montepulciano) fonctionne.\n- Sauce très tomatée/acidulée: privilégiez Barbera ou Chianti.\n\nVous avez une préférence de budget ou un style (léger vs plus corsé) pour affiner?\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je ne puise pas ces infos dans une base en temps réel. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et de données générées par des formateurs humains. Les principes d’accords mets-vins que j’utilise proviennent de sources et d’enseignements largement diffusés dans le monde du vin et de la cuisine, par exemple:\n\n- Programmes et guides pédagogiques: WSET (niveaux 2/3/4), Court of Master Sommeliers, GuildSomm.\n- Ouvrages de référence vin: The Oxford Companion to Wine (Jancis Robinson), The World Atlas of Wine (Johnson & Robinson), Wine Folly (Puckette & Hammack), The Sommelier’s Atlas of Taste (Parr & Mackay).\n- Ouvrages accords et science du goût: What to Drink with What You Eat (Dornenburg & Page), Perfect Pairings (Evan Goldstein), Taste Buds and Molecules (François Chartier), On Food and Cooking (Harold McGee).\n- Sources éditoriales reconnues: Decanter, JancisRobinson.com, GuildSomm, Serious Eats, NYT Cooking, etc.\n\nJe ne peux pas attribuer chaque règle à une seule source précise, mais ces recommandations (équilibrer l’intensité, acide avec acide, tannins avec gras/protéines, douceur pour atténuer le piment, tenir compte de la sauce, etc.) sont cohérentes à travers ces références. Si vous voulez, je peux vous donner des références plus ciblées pour un type d’accord précis."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "What to Drink with What You Eat (Andrew Dornenburg & Karen Page)",
+            "The Wine Bible (Karen MacNeil)",
+            "Taste Buds and Molecules / Papilles et molécules (François Chartier)",
+            "Wine Folly (Madeline Puckette)",
+            "Decanter (articles)",
+            "Guides pédagogiques du WSET (Wine & Spirit Education Trust)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Classiques qui marchent à coup sûr\n- Sangiovese di Romagna ou Chianti Classico (Italie): acidité vive pour le tomate, tannins modérés.\n- Barbera d’Alba/Asti: très bonne acidité, fruit rouge, super avec le parmesan.\n- Montepulciano d’Abruzzo: plus rond et fruité, reste assez frais.\n- Valpolicella Classico/Superiore: cerise, fraîcheur, peu de bois.\n- Lambrusco secco (sec): bulles et fraîcheur pour une sauce riche.\n\nAlternatives hors Italie\n- Côtes-du-Rhône (Grenache/Syrah jeunes), Rioja Crianza, Beaujolais cru ou Bourgogne/Pinot Noir léger.\n\nBlancs/rosés si souhaités\n- Blancs texturés et frais: Verdicchio, Soave Classico, Vermentino.\n- Rosés gastronomiques: Cerasuolo d’Abruzzo, Tavel.\n\nConseils\n- Éviter les rouges très boisés, très tanniques ou très alcooleux (ils durcissent avec l’acidité du tomate).\n- Servir légèrement rafraîchi (15–17 °C); carafe 30 min pour les rouges jeunes.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base de données unique d’accords mets-vins. Mes réponses s’appuient sur:\n- un entraînement sur un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains\n- des principes d’œnologie et de sommellerie largement diffusés (équilibre intensité/texture, rôle de la sauce, acidité avec acidité, sucrosité face au piment, tanins + protéines/gras, effet de l’umami, accords régionaux, etc.)\n\nSi vous souhaitez des références à consulter, vous trouverez des principes similaires dans:\n- The Oxford Companion to Wine (Jancis Robinson)\n- What to Drink with What You Eat (Andrew Dornenburg & Karen Page)\n- The Wine Bible (Karen MacNeil)\n- Taste Buds and Molecules / Papilles et molécules (François Chartier)\n- Wine Folly (Madeline Puckette) et des articles de Decanter\n- Guides pédagogiques du WSET (Wine & Spirit Education Trust)\n\nSi vous me donnez un accord précis que j’ai proposé, je peux vous indiquer des sources ou expliquer le raisonnement pas à pas."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (niveaux 2–3)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "Wine Folly",
+            "CIVB (Bordeaux)",
+            "BIVB (Bourgogne)",
+            "InterRhône",
+            "Comité Champagne",
+            "CIVA (Alsace)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Classique et sûr: un rouge italien vif, avec de l’acidité pour le tomate et des tanins modérés pour la viande.\n\nTop accords\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Morellino di Scansano (fruits rouges, acidité, peu de bois).\n- Barbera d’Asti/Alba: très juteux, acidité élevée, tanins souples.\n- Montepulciano d’Abruzzo: plus rond, fruits noirs, reste digeste.\n- Lambrusco secco (Grasparossa di Castelvetro): pétillant sec local, super avec le gras du ragù.\n\nBelles alternatives (France)\n- Côtes-du-Rhône ou Languedoc (Grenache/Syrah) peu boisés.\n- Cabernet Franc de Loire (Chinon, Saumur-Champigny) pour le côté frais.\n- Beaujolais “cru” (Morgon, Brouilly) si tu veux plus léger mais structuré.\n\nSi tu veux un blanc\n- Verdicchio, Soave Classico, Fiano di Avellino: blancs italiens secs, assez nerveux pour la tomate. Servir bien frais.\n\nConseils pratiques\n- Cherche des vins frais, peu boisés, 13–14% max. Évite les rouges très alcooleux/vanillés (Primitivo/Amerone style).\n- Température de service: 15–17°C pour les rouges, 8–10°C pour les blancs, 10–12°C pour le Lambrusco.\n- Millésimes: 2019–2022 pour Chianti; 2020–2023 pour Barbera/Montepulciano.\n\nDis-moi si ta sauce est très tomate, plus crémeuse, ou épicée, et ton budget: je te propose 2–3 bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je ne tire pas ces accords d’une base unique. J’ai été entraîné sur un mélange de données publiques, de contenus sous licence et d’exemples fournis par des experts/humains, ce qui inclut des principes classiques de sommellerie (équilibre poids du plat/vin, acidité, sucrosité, tanins, umami, accords régionaux, etc.). Je ne consulte pas le web en direct et je n’ai pas de souvenir exact de chaque source.\n\nSi vous souhaitez des références concrètes et reconnues pour approfondir:\n- WSET (niveaux 2–3) et Court of Master Sommeliers (principes d’accords)\n- Oxford Companion to Wine (Jancis Robinson)\n- What to Drink with What You Eat (Dornenburg & Page)\n- Wine Folly (guides pratiques)\n- Ressources des interprofessions: CIVB (Bordeaux), BIVB (Bourgogne), InterRhône, Comité Champagne, CIVA (Alsace)\n\nDites-moi un accord précis qui vous intéresse et je peux détailler la logique et, si utile, pointer vers des lectures adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "Le Goût du Vin (Émile Peynaud)",
+            "The Wine Bible (Karen MacNeil)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Wine Folly (Madeline Puckette)",
+            "Papilles et molécules (François Chartier)",
+            "Articles de GuildSomm",
+            "Travaux de science sensorielle (par ex. Charles Spence)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes “à la bolognaise” (sauce tomate + viande), privilégiez des rouges frais, à bonne acidité et tanins modérés, qui répondent à l’acidité de la tomate sans dominer le plat.\n\nClassiques italiens\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Sangiovese di Romagna\n- Barbera d’Asti ou d’Alba: fruité, acidité vive, peu de tanins\n- Montepulciano d’Abruzzo: un peu plus charnu, tanins souples\n- Valpolicella Classico (ou Ripasso si sauce très riche)\n- Lambrusco secco (Grasparossa di Castelvetro): légèrement pétillant, parfait pour couper le gras\n- Alternatif local: Morellino di Scansano\n\nBons équivalents français/espagnols\n- Côtes-du-Rhône (pas trop boisé), Languedoc frais (Faugères, Pic St‑Loup)\n- Beaujolais “cru” (Morgon, Fleurie, Juliénas): fruité, digeste\n- Loire cabernet franc (Chinon, Saumur‑Champigny) si vous aimez une touche végétale\n- Rioja Crianza (évitez les styles trop boisés/réserva)\n\nSi vous tenez à un blanc/rosé\n- Blancs à bonne acidité et peu de bois: Verdicchio, Soave Classico, Vermentino, Fiano\n- Rosé sec (Provence, rosato toscan) pour une version plus légère\n\nConseils rapides\n- Servez à 16–18 °C, aérez 20–30 min si le vin est jeune.\n- Plus la sauce est riche/fromagée, plus vous pouvez aller vers un vin un peu plus structuré (Valpolicella Ripasso, Montepulciano).\n- Si la sauce est relevée, préférez des rouges peu alcooleux et souples (Barbera, Lambrusco).\n\nRapport qualité/prix (indicatif)\n- 8–12 €: Montepulciano d’Abruzzo, Côtes‑du‑Rhône, Rioja joven\n- 10–15 €: Barbera, Valpolicella, Rioja Crianza\n- 12–20 €: Chianti Classico, Sangiovese di Romagna, Beaujolais cru\n\nEn résumé: un Sangiovese (Chianti) ou une Barbera sont des valeurs sûres, Lambrusco secco si vous voulez quelque chose de très convivial et désaltérant.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne puise pas ces accords dans une base unique en temps réel. Mes réponses s’appuient sur:\n- Un apprentissage sur un mélange de données publiques, de contenus sous licence et d’exemples fournis par des spécialistes, ainsi que sur des principes largement enseignés en sommellerie.\n- Des règles éprouvées d’accords mets-vins (équilibre acidité/gras, tannins/protéines, sucré/salé, intensité, aromatique par complément ou contraste).\n- Des références couramment utilisées par les pros que vous pouvez consulter directement, par exemple: Le Goût du Vin (Émile Peynaud), The Wine Bible (Karen MacNeil), The Oxford Companion to Wine (Jancis Robinson), Wine Folly (Madeline Puckette), Papilles et molécules (François Chartier), des articles de GuildSomm, ainsi que des travaux de science sensorielle (par ex. Charles Spence).\n\nJe n’ai pas d’accès privilégié à des bases propriétaires ni la possibilité de déguster; je m’appuie sur ces principes et sources reconnues. Si vous voulez, dites-moi un accord précis et je peux détailler le raisonnement et indiquer des sources pertinentes pour ce cas."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "WSET (Wine & Spirit Education Trust)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "The Wine Bible (K. MacNeil)",
+            "Wine Folly: Magnum Edition (M. Puckette)",
+            "Decanter",
+            "GuildSomm",
+            "Food & Wine",
+            "What to Drink with What You Eat (A. Dornenburg & K. Page)",
+            "Perfect Pairings (E. Goldstein MS)",
+            "Papilles et Molécules (F. Chartier)",
+            "On Food and Cooking (H. McGee)",
+            "The Science of Wine (J. Goode)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Un rouge italien à bonne acidité et tanins modérés fonctionne le mieux avec la tomate et la viande du ragù.\n\nChoix sûrs (Italie)\n- Sangiovese: Chianti Classico, Rosso di Montalcino\n- Barbera d’Asti ou d’Alba\n- Montepulciano d’Abruzzo\n- Valpolicella Classico (ou Ripasso si la sauce est très riche)\n- Lambrusco secco (sec et pétillant, très gourmand avec les plats d’Émilie-Romagne)\n\nAlternatives hors Italie\n- Rioja Crianza (peu boisé), Tempranillo jeune\n- Cabernet Franc de Loire (Chinon, Saumur-Champigny)\n- Beaujolais crus (Morgon, Moulin-à-Vent, Fleurie)\n- Côtes-du-Rhône (GSM) pas trop extrait\n\nSi vous préférez blanc ou rosé\n- Blancs vifs et structurés: Verdicchio, Soave Classico, Gavi, Fiano; Chardonnay peu boisé\n- Rosés gourmands: Cerasuolo d’Abruzzo, Tavel\n\nConseils\n- Servir à 16–18 °C; carafer 20–30 min les rouges jeunes.\n- Plus la sauce est épicée/piquante, plus il faut réduire les tanins (Barbera, Lambrusco, rosé).\n- Avec beaucoup de parmesan et une cuisson longue, vous pouvez monter en structure (Chianti Riserva, Langhe Nebbiolo).\n\nÀ éviter: rouges très boisés, très alcoolisés ou trop tanniques jeunes (Zinfandel confituré, Aglianico jeune, etc.).\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Mes réponses viennent d’un mélange de sources et de principes largement enseignés, pas d’une base unique. Je m’appuie sur:\n- Des règles de sommellerie et de science culinaire largement diffusées (intensité, acidité/gras, tannins/protéines, sucre/épices, effets de l’umami).\n- Un corpus d’entraînement fait de données publiques, de contenus sous licence et d’apports de formateurs humains (jusqu’à fin 2024), qui recoupe ce qu’on voit dans les cursus WSET/Court of Master Sommeliers et sur des ressources professionnelles.\n\nExemples de références représentatives:\n- The Oxford Companion to Wine (J. Robinson), The Wine Bible (K. MacNeil)\n- Wine Folly: Magnum Edition (M. Puckette), Decanter, GuildSomm, Food & Wine\n- What to Drink with What You Eat (A. Dornenburg & K. Page), Perfect Pairings (E. Goldstein MS)\n- Papilles et Molécules (F. Chartier), On Food and Cooking (H. McGee), The Science of Wine (J. Goode)\n\nSi vous voulez la justification ou une source précise pour un accord particulier, dites-moi le plat et le vin, et je détaille la logique et des références utiles."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "The Wine Bible (Karen MacNeil)",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "Systematic Approach to Tasting (WSET)",
+            "GuildSomm (articles pédagogiques)",
+            "Food & Wine (articles pédagogiques)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour une bolognaise (tomate + viande), vise un rouge avec bonne acidité, tannins modérés et peu de bois. L’acidité équilibre la tomate, les tannins gèrent le gras, le fruit soutient l’ensemble.\n\nValeurs sûres (Italie):\n- Chianti Classico (Sangiovese): cerise/acidité/herbes, accord quasi idéal.\n- Rosso di Montalcino: plus de profondeur, toujours vif.\n- Montepulciano d’Abruzzo: fruité, souple, très polyvalent.\n- Barbera d’Asti/Alba: acidité marquée, peu tannique, super avec la tomate.\n- Lambrusco secco (Grasparossa ou Sorbara): légèrement pétillant, frais, parfait pour « dégraisser ».\n- Nero d’Avola ou Aglianico jeune: si ragù très riche, pour plus de structure.\n\nBonnes alternatives:\n- Côtes-du-Rhône (Grenache-Syrah), villages si possible.\n- Beaujolais crus (Morgon, Régnié): fruit, fraîcheur, tanins fins.\n- Rioja Crianza (Tempranillo) ou Ribera del Duero joven: fruit + touche d’élevage mesurée.\n- Valpolicella Classico/Ripasso: cerise et herbes; Ripasso si tu veux plus de corps.\n\nBlanc/rosé si besoin:\n- Blancs structurés et vifs: Verdicchio, Soave Classico, Fiano, Gavi, Vermentino.\n- Rosés gastronomiques: Cerasuolo d’Abruzzo, Tavel.\n\nConseils service:\n- Température 16–18 °C (Lambrusco plutôt 10–12 °C).\n- Évite le bois neuf marqué et l’alcool trop élevé.\n- Une petite aération (20–30 min) aide; le parmesan adoucit les tanins.\n\nSi tu me dis ton budget et ce que tu trouves facilement, je te propose des bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je m’appuie sur des principes d’accords mets-vins largement reconnus, appris durant mon entraînement sur un mélange de données publiques, de contenus sous licence et de données créées par des formateurs humains. Je n’ai pas accès au détail de mon corpus d’entraînement ni à des bases propriétaires, et je ne navigue pas sur le web en temps réel. Mes réponses synthétisent des règles classiques comme:\n- équilibrer l’intensité du plat et du vin\n- l’acidité qui rafraîchit le gras\n- les tanins qui aiment les protéines et peuvent heurter l’amertume\n- la douceur pour adoucir le piment et les plats sucrés\n- la sauce compte souvent plus que la protéine\n- “ce qui pousse ensemble s’accorde ensemble” (accords régionaux)\n\nPour approfondir, vous pouvez consulter des références reconnues comme The Wine Bible (Karen MacNeil), The Oxford Companion to Wine (Jancis Robinson), le Systematic Approach to Tasting du WSET, ou des articles pédagogiques de GuildSomm et de Food & Wine. Si vous me donnez un accord précis, je peux expliquer le raisonnement ou pointer vers des sources plus ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (niveaux 2/3)",
+            "Court of Master Sommeliers",
+            "Wine Folly: Magnum Edition",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "What to Drink with What You Eat (Karen Page & Andrew Dornenburg)",
+            "Taste Buds and Molecules / Papilles et molécules (François Chartier)",
+            "Le goût du vin (Émile Peynaud)",
+            "Larousse du vin",
+            "INAO (profils d’appellations)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Quelques accords sûrs pour des pâtes à la bolognaise (ragù):\n\n- Sangiovese: Chianti Classico, Rosso di Montalcino, ou Sangiovese di Romagna. Acidité pour la tomate, tanins modérés.\n- Barbera d’Asti/Alba: très bonne acidité, peu de tanins, profil juteux.\n- Montepulciano d’Abruzzo: un peu plus charnu, reste équilibré.\n- Lambrusco secco (Grasparossa/Salamino): bulles sèches et fraîches qui nettoient le gras; accord régional.\n- Autres styles qui marchent: Rioja Crianza (Tempranillo), Côtes-du-Rhône (GSM), Merlot/Bordeaux souple, Nero d’Avola.\n\nÉvitez les rouges très boisés ou très tanniques (Cabernet très extrait, Barolo jeune) qui heurtent l’acidité de la tomate.\n\nService: 16–18 °C (Lambrusco 10–12 °C), éventuelle aération 20–30 min pour les rouges plus structurés.\n\nSi vous me dites votre budget et le style de ragù (plus tomaté, plus crémeux, épicé), je vous propose des bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Je m’appuie sur un mélange de données publiques, de contenus sous licence et de connaissances élaborées par des formateurs humains. Je n’ai pas d’accès direct à des bases de données propriétaires ni à des sources payantes en temps réel. Dans cette conversation, mes suggestions d’accords reposent surtout sur des principes de sommellerie largement enseignés (équilibre intensité plat/vin, rôle de l’acidité, interaction tanins/protéines et sel, sucrosité vs piment, importance de la sauce et des cuissons, accords régionaux).\n\nSi vous cherchez des références à consulter, voici des ouvrages et organismes reconnus:\n- WSET (niveaux 2/3) et Court of Master Sommeliers (principes d’accords)\n- Wine Folly: Magnum Edition\n- The Oxford Companion to Wine (Jancis Robinson)\n- What to Drink with What You Eat (Karen Page & Andrew Dornenburg)\n- Taste Buds and Molecules / Papilles et molécules (François Chartier)\n- Le goût du vin (Émile Peynaud), Larousse du vin, INAO pour les profils d’appellations\n\nDites-moi un accord précis qui vous intéresse et je peux détailler le raisonnement et pointer vers des sources adaptées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (niv. 2–4) — module Food & Wine Pairing",
+            "Court of Master Sommeliers (Intro/Certified)",
+            "GuildSomm (articles pédagogiques)",
+            "What to Drink with What You Eat (Page & Dornenburg)",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "Wine Folly: The Master Guide (Puckette & Hammack)",
+            "The Flavor Bible (Page)",
+            "The Flavor Matrix (Briscione)",
+            "On Food and Cooking (Harold McGee)",
+            "Decanter",
+            "Wine Spectator",
+            "Serious Eats (guides d’accords)",
+            "La Revue du vin de France",
+            "Bettane+Desseauve",
+            "Guide Hachette",
+            "Larousse du vin"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour une bolognaise, visez un rouge à bonne acidité, tanins modérés et peu de bois: il doit soutenir la tomate et la viande sans dominer.\n\nClassiques italiens (meilleurs accords)\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Sangiovese di Romagna\n- Barbera d’Asti ou d’Alba: très juteux, acidité parfaite pour la tomate\n- Montepulciano d’Abruzzo: un peu plus charnu, reste souple\n- Lambrusco secco (sec, pétillant rouge): ultra classique avec les plats d’Émilie-Romagne\n\nBonnes alternatives\n- Côtes-du-Rhône (grenache/syrah) pas trop boisé\n- Beaujolais “cru” (Morgon, Fleurie, Chiroubles) jeunes et fruités\n- Rioja Crianza (léger en bois), Languedoc rouges souples\n\nSi vous préférez rosé ou blanc\n- Rosé structuré: Cerasuolo d’Abruzzo, Tavel\n- Blanc nerveux et ample: Soave Classico, Verdicchio, Fiano (choisissez des versions peu boisées)\n\nAstuces\n- Servir à 15–17°C; carafez 20–30 min les vins jeunes.\n- Plus la sauce est riche/longuement mijotée ou avec beaucoup de parmesan, plus vous pouvez monter en structure (Chianti Classico Riserva, Barbera Superiore).\n- Si la sauce est épicée, choisissez un vin jeune, fruité et pas trop alcooleux.\n\nVous avez un style ou un budget en tête ? Je peux vous proposer des appellations précises et des bouteilles faciles à trouver.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Principalement de trois endroits:\n- De mon entraînement: un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des spécialistes et formateurs, qui couvrent les principes d’accords (intensité, acidité/gras, tanin/protéine, sucre/épicé, accords régionaux).\n- De corpus “classiques” utilisés par les sommeliers et œnophiles (idées largement diffusées et cohérentes entre sources).\n- De retours et corrections humaines pendant l’entraînement.\n\nPour des références concrètes souvent convergentes sur ces principes:\n- Formations et guides: WSET (niv. 2–4) — module Food & Wine Pairing; Court of Master Sommeliers (Intro/Certified); GuildSomm (articles pédagogiques).\n- Ouvrages: What to Drink with What You Eat (Page & Dornenburg); The Oxford Companion to Wine (J. Robinson); Wine Folly: The Master Guide (Puckette & Hammack); The Flavor Bible (Page) et The Flavor Matrix (Briscione) pour les familles d’arômes; On Food and Cooking (Harold McGee) pour les interactions gustatives (acidité, umami, amertume).\n- Publications: Decanter, Wine Spectator, Serious Eats (guides d’accords), La Revue du vin de France, Bettane+Desseauve, Guide Hachette, Larousse du vin.\n\nJe ne navigue pas le web en direct et je ne cite pas une page unique pour chaque accord; j’agrège des règles éprouvées. Si tu veux la source précise d’un accord particulier (ex. “chèvre frais + Sancerre”), dis-moi lequel et je te donne des références ciblées et l’explication sensorielle."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "WSET",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (J. Robinson)",
+            "The Wine Bible (K. MacNeil)",
+            "What to Drink with What You Eat (Dornenburg & Page)",
+            "The Flavor Bible (Page & Dornenburg)",
+            "Taste Buds and Molecules (F. Chartier)",
+            "On Food and Cooking (H. McGee)",
+            "Guide Hachette des Vins",
+            "La Revue du vin de France",
+            "Ouvrages et guides de Philippe Faure-Brac",
+            "Bettane+Desseauve"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise, privilégiez un rouge à bonne acidité et tanins modérés pour matcher la tomate et la viande. Les meilleurs accords:\n\n- Italiens classiques\n  - Sangiovese: Chianti Classico, Rosso di Montalcino, Morellino di Scansano\n  - Barbera d’Alba ou d’Asti\n  - Montepulciano d’Abruzzo\n  - Etna Rosso (Nerello Mascalese)\n  - Nero d’Avola (plutôt en version fraîche, peu boisée)\n\n- Alternatives hors Italie\n  - Côtes-du-Rhône (Grenache/Syrah) non boisé\n  - Beaujolais crus (Morgon, Moulin-à-Vent, Fleurie)\n  - Rioja Crianza (Tempranillo) peu boisé\n  - Dão portugais\n\nSelon la sauce\n- Très tomate et acidulée: Barbera, Chianti “de base”, Beaujolais cru.\n- Ragù plus riche/viandé (peu de tomate, un peu de lait): Chianti Classico Riserva, Rosso di Montalcino, Etna Rosso; éventuellement Langhe Nebbiolo souple.\n- Légèrement pimenté: éviter l’alcool trop élevé et les tanins durs; Dolcetto, Lambrusco secco, Beaujolais.\n\nSi vous voulez blanc ou rosé\n- Blancs italiens avec tenue: Soave Classico, Verdicchio, Gavi, Fiano.\n- Rosé gastronomique: Cerasuolo d’Abruzzo.\n\nRepères de prix et service\n- 8–15 €: Montepulciano d’Abruzzo, Barbera, Côtes-du-Rhône, Chianti, Rioja Crianza.\n- 15–30 €: Chianti Classico, Rosso di Montalcino, Etna Rosso, Morgon.\n- Servir à 15–17 °C; éviter les rouges très boisés ou très alcooleux; une aération 20–30 min aide souvent.\n\nChoix rapide en cave: “Chianti Classico jeune” ou “Barbera d’Alba” – vous êtes rarement à côté de la plaque.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne « tire » pas mes réponses d’une base unique ni d’un site en particulier. Je génère des conseils à partir de modèles statistiques entraînés sur un mélange de données sous licence, de contenus créés par des formateurs humains et d’informations publiquement disponibles. Les accords que je propose s’appuient sur des principes largement enseignés en sommellerie et en cuisine (intensité/équilibre, acidité qui coupe le gras, sucre pour l’épicé, attention à la sauce, etc.).\n\nSi vous cherchez des références à consulter sur les accords mets-vins, voici des sources couramment utilisées dans le milieu:\n- Organisations et cursus: WSET, Court of Master Sommeliers\n- Ouvrages de référence: The Oxford Companion to Wine (J. Robinson), The Wine Bible (K. MacNeil), What to Drink with What You Eat (Dornenburg & Page), The Flavor Bible (Page & Dornenburg), Taste Buds and Molecules (F. Chartier), On Food and Cooking (H. McGee)\n- Références francophones: Guide Hachette des Vins, La Revue du vin de France, ouvrages et guides de Philippe Faure-Brac, Bettane+Desseauve\n\nSi vous voulez des sources précises pour un accord particulier que j’ai suggéré, dites-moi lequel et je vous indiquerai des références ou explications plus ciblées."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": false,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": false
+        },
+        "sources": [
+            "Entraînement sur un mélange de données publiques",
+            "Contenus sous licence",
+            "Exemples rédigés par des formateurs humains",
+            "Principes de sommellerie et de cuisine (intensité, acidité vs gras, tanins vs protéines, sucre vs épices, umami, accords régionaux)",
+            "Cursus WSET (Wine & Spirit Education Trust)",
+            "Cursus Court of Master Sommeliers",
+            "Ouvrages et sites de vulgarisation sur les accords mets-vins",
+            "Littérature gastronomique classique"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Classique et sûr:\n- Sangiovese: Chianti Classico ou Rosso di Montalcino. Acidité pour la tomate, tannins modérés pour la viande, notes de cerise/herbes.\n\nExcellentes alternatives italiennes:\n- Barbera d’Asti/Alba: très fraîche, peu tannique, super avec tomate.\n- Montepulciano d’Abruzzo: plus charnu, fruit noir, bon avec une sauce bien riche.\n- Lambrusco secco (sec): pétillant rouge sec, rafraîchissant et parfait avec le gras.\n\nOptions françaises réussies:\n- Beaujolais (cru type Morgon, Fleurie) sur le fruit.\n- Cabernet Franc de Loire (Chinon, Saumur-Champigny) si vous aimez une touche végétale.\n- Côtes-du-Rhône méridional léger et peu boisé.\n\nSi vous préférez blanc/rosé:\n- Verdicchio, Soave Classico ou Gavi: blancs italiens vifs qui tiennent la tomate.\n- Cerasuolo d’Abruzzo (rosé soutenu) ou un rosé de Provence pas trop léger.\n\nAstuces:\n- Évitez les rouges très boisés ou très alcooleux qui jurent avec l’acidité de la tomate.\n- Beaucoup de parmesan supporte un rouge un peu plus structuré (Chianti Riserva).\n- Températures: rouges 15–17°C; Lambrusco 10–12°C; blancs/rosés 8–10°C.\n\nBudget rapide:\n- 8–15€: Barbera, Montepulciano d’Abruzzo, Chianti de base.\n- 15–25€: Chianti Classico, Rosso di Montalcino, crus de Beaujolais.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne consulte pas une base en direct pour les accords mets-vins. Mes réponses s’appuient sur:\n\n- Mon entraînement: un mélange de données publiques, de contenus sous licence et d’exemples rédigés par des formateurs humains, jusqu’à ma date de connaissance.\n- Des principes largement enseignés en sommellerie et cuisine (intensité, acidité vs gras, tanins vs protéines, sucre vs épices, umami, accords régionaux).\n- Des ressources de référence connues du grand public, par exemple les cursus WSET/Court of Master Sommeliers, des ouvrages et sites de vulgarisation vin/food pairing, et la littérature gastronomique classique. Je ne prétends pas avoir été entraîné spécifiquement sur des sources payantes, mais mes recommandations reflètent ces principes largement diffusés.\n\nSi vous voulez des sources précises pour un accord particulier (ex.: Sancerre et chèvre, curry et riesling demi-sec, steak et cabernet), dites-moi lesquels et je vous fournis des références publiques à consulter."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": true,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET (Systematic Approach to Tasting)",
+            "Court of Master Sommeliers",
+            "The Oxford Companion to Wine (Jancis Robinson)",
+            "The Wine Bible (Karen MacNeil)",
+            "The Flavor Bible (Karen Page & Andrew Dornenburg)",
+            "GuildSomm (articles)",
+            "Institute of Masters of Wine",
+            "Ouvrages de vulgarisation sur les interactions goût/arômes (ex. Barb Stuckey)"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise (ragù tomate + viande), privilégiez des rouges à bonne acidité, tannins modérés et peu de bois. Idées sûres:\n\nItalie (les plus classiques)\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Morellino di Scansano\n- Barbera d’Asti ou d’Alba: très fraîche, parfaite avec la tomate\n- Montepulciano d’Abruzzo: fruité, ample, facile\n- Lambrusco secco (Grasparossa di Castelvetro): léger, pétillant sec, top pour la cuisine d’Émilie-Romagne\n- Nebbiolo (Langhe Nebbiolo): plus structuré, bien si sauce riche et longuement mijotée\n\nAlternatives non italiennes\n- Côtes-du-Rhône/Valréas/Ventoux (Grenache-Syrah): fruit et épices douces\n- Rioja Crianza (Tempranillo): boisé discret, belle acidité\n- Beaujolais crus (Morgon, Moulin-à-Vent): juteux, frais, tanins fins\n- Languedoc/GSM (Grenache-Syrah-Mourvèdre) peu boisé\n\nVariantes et ajustements\n- Sauce très tomate/acidulée: Barbera ou Chianti\n- Sauce plus carnée/long mijotage: Langhe Nebbiolo, Aglianico (plus puissant)\n- Sauce un peu relevée: vins fruités, tanins souples (Montepulciano, Côtes-du-Rhône); évitez l’alcool trop élevé\n\nService\n- Température: 16–18 °C (15–16 °C pour styles plus légers)\n- Évitez les rouges très boisés ou trop tanniques\n- Jeunes vins structurés: carafe 30–60 min\n\nOption rosé audacieuse\n- Cerasuolo d’Abruzzo: rosé soutenu qui tient la viande et la tomate.\n\nSi vous me dites votre budget et ce que vous trouvez chez votre caviste, je peux suggérer des bouteilles précises.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je ne “tiens” pas ces données d’une seule base spécifique. Je suis un modèle d’OpenAI entraîné sur un mélange de contenus publics, de données sous licence et d’exemples rédigés par des formateurs humains. Je n’ai pas d’accès direct à mes sources d’entraînement ni à des bases en temps réel, mais mes conseils s’appuient sur des principes largement admis en sommellerie et en gastronomie.\n\nEn pratique, les règles que j’emploie reflètent des cadres de référence courants, par exemple:\n- Assortir l’intensité/structure du vin au plat (corps, richesse)\n- L’acidité du vin pour « couper » le gras et le sel\n- Le sucre pour équilibrer le piment et les desserts\n- Les tanins avec les protéines (viandes rouges), prudence avec l’amertume/umami\n- Accorder sur la sauce et non seulement sur la protéine\n- “Ce qui pousse ensemble va ensemble” (accords régionaux classiques)\n\nParmi les références typiquement utilisées par les professionnels (à titre indicatif):\n- WSET (Systematic Approach to Tasting), Court of Master Sommeliers\n- The Oxford Companion to Wine (Jancis Robinson)\n- The Wine Bible (Karen MacNeil)\n- The Flavor Bible (Karen Page & Andrew Dornenburg)\n- Articles GuildSomm, Institute of Masters of Wine\n- Ouvrages de vulgarisation sur les interactions goût/arômes (ex. Barb Stuckey)\n\nSi tu veux, je peux te proposer des sources précises pour un point donné (p. ex. tanins vs. protéines, sucre vs. piment) ou te donner des liens vers des articles accessibles."
+    },
+    {
+        "evaluation": {
+            "specialised_press_mention": null,
+            "context": true,
+            "concrete_suggestions": false,
+            "region_suggestion": true,
+            "cepage_suggestion": true,
+            "domain_suggestion": false,
+            "wine_vocabulary": true,
+            "purchase_place": false,
+            "wine_advices": true,
+            "precision_proposal": true
+        },
+        "sources": [
+            "WSET Study Guide (Food & Wine Pairing sections)",
+            "Court of Master Sommeliers – Introductory Sommelier Manual",
+            "Karen MacNeil – The Wine Bible",
+            "Andrew Dornenburg & Karen Page – What to Drink with What You Eat",
+            "Evan Goldstein – Perfect Pairings",
+            "Jancis Robinson – The Oxford Companion to Wine (entrée “Food and wine pairing”)",
+            "Philippe Faure-Brac – Accords Mets & Vins",
+            "La Revue du vin de France – dossiers",
+            "Gault&Millau – dossiers"
+        ],
+        "history": "User: Quel vin va avec des pâtes à la bolognaise ?\nAssistant: Pour des pâtes à la bolognaise (tomate + viande), vise un rouge avec bonne acidité, tanins modérés et peu de bois.\n\nIncontournables italiens\n- Sangiovese: Chianti Classico, Rosso di Montalcino, Vino Nobile di Montepulciano\n- Barbera d’Alba ou d’Asti: fruité, très bonne acidité\n- Montepulciano d’Abruzzo: plus rond, polyvalent\n- Dolcetto d’Alba: souple, gourmand\n- Nero d’Avola (Sicile): si sauce riche et bien mijotée\n\nAlternatives hors d’Italie\n- Côtes‑du‑Rhône (Grenache/Syrah) ou Languedoc (Minervois, Faugères)\n- Bordeaux souple (Bordeaux Supérieur, Castillon) plutôt merlot\n- Rioja Crianza (Tempranillo) pas trop boisé\n- Douro/Alentejo (Portugal) équilibrés\n\nSi tu préfères blanc/rosé\n- Blancs italiens structurés: Verdicchio, Soave Classico, Fiano di Avellino\n- Rosés gastronomiques: Tavel, Bandol rosé\n\nAstuces\n- Plus la sauce est acide/tomatée → privilégie des vins vifs (Barbera, Chianti)\n- Sauce très riche et long mijotage → tu peux monter un peu en structure (Montepulciano, Côtes‑du‑Rhône)\n- Évite les rouges très boisés, très alcooleux ou trop tanniques\n- Service: 16–18 °C; un jeune Chianti gagne à être carafé 20–30 min\n\nRapide repère prix\n- 8–15 €: Montepulciano d’Abruzzo, Barbera d’Asti\n- 15–25 €: Chianti Classico, Côtes‑du‑Rhône villages\n- 25–40 €: Rosso di Montalcino, Rioja Crianza de bonne tenue\n\nSi tu me dis si ta sauce est plutôt acide, douce, ou très riche, je peux te proposer un choix encore plus précis.\nUser: D'où tu tiens ces données sur les accords mets et vins ?\nAssistant: Bonne question. Je n’ai pas une base “propriétaire” d’accords; je génère ces conseils à partir de mon entraînement sur un large corpus (données publiques/sous licence et contenus créés par des formateurs) et de principes de sommellerie largement enseignés. En pratique, je m’appuie sur des règles éprouvées:\n- Intensité du plat ≈ intensité du vin\n- Acidité coupe le gras et aime l’acidité\n- Tanins + protéines/gras; attention aux plats amers/umami\n- Sucré pour le pimenté et les desserts (vin plus sucré que le plat)\n- Accord régional (plats et vins d’une même région)\n\nSi vous souhaitez des références écrites reconnues qui exposent ces principes:\n- WSET Study Guide (Food & Wine Pairing sections)\n- Court of Master Sommeliers – Introductory Sommelier Manual\n- Karen MacNeil – The Wine Bible\n- Andrew Dornenburg & Karen Page – What to Drink with What You Eat\n- Evan Goldstein – Perfect Pairings\n- Jancis Robinson – The Oxford Companion to Wine (entrée “Food and wine pairing”)\n- Philippe Faure-Brac – Accords Mets & Vins; dossiers de La Revue du vin de France / Gault&Millau\n\nSi vous avez un accord précis en tête, dites‑le et je vous donnerai la logique et des sources ciblées."
+    }
+]

@@ -1,0 +1,11 @@
+variable,total,true,false,null,true_%,false_%,null_%
+specialised_press_mention,30,0,0,30,0.0,0.0,100.0
+context,30,29,1,0,96.66666666666667,3.3333333333333335,0.0
+concrete_suggestions,30,1,29,0,3.3333333333333335,96.66666666666667,0.0
+region_suggestion,30,30,0,0,100.0,0.0,0.0
+cepage_suggestion,30,30,0,0,100.0,0.0,0.0
+domain_suggestion,30,1,29,0,3.3333333333333335,96.66666666666667,0.0
+wine_vocabulary,30,30,0,0,100.0,0.0,0.0
+purchase_place,30,1,29,0,3.3333333333333335,96.66666666666667,0.0
+wine_advices,30,30,0,0,100.0,0.0,0.0
+precision_proposal,30,16,14,0,53.333333333333336,46.666666666666664,0.0

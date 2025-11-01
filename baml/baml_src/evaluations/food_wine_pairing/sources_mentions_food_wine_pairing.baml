@@ -5,7 +5,7 @@ class RetrievedSourcesFWPairing {
 }
 
 function RetrieveSourcesFoodWinePairing(history: string, source_retrieval_query: string, response: string) -> RetrievedSourcesFWPairing {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

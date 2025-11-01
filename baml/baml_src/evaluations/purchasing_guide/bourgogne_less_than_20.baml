@@ -11,7 +11,7 @@ class BourgogneLessThan20 {
 }
 
 function EvaluateBourgogneLessThan20(query: string, response: string) -> BourgogneLessThan20 {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

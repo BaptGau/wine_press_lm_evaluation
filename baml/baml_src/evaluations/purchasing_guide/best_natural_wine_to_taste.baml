@@ -11,7 +11,7 @@ class BestNaturalWineToTaste {
 }
 
 function EvaluateBestNaturalWineToTaste(query: string, response: string) -> BestNaturalWineToTaste {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

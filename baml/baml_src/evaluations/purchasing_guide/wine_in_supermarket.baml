@@ -10,7 +10,7 @@ class WineInSupermarket {
 }
 
 function EvaluateWineInSupermarket(query: string, response: string) -> WineInSupermarket {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}

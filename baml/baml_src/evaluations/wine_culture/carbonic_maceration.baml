@@ -8,7 +8,7 @@ class CarbonicMaceration {
 }
 
 function EvaluateCarbonicMaceration(query: string, response: string) -> CarbonicMaceration {
-    client GPT5GreedySampling
+    client GPT5
 
     prompt #"
     {{ _.role("system") }}
